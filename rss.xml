@@ -8,6 +8,19 @@
     <ns0:author>Antigravity AI</ns0:author>
     <ns0:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png"/>
     <item>
+      <title>The AI Breakdown: How Harness-as-a-Service Will Change Agents</title>
+      <description>The AI Breakdown: How Harness-as-a-Service Will Change Agents
+The AI boom is in full effect, fueled not just by increasingly powerful models, but by the rapid emergence of &quot;Harness as a Service,&quot; which is fundamentally changing how AI agents are built and democratizing their access.
+First, Big Tech's latest earnings reports confirm an unprecedented and &quot;unquestionable&quot; AI boom. Google, Amazon, and Microsoft are all seeing massive revenue growth in their cloud AI segments, like Google Cloud's sixty-three percent and Azure's forty percent year-over-year growth, and are committing record capital expenditures to build out AI infrastructure, primarily data centers and custom chips. This financial evidence underscores the true scale of the demand for AI capabilities across industries.
+Second, AI development has evolved through three distinct phases: first focusing on model &quot;weights,&quot; then on &quot;context&quot; like prompt engineering and RAG, and now on &quot;harness engineering.&quot; This current phase emphasizes building a robust, intelligent environment around the AI model, providing persistent memory, reusable skills, execution sandboxes, and more. This &quot;harness&quot; is what transforms a language model into an agent capable of real work, shifting the focus from just making models smarter to making their operating environment more capable.
+Third, the emergence of &quot;Harness as a Service&quot; (HaaS) parallels the shift from hobbyist computing kits to ready-to-use personal computers. Previously, building AI agents, like with Open Claw, required developers to assemble every component. Now, platforms like Cursor's SDK offer pre-built agent loops, tool dispatching, sandboxing, and error handling. This abstraction makes sophisticated AI agent development accessible to a much wider audience, moving beyond just expert developers and drastically increasing the pace of innovation.
+The broader implication is a profound democratization of AI agent development, mirroring the personal computer revolution. With HaaS, the barrier to entry for building powerful, reliable AI applications is dramatically lowered. This will unlock a massive wave of innovation, allowing individuals and businesses, including non-developers, to create custom agents tailored to specific tasks. This shift will accelerate AI adoption beyond traditional tech sectors, drive new forms of productivity, and fundamentally change how we interact with software, leading to an entirely new universe of agentic apps.
+This shift is so profound that a new report from Endor Labs testing coding agents concluded, &quot;Same model, same week, two harnesses, two different functional results.&quot;</description>
+      <pubDate>Thu, 07 May 2026 14:36:11 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778164571.mp3" length="1982637" type="audio/mpeg"/>
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778164571.mp3</guid>
+    </item>
+    <item>
       <title>コムギコ: 令和メガネ合戦：JINSとZoffって何が違うの？ #コムギコ #77</title>
       <description>コムギコ: 令和メガネ合戦：JINSとZoffって何が違うの？ #コムギコ #77
 日本のメガネ業界は低価格SPAモデルの台頭とARグラスという未来技術の進化によって、グローバル、国内総合、専門性という3つの明確な軸で再編され、各ブランドが独自の戦略で激しい競争と共存を模索しています。
