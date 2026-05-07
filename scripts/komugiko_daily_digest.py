@@ -135,7 +135,10 @@ def main():
     display_title = f"コムギコ: {title}"
     full_text_for_feed = f"**{display_title}**\n\n" + summary_text
     
-    wav_bytes = generate_audio(client, summary_text)
+    import datetime
+    date_str = datetime.datetime.now().strftime("%Y年%-m月%-d日")
+    spoken_text = f"これは「コムギコ、資本主義をハックしろ」。{date_str}のエピソードです。" + summary_text.replace("**", "")
+    wav_bytes = generate_audio(client, spoken_text)
     if not wav_bytes:
         print("Failed to generate audio bytes.")
         return

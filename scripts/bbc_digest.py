@@ -70,8 +70,10 @@ Here is the raw news feed. YOU MUST NOT DEVIATE FROM THIS:
 
 def generate_audio(client, text_summary):
     print("Generating audio with Gemini TTS (Charon voice)...")
+    import datetime
     # Add a brief intro for the audio version
-    spoken_text = "Here is your comprehensive Antigravity Daily Digest from BBC World News. " + text_summary.replace("**", "")
+    date_str = datetime.datetime.now().strftime("%B %-d, %Y")
+    spoken_text = f"This is BBC World News. Episode of {date_str}. " + text_summary.replace("**", "")
     
     response = client.models.generate_content(
         model='gemini-2.5-flash-preview-tts',

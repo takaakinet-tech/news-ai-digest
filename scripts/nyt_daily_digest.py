@@ -135,7 +135,10 @@ def main():
     display_title = f"NYT The Daily: {title}"
     full_text_for_feed = f"**{display_title}**\n\n" + summary_text
     
-    wav_bytes = generate_audio(client, summary_text)
+    import datetime
+    date_str = datetime.datetime.now().strftime("%B %-d, %Y")
+    spoken_text = f"This is New York Times, The Daily. Episode of {date_str}. " + summary_text.replace("**", "")
+    wav_bytes = generate_audio(client, spoken_text)
     if not wav_bytes:
         print("Failed to generate audio bytes.")
         return
