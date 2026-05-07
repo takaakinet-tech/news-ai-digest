@@ -1,0 +1,53 @@
+name: Daily AI Podcast Digest
+
+on:
+  schedule:
+    # 毎日 日本時間 朝7:00 (UTC 22:00) : BBC News
+    - cron: '0 22 * * *'
+    # 毎日 日本時間 朝8:00 (UTC 23:00) : NYT The Daily
+    - cron: '0 23 * * *'
+    # 毎日 日本時間 朝9:00 (UTC 0:00) : コムギコ
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install google-genai feedparser python-dotenv
+          sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Run BBC Digest (7:00 AM JST)
+        if: github.event.schedule == '0 22 * * *' || github.event_name == 'workflow_dispatch'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/bbc_digest.py || echo "BBC failed"
+
+      - name: Run NYT Digest (8:00 AM JST)
+        if: github.event.schedule == '0 23 * * *' || github.event_name == 'workflow_dispatch'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/nyt_daily_digest.py || echo "NYT failed"
+
+      - name: Run Komugiko Digest (9:00 AM JST)
+        if: github.event.schedule == '0 0 * * *' || github.event_name == 'workflow_dispatch'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/komugiko_daily_digest.py || echo "Komugiko failed"
