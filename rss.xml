@@ -1,12 +1,19 @@
 <?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>News AI Digest</title>
     <link>https://takaakinet-tech.github.io/news-ai-digest</link>
     <description>Ultra-fast, AI-summarized global news updates.</description>
     <language>en-us</language>
-    <itunes:author>Antigravity AI</itunes:author>
-    <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png"/>
+    <ns0:author>Antigravity AI</ns0:author>
+    <ns0:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png"/>
+    <item>
+      <title>TEST: New Episode Format</title>
+      <description>Testing the final MP3 formatting for Apple Podcasts.</description>
+      <pubDate>Thu, 07 May 2026 10:36:40 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778150200.mp3" length="2711469" type="audio/mpeg"/>
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778150200.mp3</guid>
+    </item>
     <item>
       <title>Couples looking for surrogates still going to Ukraine</title>
       <description>BBC World News Digest — Thursday, May 07, 2026 at 07:19 PM
