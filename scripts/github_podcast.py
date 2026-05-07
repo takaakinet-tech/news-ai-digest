@@ -78,5 +78,5 @@ def publish_episode(podcast_title, text_summary, mp3_bytes):
     subprocess.run(["git", "config", "--global", "user.email", "github-actions[bot]@users.noreply.github.com"], cwd=REPO_DIR)
     subprocess.run(["git", "add", "."], cwd=REPO_DIR)
     subprocess.run(["git", "commit", "-m", f"Add episode: {podcast_title}"], cwd=REPO_DIR)
-    subprocess.run(["git", "push"], cwd=REPO_DIR)
+    subprocess.run(["git", "push", "origin", "HEAD:main"], cwd=REPO_DIR)
     print(f"Published to GitHub Actions! URL: {audio_url}")
