@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>News AI Digest</title>
@@ -5,10 +6,23 @@
     <description>Ultra-fast, AI-summarized global news updates.</description>
     <language>en-us</language>
     <ns0:author>Antigravity AI</ns0:author>
-    <ns0:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
+    <ns0:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png"/>
+    <item>
+      <title>NYT The Daily: What the End of Spirit Airlines Means for the Future of Flying</title>
+      <description>NYT The Daily: What the End of Spirit Airlines Means for the Future of Flying
+Spirit Airlines, a revolutionary ultra-low-cost carrier that democratized air travel, ultimately collapsed due to a confluence of external pressures and the unforgiving nature of its business model, leaving a void for budget-conscious travelers.
+First, Spirit's innovative business model transformed air travel. It started by unbundling nearly everything, from seat assignments and water to printed boarding passes, allowing it to offer incredibly cheap fares. This &quot;Spirit effect&quot; not only made travel accessible to millions who couldn't otherwise afford it, fostering a strong sense of community and pride among its employees and customers, but it also forced other airlines to lower their prices.
+Second, a series of mounting pressures began to dismantle this model. Bigger airlines responded by introducing their own basic economy fares, offering similar low prices but with the added benefits of their larger networks. Crucially, Spirit's primary costs, labor and fuel, surged dramatically. Post-pandemic pilot shortages led to higher salaries, and the recent Iran war caused fuel prices to skyrocket. These combined pressures eroded Spirit's fundamental competitive edge.
+Third, attempts to merge and secure government aid failed. Spirit sought to merge with Frontier Airlines, and later JetBlue, to build a stronger low-cost contender. However, the Department of Justice blocked these mergers, arguing they would harm consumers by reducing competition and inevitably leading to higher fares. Despite a proposed $500 million government lifeline under the Trump administration, Spirit's existing lenders couldn't agree on terms, ultimately leading to multiple bankruptcies and the airline's abrupt shutdown.
+The demise of Spirit Airlines marks a significant turning point for the future of air travel. It signals a potential rollback of the ultra-low-cost model, likely leading to rising airfares across the industry, particularly for budget travelers. Major airlines are increasingly focusing on high-profit premium travelers, investing in luxuries and amenities, which further widens the gap between accessible, affordable travel and exclusive, expensive experiences. This trend suggests a retreat from the democratized air travel that Spirit championed.
+As one former Spirit flight attendant poignantly shared &quot;It gets into your, it gets into your bones, aviation. And I just, there's, there's truly like thinking back on it and I'm like, there isn't anything else that I want to do.&quot;</description>
+      <pubDate>Thu, 07 May 2026 11:18:31 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778152711.mp3" length="1870125" type="audio/mpeg"/>
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778152711.mp3</guid>
+    </item>
     <item>
       <title>BBC World News Digest: Couples looking for surrogates still going to Ukraine</title>
-      <description>BBC World News Digest &#8212; Thursday, May 07, 2026 at 07:47 PM
+      <description>BBC World News Digest — Thursday, May 07, 2026 at 07:47 PM
 Podcast Episode: Couples looking for surrogates still going to Ukraine
 1.  Iran considering US proposal as Trump says war will be 'over quickly': Mediator Pakistan confirms Iran is considering a US proposal to end the ongoing conflict, which Trump claims will be swift.
 2.  Islamic State-linked women arrive home in Australia from Syria: A group of nine women and children linked to Islamic State has arrived in Australia from Syria.
@@ -17,7 +31,7 @@ Podcast Episode: Couples looking for surrogates still going to Ukraine
 5.  DR Congo president hints at extending his term and delaying polls: DR Congo President Tshisekedi has indicated he might seek a third term and delay polls, despite being due to step down in 2028.
 6.  Massive Alaska megatsunami was second largest ever recorded: New research indicates glacier melt, driven by climate change, is increasing the risk of record-setting megatsunamis.
 7.  To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city: Civilians in the Ukrainian city of Oleshky report being cut off from essential supplies for months due to ongoing conflict.
-8.  Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten: Ukraine's president states Russia "spurned the ceasefire" by attacking a kindergarten, prompting Kyiv to consider further action.
+8.  Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten: Ukraine's president states Russia &quot;spurned the ceasefire&quot; by attacking a kindergarten, prompting Kyiv to consider further action.
 9.  Trump's hopes for an Iran peace deal come with caveats: Signs of fresh momentum for an Iran peace deal are tempered by President Trump's own cautions.
 10. China calls for Strait to be reopened 'as soon as possible' in Iran talks: During talks with Iran's foreign minister, China urges the swift reopening of the Strait of Hormuz.
 11. BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon: Ten minutes of Israeli bombing on 8 April 2026 caused widespread chaos and destruction across Lebanon.
@@ -28,7 +42,7 @@ Podcast Episode: Couples looking for surrogates still going to Ukraine
 16. Robot wars - what an operation in Ukraine tells us about the battlefield of the near future: Ukraine's President Zelensky claims territory was captured using only robots and drones, highlighting the future of unmanned warfare.
 17. Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war: An expert warns that the US and Iran's mutual pressure in the Strait of Hormuz jeopardizes the fragile Gulf ceasefire, risking all-out war.</description>
       <pubDate>Thu, 07 May 2026 10:48:49 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778150929.mp3" length="2418093" type="audio/mpeg" />
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778150929.mp3" length="2418093" type="audio/mpeg"/>
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778150929.mp3</guid>
     </item>
   </channel>
