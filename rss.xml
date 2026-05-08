@@ -8,6 +8,14 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png"/>
     <item>
+      <title>Test Episode</title>
+      <itunes:title>Test Episode</itunes:title>
+      <description>This is a test.</description>
+      <pubDate>Fri, 08 May 2026 00:10:01 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778199001.mp3" length="5" type="audio/mpeg"/>
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778199001.mp3</guid>
+    </item>
+    <item>
       <title>コムギコ: VTuberとラジオは似てる？ 世界一やさしい「VTuberビジネス」入門 #コムギコ #76</title>
       <description>コムギコ: VTuberとラジオは似てる？ 世界一やさしい「VTuberビジネス」入門 #コムギコ #76
 ポッドキャスト音声の深い分析に基づいたブリーフィングです。

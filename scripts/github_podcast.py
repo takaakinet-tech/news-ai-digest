@@ -10,6 +10,9 @@ EPISODES_DIR = os.path.join(REPO_DIR, "episodes")
 RSS_FILE = os.path.join(REPO_DIR, "rss.xml")
 BASE_URL = "https://takaakinet-tech.github.io/news-ai-digest"
 
+ET.register_namespace('itunes', 'http://www.itunes.com/dtds/podcast-1.0.dtd')
+
+
 def init_rss():
     rss = ET.Element("rss", version="2.0", attrib={"xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"})
     channel = ET.SubElement(rss, "channel")
