@@ -10,6 +10,8 @@ EPISODES_DIR = os.path.join(REPO_DIR, "episodes")
 RSS_FILE = os.path.join(REPO_DIR, "rss.xml")
 BASE_URL = "https://takaakinet-tech.github.io/news-ai-digest"
 
+ET.register_namespace('itunes', 'http://www.itunes.com/dtds/podcast-1.0.dtd')
+
 def init_rss():
     rss = ET.Element("rss", version="2.0", attrib={"xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"})
     channel = ET.SubElement(rss, "channel")
@@ -68,8 +70,9 @@ def publish_episode(podcast_title, text_summary, mp3_bytes):
         for old_item in items[50:]:
             channel.remove(old_item)
             
-    xmlstr = minidom.parseString(ET.tostring(rss)).toprettyxml(indent="  ")
-    xmlstr = '\n'.join([line for line in xmlstr.split('\n') if line.strip()])
+    if hasattr(ET, "indent"):
+        ET.indent(rss, space="  ")
+    xmlstr = ET.tostring(rss, encoding="unicode", xml_declaration=True)
     
     with open(RSS_FILE, "w") as f:
         f.write(xmlstr)
