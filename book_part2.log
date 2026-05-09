@@ -16,3 +16,8 @@
  create mode 100644 scripts/book_to_podcast_part2.py
 To https://github.com/takaakinet-tech/news-ai-digest.git
    438f525..42718b7  HEAD -> main
+[main a335e85] Add episode: Genius Makers: Chapter 4: BREAKTHROUGH
+ 3 files changed, 36 insertions(+)
+ create mode 100644 episodes/episode_1778325289.mp3
+To https://github.com/takaakinet-tech/news-ai-digest.git
+   42718b7..a335e85  HEAD -> main
