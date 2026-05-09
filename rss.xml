@@ -8,6 +8,30 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>Genius Makers: Chapter 2: PROMISE</title>
+      <itunes:title>Genius Makers: Chapter 2: PROMISE</itunes:title>
+      <description>Genius Makers: Chapter 2: PROMISE
+
+The Core Thesis:
+This chapter chronicles the pivotal resurgence of neural networks, demonstrating how a dismissed academic concept was painstakingly revived through foundational algorithmic insights and persistent belief, laying the groundwork for real-world artificial intelligence applications despite widespread skepticism.
+
+The 3 Key Insights:
+First, a critical juncture was marked by Marvin Minsky's dismissal of Geoff Hinton's Boltzmann Machine, reflecting the deep academic prejudice against neural networks in the mid-1980s. This skepticism, rooted in Minsky and Papert's earlier work, had largely relegated the field to the "neural network underground."
+
+Second, the fundamental breakthrough in making multi-layered neural networks viable came from David Rumelhart's ingenious suggestion to initialize network weights randomly. This elegant solution bypassed the symmetry problem that had plagued earlier models like the Perceptron, enabling the backpropagation algorithm to effectively train complex networks for the first time.
+
+Third, the chapter highlights the transformative leap from theory to practical application with Dean Pomerleau's ALVINN project. By applying backpropagation, his self-driving truck learned to navigate roads autonomously, demonstrating that neural networks could achieve tasks previously deemed impossible and foreshadowing their disruptive potential in various industries.
+
+The So What?:
+This period was crucial for AI, as it marked the transition of neural networks from theoretical abstraction to a proven, albeit nascent, technology. The tenacity of researchers like Hinton, working against the prevailing "AI winter," enabled the core ideas to mature. This revival not only showcased the power of perseverance in scientific endeavor but also set the stage for deep learning to become a dominant force in technology, despite early limitations and the ethical considerations that would later emerge concerning its application and funding sources.
+
+The Golden Quote:
+Hinton liked to say that "old ideas are new."</description>
+      <pubDate>Sat, 09 May 2026 10:39:50 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778323190.mp3" length="1484589" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778323190.mp3</guid>
+    </item>
+    <item>
       <title>Genius Makers: Chapter 1: GENESIS</title>
       <itunes:title>Genius Makers: Chapter 1: GENESIS</itunes:title>
       <description>Genius Makers: Chapter 1: GENESIS
