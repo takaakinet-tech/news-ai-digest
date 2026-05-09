@@ -8,6 +8,30 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>Genius Makers: Chapter 15: BIGOTRY</title>
+      <itunes:title>Genius Makers: Chapter 15: BIGOTRY</itunes:title>
+      <description>Genius Makers: Chapter 15: BIGOTRY
+
+Core Thesis:
+Chapter 15, BIGOTRY, reveals that pervasive biases in Artificial Intelligence systems, particularly in facial recognition and content moderation, stem from the inherent prejudices within their training data and the lack of diversity among their developers. These biases lead to real-world harm, underscoring the critical need for ethical consideration and inclusive design in AI development.
+
+The 3 Key Insights:
+First, the Google Photos "gorilla" incident publicly exposed a glaring racial bias when an African-American user's friends were mislabeled. This event served as a stark demonstration that AI, if trained on unrepresentative data, will replicate and amplify existing societal prejudices, prompting Google to remove the problematic tag.
+
+Second, Deborah Raji's research at Clarifai meticulously documented significant gender and racial biases in commercial facial recognition and content moderation tools. Her findings showed that these systems misidentified the gender of darker-skinned women at significantly higher rates and, due to biased image selection, could even associate black individuals with pornography.
+
+Third, the chapter highlights the AI community's "sea of dudes" problem, as voiced by Timnit Gebru and Joy Buolamwini. The overwhelming homogeneity of AI researchers, predominantly white men, was identified as a core reason why systemic biases in data and algorithms went unrecognized and unaddressed, sparking a broader movement for diversity and ethical AI.
+
+The So What?:
+The profound implication is that AI is not a neutral tool but a reflection of its origins, inheriting and propagating human biases through its training. This realization moved the discussion from purely technical advancements to urgent ethical and social justice concerns. It compelled the tech industry to confront its responsibility in creating equitable AI, demonstrating that achieving truly beneficial artificial intelligence necessitates intentional efforts to ensure diverse development teams, unbiased data, and robust ethical frameworks.
+
+The Golden Quote:
+"Google Photos, y'all fucked up. My friend is not a gorilla."</description>
+      <pubDate>Sat, 09 May 2026 11:36:48 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778326608.mp3" length="1724589" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778326608.mp3</guid>
+    </item>
+    <item>
       <title>Genius Makers: Chapter 14: HUBRIS</title>
       <itunes:title>Genius Makers: Chapter 14: HUBRIS</itunes:title>
       <description>Genius Makers: Chapter 14: HUBRIS
@@ -966,19 +990,6 @@ He told people, this guy will keep us out of the next Iraq. Specifically will ke
       <pubDate>Thu, 07 May 2026 11:31:54 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778153514.mp3" length="2201901" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778153514.mp3</guid>
-    </item>
-    <item>
-      <title>NYT The Daily: Hegseth in the Hot Seat</title>
-      <description>NYT The Daily: Hegseth in the Hot Seat
-This week's congressional hearing for Defense Secretary Pete Hegseth was far more than a routine budget review. It became a sharp ideological confrontation, exposing deep divisions over the Iran war, Hegseth's combative leadership, and his approach to dissent.
-First, ostensibly a budget hearing, it was the first opportunity in a year for Hegseth to face Congress, allowing Democrats to press him on a wide range of controversies, from the ongoing war in Iran to his overall management style at the Pentagon.
-Second, a central point of contention was the legality of the Iran conflict, particularly in light of an upcoming 60-day congressional deadline to authorize the war or withdraw forces. Hegseth controversially argued that a "ceasefire" with Iran nullified this legal requirement, a claim that stunned many lawmakers.
-Third, Democrats consistently challenged Hegseth's combative and dismissive approach to criticism, highlighting his pattern of labeling opponents, including members of Congress, as "reckless naysayers and defeatists." This was epitomized by his use of the term "Pharisees" to describe critics, underscoring his unwillingness to engage with dissenting viewpoints.
-This hearing reveals a profound ideological rift within the government and a worrying trend towards demonizing critics within the Trump administration. It highlights concerns about the administration's casual attitude towards congressional oversight and its potential to undermine traditional democratic checks and balances, particularly regarding military engagement and transparency. The implications extend to the future of civil-military relations and the health of open debate within American governance.
-Ultimately, as the New York Times reporter Eric Schmitt observed, Hegseth clearly operates from a philosophy of "either with us or you're against us. There's no gray area in the middle here where it's we can agree to disagree on these kind of issues."</description>
-      <pubDate>Thu, 07 May 2026 11:28:06 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778153286.mp3" length="1393965" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778153286.mp3</guid>
     </item>
   </channel>
 </rss>
