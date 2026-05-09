@@ -33,3 +33,9 @@ remote: warning: File temp_dl.mp3 is 67.69 MB; this is larger than GitHub's reco
 remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
 To https://github.com/takaakinet-tech/news-ai-digest.git
    44e4843..4e491d5  HEAD -> main
+[main 24ec2a3] Add episode: Genius Makers: Chapter 20: RELIGION
+ 5 files changed, 49 insertions(+), 26 deletions(-)
+ create mode 100644 episodes/episode_1778341638.mp3
+ create mode 100644 episodes/episode_1778341735.mp3
+To https://github.com/takaakinet-tech/news-ai-digest.git
+   4e491d5..24ec2a3  HEAD -> main
