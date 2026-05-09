@@ -167,14 +167,14 @@ def main():
         print("FFmpeg failed!")
         return
         
-    print(f"Publishing episode '{display_title}' to GitHub Pages podcast feed...")
-    github_podcast.publish_episode(display_title, full_text_for_feed, mp3_bytes)
-    
     # Update state file
     if current_guid:
         with open(state_file, "w") as f:
             f.write(current_guid)
             
+    print(f"Publishing episode '{display_title}' to GitHub Pages podcast feed...")
+    github_podcast.publish_episode(display_title, full_text_for_feed, mp3_bytes)
+    
     print("Done!")
 
 if __name__ == "__main__":

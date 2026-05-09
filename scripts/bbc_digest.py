@@ -165,15 +165,15 @@ def main():
 
     # Send to discord
     # (Discord integration has been removed as per user request)
-    # Publish to GitHub Podcast feed
-    print("Publishing episode to GitHub Pages podcast feed...")
-    display_title = f"BBC World News Digest: {podcast_title}"
-    github_podcast.publish_episode(display_title, text_summary, mp3_bytes)
-    
     # Save the new guid so we don't process it again
     if current_guid:
         with open(state_file, "w") as f:
             f.write(current_guid)
+            
+    # Publish to GitHub Podcast feed
+    print("Publishing episode to GitHub Pages podcast feed...")
+    display_title = f"BBC World News Digest: {podcast_title}"
+    github_podcast.publish_episode(display_title, text_summary, mp3_bytes)
             
 if __name__ == "__main__":
     main()
