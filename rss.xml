@@ -8,6 +8,30 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>Genius Makers: Chapter 3: REJECTION</title>
+      <itunes:title>Genius Makers: Chapter 3: REJECTION</itunes:title>
+      <description>Genius Makers: Chapter 3: REJECTION
+
+The Core Thesis:
+Chapter Three, titled "Rejection," underscores that despite groundbreaking early work and a foundational understanding of neural networks, the field endured decades of profound skepticism, severe underfunding, and academic dismissal. This prolonged period of obscurity was largely fueled by exaggerated early promises and a powerful counter-narrative, forcing a dedicated few to keep these ideas alive until their eventual, inevitable re-emergence.
+
+The 3 Key Insights:
+First, the initial promise and subsequent "AI winter" for neural networks. Pioneers like Frank Rosenblatt demonstrated early systems such as the Perceptron capable of basic pattern recognition. However, influential critiques, notably Marvin Minsky's book "Perceptrons," led to widespread academic rejection and a significant decline in funding, compelling researchers to mask their work under different names.
+
+Second, the stubborn persistence of a small, unconventional community. Despite mainstream academic and industry dismissal, figures like Geoff Hinton and Yann LeCun, often working on the fringes in places like Toronto and Bell Labs, relentlessly refined neural network concepts. Their efforts included developing foundational techniques like backpropagation and Long Short-Term Memory, even as their ideas were largely ignored or actively derided.
+
+Third, the pivotal rebranding of "deep learning" and the slow, begrudging acknowledgment of past skepticism. Hinton's strategic coining of "deep learning" helped to revitalize and reframe the field. This period also saw researchers like Terry Sejnowski directly confront historical detractors such as Minsky, signifying a critical shift from academic obscurity to a renewed, though initially fragile, optimism about the technology's transformative potential.
+
+The So What?:
+This extensive period of rejection and the unwavering dedication of these "mavericks" illustrate that truly transformative scientific and technological concepts often face immense skepticism and require extraordinary resilience to gain acceptance. This chapter reveals that the sophisticated AI we see today was once considered a "crazy idea" that was functionally dead, held back more by a lack of computational power and academic consensus than by inherent flaws. It profoundly emphasizes the critical role of intellectual tenacity and highlights the cyclical nature of scientific progress, demonstrating how once-discarded ideas, when equipped with new tools and persistent belief, can dramatically reshape the future.
+
+The Golden Quote:
+"If it's a good idea, you keep trying for twenty years. If it's a good idea, you keep trying it until it works. It doesn't stop being a good idea because it doesn't work the first time you try it."</description>
+      <pubDate>Sat, 09 May 2026 10:42:17 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778323337.mp3" length="2231469" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778323337.mp3</guid>
+    </item>
+    <item>
       <title>Genius Makers: Chapter 2: PROMISE</title>
       <itunes:title>Genius Makers: Chapter 2: PROMISE</itunes:title>
       <description>Genius Makers: Chapter 2: PROMISE
