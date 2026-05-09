@@ -4,3 +4,86 @@
   warnings.warn(eol_message.format("3.9"), FutureWarning)
 /Users/takaakimiyaguchi/Library/Python/3.9/lib/python/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
   warnings.warn(eol_message.format("3.9"), FutureWarning)
+
+--- Backfilling: Hard Fork ---
+Processing: Tim Cook’s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT
+Downloading from https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/ac282ff8-0da8-48ed-89ae-04b1c46acf10/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=ac282ff8-0da8-48ed-89ae-04b1c46acf10&feed=l2i9YnTd
+Uploading Hard Fork audio to Gemini...
+Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341305.mp3
+Saved episode: New York Times Hard Fork: Tim Cook’s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT
+Processing: OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM
+Downloading from https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/f3aaf1b4-9b7f-4c31-8c88-3d2e64568115/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=f3aaf1b4-9b7f-4c31-8c88-3d2e64568115&feed=l2i9YnTd
+Uploading Hard Fork audio to Gemini...
+Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341493.mp3
+Saved episode: New York Times Hard Fork: OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM
+Processing: Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School
+Downloading from https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/5b3e7cfd-6ad9-4a65-ba6d-bb467ca03293/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=5b3e7cfd-6ad9-4a65-ba6d-bb467ca03293&feed=l2i9YnTd
+Uploading Hard Fork audio to Gemini...
+Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341638.mp3
+Saved episode: New York Times Hard Fork: Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School
+
+--- Backfilling: The Intelligence ---
+Processing: On the off chancellor: Friedrich Merz, one year in
+Downloading from https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/69fb1570a3c5770dc9afe493/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=4mFMn6mPuRpkJ887CNVPgjrlAzVIX9HdeCYGI-JLxDI
+Uploading The Intelligence audio to Gemini...
+Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341745.mp3
+Saved episode: The Economist The Intelligence: On the off chancellor: Friedrich Merz, one year in
+Processing: A hatred normalised: antisemitism in Britain
+Downloading from https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/69fc6417727202335908cc9b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=2I3vTgnBEguA_rGPOHIm5cQRyKHmbdv1miNQg6HJVLs
+Uploading The Intelligence audio to Gemini...
+Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341821.mp3
+Saved episode: The Economist The Intelligence: A hatred normalised: antisemitism in Britain
+Processing: Drone team: Russia’s plan to arm Iran
+Downloading from https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/69fd9e0b2ba0ef2ccacd1175/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=3uFRYWUcT7lAF-rJyylMDmXN0z82ffoarsBFOJsNn2U
+Uploading The Intelligence audio to Gemini...
+Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341941.mp3
+Saved episode: The Economist The Intelligence: Drone team: Russia’s plan to arm Iran
+
+--- Backfilling: The Journal ---
+Processing: 'Eject! Eject! Eject!' Inside the Private Credit Panic
+Downloading from https://pdst.fm/e/traffic.megaphone.fm/WSJ2316741311.mp3?updated=1778099435
+Uploading The Journal audio to Gemini...
+Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778342017.mp3
+Saved episode: Wall Street Journal The Journal: 'Eject! Eject! Eject!' Inside the Private Credit Panic
+Processing: A Data Center Revolt in Missouri
+Downloading from https://pdst.fm/e/traffic.megaphone.fm/WSJ2589825281.mp3?updated=1778192948
+Uploading The Journal audio to Gemini...
+Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778342106.mp3
+Saved episode: Wall Street Journal The Journal: A Data Center Revolt in Missouri
+Processing: Can GameStop Really Buy eBay?
+Downloading from https://pdst.fm/e/traffic.megaphone.fm/WSJ2211814165.mp3?updated=1778273526
+Uploading The Journal audio to Gemini...
+Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778342193.mp3
+Saved episode: Wall Street Journal The Journal: Can GameStop Really Buy eBay?
+
+--- Backfilling: FT News Briefing ---
+Processing: LVMH looks to shrink its luxury empire
+Downloading from https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/69fbb53aa3c5770dc9ed5403/media.mp3
+Uploading FT News Briefing audio to Gemini...
+Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778342280.mp3
+Saved episode: Financial Times FT News Briefing: LVMH looks to shrink its luxury empire
+Processing: GameStop’s wild bid for eBay
+Downloading from https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/69fd059a2b71c054a372ebc8/media.mp3
+Uploading FT News Briefing audio to Gemini...
+Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778342347.mp3
+Saved episode: Financial Times FT News Briefing: GameStop’s wild bid for eBay
+Processing: Political Fix Election special: snap analysis
+Downloading from https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/69fe371a28bc864b8b36be99/media.mp3
+Uploading FT News Briefing audio to Gemini...
+Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778342436.mp3
+Saved episode: Financial Times FT News Briefing: Political Fix Election special: snap analysis
+
+--- Backfilling: The Big Take ---
+Processing: NASA Administrator on Aliens, SpaceX IPO and Beating China to the Moon
+Downloading from https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/8d103287-f318-46b1-9f3b-b442013fa9f7/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
+Uploading The Big Take audio to Gemini...
+Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778342517.mp3
+Saved episode: Bloomberg The Big Take: NASA Administrator on Aliens, SpaceX IPO and Beating China to the Moon
+Processing: Boston Fed President Collins on FOMC Dissent and Kevin Warsh’s Nomination
+Downloading from https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/bf8f0fb5-cb21-468c-bb58-b4430154210c/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
+Uploading The Big Take audio to Gemini...
+Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778342612.mp3
+Saved episode: Bloomberg The Big Take: Boston Fed President Collins on FOMC Dissent and Kevin Warsh’s Nomination
+Processing: Trump Is Losing the ‘MAHA Moms’
+Downloading from https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/0cdc9ba1-c6d4-4970-bed8-b4440153bf15/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
+Uploading The Big Take audio to Gemini...

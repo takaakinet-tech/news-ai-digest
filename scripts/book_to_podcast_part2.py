@@ -63,13 +63,13 @@ Limit to a maximum of 20 major sections.
         print(f"\n--- Generating script for {ch_title} ---")
         
         prompt_script = f"""
-You are an elite audio briefing announcer. Summarize "{ch_title}" from the provided book ("Genius Makers").
-Create a highly condensed, intellectually dense 3-4 minute briefing script in English.
-Do NOT simply provide a chronological summary. Structure the script logically into 4 sections:
+You are an elite audio briefing announcer and master storyteller. Summarize "{ch_title}" from the provided book.
+Create an engaging 3-4 minute briefing script in English that balances intellectual density with deep human emotion.
+Do NOT simply provide a dry chronological summary. Structure the script logically into 4 sections:
 1. **The Core Thesis:** State the absolute core point of this chapter.
 2. **The 3 Key Insights:** Extract the three most critical insights or events from this chapter. Use transitional words like "First,", "Second,", and "Third,".
-3. **The "So What?":** Explain the broader implications.
-4. **The Golden Quote:** Conclude with exactly one highly memorable quote or anecdote from this chapter.
+3. **The "Made to Stick" Drama:** Dedicate a significant portion of the script to a deeply human episode, an emotional rollercoaster (sorrow, shock, triumph) experienced by the characters, or a highly surprising fact. This section MUST be vivid and highly memorable, focusing on the intense human drama or the most shocking elements behind the facts.
+4. **The "So What?":** Conclude by explaining the broader implications of this chapter.
 
 Output the script ONLY in English and ONLY in "Scale Markdown" format (plain text, no markdown symbols like # or *). Ensure it reads naturally for an English TTS engine.
 """
@@ -116,7 +116,7 @@ Output the script ONLY in English and ONLY in "Scale Markdown" format (plain tex
         print("Compressing MP3...")
         subprocess.run([
             "ffmpeg", "-y", "-f", "s16le", "-ar", "24000", "-ac", "1", 
-            "-i", wav_filename, "-filter:a", "atempo=1.25", "-b:a", "128k", mp3_filename
+            "-i", wav_filename, "-b:a", "128k", mp3_filename
         ], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         
         with open(mp3_filename, "rb") as f:
@@ -125,7 +125,7 @@ Output the script ONLY in English and ONLY in "Scale Markdown" format (plain tex
         os.remove(wav_filename)
         os.remove(mp3_filename)
         
-        display_title = f"Genius Makers: {ch_title}"
+        display_title = f"{os.path.basename(pdf_path).replace('.pdf', '')}: {ch_title}"
         full_text_for_feed = f"**{display_title}**\n\n" + script_text
         
         print(f"Publishing {display_title} to Podcast Feed...")
