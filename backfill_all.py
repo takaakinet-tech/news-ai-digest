@@ -1,4 +1,5 @@
 import os
+import sys
 import time
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -6,6 +7,7 @@ import subprocess
 from google import genai
 from google.genai import types
 
+sys.path.append("scripts")
 import github_podcast
 from dotenv import load_dotenv
 
@@ -143,7 +145,8 @@ for p in PODCASTS:
                 
             os.remove(wav_filename)
             os.remove(mp3_filename)
-            os.remove(local_audio)
+            if os.path.exists(local_audio):
+                os.remove(local_audio)
             
             github_podcast.publish_episode(display_title, full_text_for_feed, mp3_bytes)
             print(f"Saved episode: {display_title}")
@@ -153,6 +156,7 @@ for p in PODCASTS:
 
 # Now actually commit and push everything once at the end!
 print("Pushing to GitHub...")
+original_run = subprocess.run  # restore
 original_run(["git", "add", "."])
 original_run(["git", "commit", "-m", "Backfill 3 past episodes for all 9 new podcasts"])
 original_run(["git", "push"])

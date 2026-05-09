@@ -4,7 +4,43 @@
   warnings.warn(
 /Users/takaakimiyaguchi/Library/Python/3.9/lib/python/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
   warnings.warn(eol_message.format("3.9"), FutureWarning)
-Traceback (most recent call last):
-  File "/Users/takaakimiyaguchi/Library/CloudStorage/Dropbox/My Document/AI related/Antigravity/.agents/skills/antigravity_feed/news-ai-digest/backfill_all.py", line 9, in <module>
-    import github_podcast
-ModuleNotFoundError: No module named 'github_podcast'
+
+--- Backfilling: The AI Breakdown ---
+Processing: Who Cares About Consumer AI
+Uploading The AI Breakdown to Gemini...
+Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778324772.mp3
+Saved episode: The AI Breakdown: Who Cares About Consumer AI
+Processing: Surprise Elon Anthropic Team Up Reshapes the AI Race
+Uploading The AI Breakdown to Gemini...
+Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778324870.mp3
+Saved episode: The AI Breakdown: Surprise Elon Anthropic Team Up Reshapes the AI Race
+Processing: The Week the AI Story Shifted
+Uploading The AI Breakdown to Gemini...
+Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778324980.mp3
+Saved episode: The AI Breakdown: The Week the AI Story Shifted
+
+--- Backfilling: Hard Fork ---
+Error processing Hard Fork: HTTP Error 404: Not Found
+
+--- Backfilling: The Intelligence ---
+Error processing The Intelligence: HTTP Error 404: Not Found
+
+--- Backfilling: The Journal ---
+Error processing The Journal: HTTP Error 404: Not Found
+
+--- Backfilling: FT News Briefing ---
+Error processing FT News Briefing: HTTP Error 404: Not Found
+
+--- Backfilling: The Big Take ---
+Error processing The Big Take: HTTP Error 404: Not Found
+
+--- Backfilling: HBR IdeaCast ---
+Error processing HBR IdeaCast: HTTP Error 404: Not Found
+
+--- Backfilling: Cold Call ---
+Error processing Cold Call: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+
+--- Backfilling: Post Reports ---
+Error processing Post Reports: HTTP Error 404: Not Found
+Pushing to GitHub...
+ALL DONE!
