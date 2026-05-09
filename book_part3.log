@@ -4,3 +4,14 @@
   warnings.warn(
 /Users/takaakimiyaguchi/Library/Python/3.9/lib/python/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
   warnings.warn(eol_message.format("3.9"), FutureWarning)
+[main 036ffb3] Add episode: Genius Makers: Chapter 17: IMPOTENCE
+ 6 files changed, 173 insertions(+), 21 deletions(-)
+ create mode 100644 book_part3.log
+ create mode 100644 episodes/episode_1778341288.mp3
+ create mode 100644 local_cron_runner.py
+ create mode 100644 temp_dl.mp3
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File temp_dl.mp3 is 69.73 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/takaakinet-tech/news-ai-digest.git
+   389a8d1..036ffb3  HEAD -> main
