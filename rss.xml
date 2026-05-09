@@ -8,6 +8,30 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>Genius Makers: Chapter 11: EXPANSION</title>
+      <itunes:title>Genius Makers: Chapter 11: EXPANSION</itunes:title>
+      <description>Genius Makers: Chapter 11: EXPANSION
+
+CORE THESIS:
+Deep learning transcended initial boundaries, proving its transformative potential in complex fields like medicine and drug discovery, while simultaneously escalating rivalries among tech giants and clarifying fundamental philosophical divides within the AI community regarding practical applications versus the pursuit of Artificial General Intelligence.
+
+KEY INSIGHTS:
+First, Deep Learning's Medical Breakthrough: Google engineers Varun Gulshan and Lily Peng, drawing on Geoff Hinton's deep learning techniques, achieved unprecedented accuracy in detecting diabetic retinopathy from eye scans. This crucial development in healthcare AI, partly influenced by Hinton's personal experience with his wife's cancer, demonstrated the technology's immediate, life-saving impact.
+
+Second, AI's Breakthrough in Drug Discovery: George Dahl, another of Hinton's students, applied neural networks to a Merck drug discovery challenge on Kaggle. Despite lacking prior pharmaceutical expertise, his team won, showcasing deep learning's unexpected adaptability and success in complex scientific research, prompting Hinton to label neural networks as "dreadnets" capable of sweeping through various fields.
+
+Third, the Deepening Philosophical and Strategic Divide in AI Development: The chapter illustrates the growing tension and differing philosophies between Google Brain, focused on rapid, practical deployment of AI in commercial services, and DeepMind, which remained committed to the long-term pursuit of Artificial General Intelligence (AGI) through abstract problem-solving like mastering games. This divide highlighted the industry's struggle between immediate revenue generation and ambitious foundational research.
+
+THE SO WHAT?:
+This period marked a critical shift in the perception and application of deep learning. No longer confined to narrow tasks, AI proved its versatility across diverse and complex domains, from medical diagnostics to pharmaceutical research. This expansion, however, also fueled intense competition among tech giants and academics, revealing internal philosophical battles over AI's ultimate purpose: immediate utility versus grand, long-term intelligence. The success in these new fields, especially healthcare, elevated deep learning from a theoretical pursuit to a transformative technology with profound societal implications, while also spotlighting the personal motivations driving its pioneers.
+
+THE GOLDEN QUOTE:
+"I think that if you work as a radiologist you are like Wile E. Coyote in the cartoon. You're already over the edge of the cliff, but you haven't yet looked down. There's no ground underneath."</description>
+      <pubDate>Sat, 09 May 2026 11:29:46 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778326186.mp3" length="1887789" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778326186.mp3</guid>
+    </item>
+    <item>
       <title>Genius Makers: Chapter 10: EXPLOSION</title>
       <itunes:title>Genius Makers: Chapter 10: EXPLOSION</itunes:title>
       <description>Genius Makers: Chapter 10: EXPLOSION
