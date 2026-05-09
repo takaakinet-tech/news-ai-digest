@@ -8,6 +8,28 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>Genius Makers: Chapter 1: GENESIS</title>
+      <itunes:title>Genius Makers: Chapter 1: GENESIS</itunes:title>
+      <description>Genius Makers: Chapter 1: GENESIS
+
+The Core Thesis:
+Chapter one, "Genesis," reveals the initial surge and swift decline of early artificial neural networks, personified by Frank Rosenblatt's Perceptron, highlighting the field's foundational cycle of exaggerated promise followed by academic skepticism and eventual obscurity.
+
+The 3 Key Insights:
+First, the Perceptron's 1958 unveiling captured the public imagination with predictions of machine sentience, demonstrating an early, yet limited, capacity for learning pattern recognition from data.
+Second, Marvin Minsky's influential critique in his 1969 book "Perceptrons" pinpointed the fundamental mathematical flaws of these single-layer networks, causing a significant shift of research funding and academic focus away from neural networks towards symbolic AI.
+Third, despite the ensuing "AI winter" and his untimely death, Rosenblatt's persistent belief in brain-inspired machines, even if his specific implementations were deemed insufficient, inadvertently preserved the core concept of neural networks for future generations.
+
+The "So What?":
+This chapter underscores the cyclical nature of AI development, marked by bursts of hyper-optimism and subsequent periods of disillusionment. The Perceptron's trajectory from groundbreaking innovation to academic dead end illustrates how early technical limitations and powerful critiques can prematurely stifle promising research. This historical pattern established a deep-seated caution within the AI community, influencing how future breakthroughs would be received and funded, forcing advocates of neural networks to operate outside the mainstream for decades. It reveals that the path to artificial intelligence was not a steady ascent, but a series of false starts and profound academic debates over fundamental approaches.
+
+The Golden Quote:
+The chapter's title itself, echoing an Oklahoma headline, encapsulates the early sensationalism and misunderstanding that would plague artificial intelligence for decades: "Frankenstein Monster Designed by Navy That Thinks."</description>
+      <pubDate>Sat, 09 May 2026 10:38:23 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778323103.mp3" length="1440429" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778323103.mp3</guid>
+    </item>
+    <item>
       <title>コムギコ: 令和メガネ合戦：JINSとZoffって何が違うの？ #コムギコ #77</title>
       <itunes:title>コムギコ: 令和メガネ合戦：JINSとZoffって何が違うの？ #コムギコ #77</itunes:title>
       <description>コムギコ: 令和メガネ合戦：JINSとZoffって何が違うの？ #コムギコ #77
