@@ -55,3 +55,44 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python scripts/hard_fork_digest.py || echo "Hard Fork failed"
+      - name: Check & Run The Economist Intelligence Digest
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/economist_intelligence_digest.py || echo "Economist failed"
+
+      - name: Check & Run WSJ The Journal Digest
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/wsj_the_journal_digest.py || echo "WSJ failed"
+
+      - name: Check & Run FT News Briefing Digest
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/ft_news_briefing_digest.py || echo "FT failed"
+
+      - name: Check & Run Bloomberg The Big Take Digest
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/bloomberg_big_take_digest.py || echo "Bloomberg failed"
+
+      - name: Check & Run HBR IdeaCast Digest
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/hbr_ideacast_digest.py || echo "HBR IdeaCast failed"
+
+      - name: Check & Run HBR Cold Call Digest
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/hbr_cold_call_digest.py || echo "HBR Cold Call failed"
+
+      - name: Check & Run WaPo Post Reports Digest
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/wapo_post_reports_digest.py || echo "WaPo failed"
