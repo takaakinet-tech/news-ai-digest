@@ -44,3 +44,14 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python scripts/komugiko_daily_digest.py || echo "Komugiko failed"
+      - name: Check & Run The AI Breakdown Digest
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/ai_breakdown_digest.py || echo "AI Breakdown failed"
+
+      - name: Check & Run NYT Hard Fork Digest
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/hard_fork_digest.py || echo "Hard Fork failed"
