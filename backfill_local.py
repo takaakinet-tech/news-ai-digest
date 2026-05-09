@@ -27,14 +27,14 @@ def mock_run(args, **kwargs):
 subprocess.run = mock_run
 
 PODCASTS = [
-    {"publisher": "New York Times", "title": "Hard Fork", "rss_url": "https://feeds.simplecast.com/83p5Hn2n"},
-    {"publisher": "The Economist", "title": "The Intelligence", "rss_url": "https://feeds.acast.com/public/shows/the-intelligence-from-the-economist"},
-    {"publisher": "Wall Street Journal", "title": "The Journal", "rss_url": "https://feeds.megaphone.fm/wsjthejournal"},
-    {"publisher": "Financial Times", "title": "FT News Briefing", "rss_url": "https://feeds.acast.com/public/shows/ft-news-briefing"},
-    {"publisher": "Bloomberg", "title": "The Big Take", "rss_url": "https://feeds.megaphone.fm/BLM2201990264"},
-    {"publisher": "Harvard Business Review", "title": "HBR IdeaCast", "rss_url": "https://feeds.megaphone.fm/hbrideacast"},
-    {"publisher": "Harvard Business Review", "title": "Cold Call", "rss_url": "https://feeds.harvardbusiness.org/harvardbusiness/coldcall"},
-    {"publisher": "Washington Post", "title": "Post Reports", "rss_url": "https://feeds.simplecast.com/83p5H1Vf"}
+    {"publisher": "New York Times", "title": "Hard Fork", "rss_url": "https://feeds.simplecast.com/l2i9YnTd"},
+    {"publisher": "The Economist", "title": "The Intelligence", "rss_url": "https://feeds.acast.com/public/shows/d556eb54-6160-4c85-95f4-47d9f5216c49"},
+    {"publisher": "Wall Street Journal", "title": "The Journal", "rss_url": "https://feeds.megaphone.fm/WSJ4693364973"},
+    {"publisher": "Financial Times", "title": "FT News Briefing", "rss_url": "https://feeds.acast.com/public/shows/73fe3ede-5c5c-4850-96a8-30db8dbae8bf"},
+    {"publisher": "Bloomberg", "title": "The Big Take", "rss_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/8b1dd624-a026-43e9-8b57-ae2b00130066/podcast.rss"},
+    {"publisher": "Harvard Business Review", "title": "HBR IdeaCast", "rss_url": "http://feeds.harvardbusiness.org/harvardbusiness/ideacast"},
+    {"publisher": "Harvard Business Review", "title": "Cold Call", "rss_url": "http://feeds.harvardbusiness.org/harvardbusiness/cold-call"},
+    {"publisher": "Washington Post", "title": "Post Reports", "rss_url": "https://podcast.posttv.com/itunes/post-reports.xml"}
 ]
 # Excluded 'The AI Breakdown' because it already succeeded earlier.
 

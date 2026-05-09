@@ -8,6 +8,28 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>Genius Makers: Chapter 17: IMPOTENCE</title>
+      <itunes:title>Genius Makers: Chapter 17: IMPOTENCE</itunes:title>
+      <description>Genius Makers: Chapter 17: IMPOTENCE
+
+THE CORE THESIS
+Facebook's experience in content moderation, particularly against hate speech and fake news, reveals the inherent impotence of artificial intelligence when confronted with complex, subjective human behaviors and the evolving nature of malicious exploitation, transforming the endeavor into a perpetual digital arms race.
+
+THE THREE KEY INSIGHTS
+First, Mark Zuckerberg's 2018 Congressional testimony highlighted AI's perceived utility in flagging terrorist propaganda, yet simultaneously exposed its limitations in handling nuanced issues like hate speech, requiring extensive human review.
+Second, Dean Pomerleau's "Fake News Challenge" directly illustrated AI's inability to discern truth from falsehood in complex, opinion-based content, emphasizing that current AI lacked human-level judgment for such subtle distinctions.
+Third, the rise of generative AI technologies, such as GANs and Deepfakes, demonstrated AI's dual capacity not only to moderate but also to create sophisticated misinformation, escalating the challenge into an "AI versus AI" dynamic.
+
+THE SO WHAT?
+The broader implication is that relying solely on AI for problems deeply embedded in human culture and societal judgment, especially with malicious intent, inevitably leads to an unending technological arms race rather than a definitive solution. This constant struggle underscores the critical need for human oversight and ethical frameworks in AI development, as the technology's power to both identify and generate complex problematic content continues to evolve. Furthermore, it challenges the utopian view of AI as a universal problem-solver, particularly in social and political spheres.
+
+THE GOLDEN QUOTE
+"There are people in Russia whose job it is to try to exploit our systems. So this is an arms race, right?"</description>
+      <pubDate>Sat, 09 May 2026 15:41:28 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341288.mp3" length="1410093" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341288.mp3</guid>
+    </item>
+    <item>
       <title>Genius Makers: Chapter 15: BIGOTRY</title>
       <itunes:title>Genius Makers: Chapter 15: BIGOTRY</itunes:title>
       <description>Genius Makers: Chapter 15: BIGOTRY
@@ -977,19 +999,6 @@ The Golden Quote:
       <pubDate>Thu, 07 May 2026 11:33:42 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778153622.mp3" length="1307949" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778153622.mp3</guid>
-    </item>
-    <item>
-      <title>NYT The Daily: What Does Tucker Carlson Really Believe? I Went to Maine to Find Out.</title>
-      <description>NYT The Daily: What Does Tucker Carlson Really Believe? I Went to Maine to Find Out.
-Tucker Carlson's core thesis is that the war with Iran was a disastrous consequence of President Trump being a "hostage" to external pressures, primarily from pro-Israel donors and media figures, rather than a sovereign decision-maker. This situation highlights a deeper, systemic corruption within American politics where elite financial interests manipulate national policy, leading to outcomes detrimental to the average American.
-First, Carlson believes that the Trump administration's decision to pursue regime change in Iran was not an enthusiastic policy choice by the president, but rather an outcome driven by immense external pressure. He explicitly states that no one within the White House was genuinely pushing for war; instead, influential donors and media figures relentlessly campaigned for intervention, telling Trump he would be a "figure of history" and "redeem Israel."
-Second, Carlson argues that Trump's susceptibility stemmed from a broader historical pattern among presidents who, overwhelmed by complex domestic issues, gravitate towards seemingly decisive foreign policy actions. However, he asserts that Trump's unique vulnerability was exploited by the pro-Israel lobby, which effectively held him "hostage," preventing him from acting in America's best interest. This alleged subservience, Carlson claims, is evident in Trump's public refusal to criticize Israeli actions that directly sabotaged US efforts for a diplomatic resolution with Iran.
-Third, Carlson links the current political climate to a severe economic disenfranchisement among young Americans, whose opportunities are diminishing due to a "lopsided and unfair economic system." He predicts that future political conversations will pivot away from divisive cultural issues towards these core economic grievances. Carlson suggests that the focus on cultural debates is a deliberate "distraction" orchestrated by powerful elites to divert attention from the systemic economic inequalities that are radicalizing the youth.
-Carlson's perspective suggests that the current political landscape is ripe for a revolutionary shift, not along traditional left-right lines, but as a populist revolt against an entrenched, bipartisan establishment that prioritizes donor interests over national well-being. He believes the existing political parties are "rotten beyond repair" and that a new, genuine populist movement, addressing economic hardship and challenging foreign policy subservience, is inevitable.
-He told people, this guy will keep us out of the next Iraq. Specifically will keep us out of a regime change war with Iran. And here we are in the middle of a regime change war in Iran where hundreds of Americans have been wounded... And that's just the opposite of what I said would happen. So I'm sorry.</description>
-      <pubDate>Thu, 07 May 2026 11:31:54 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778153514.mp3" length="2201901" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778153514.mp3</guid>
     </item>
   </channel>
 </rss>
