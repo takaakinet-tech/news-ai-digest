@@ -54,8 +54,8 @@ Limit to a maximum of 20 major sections.
         print("Raw response:", outline_response.text)
         return
         
-    # Process from chapter 4 (index 3) onwards
-    remaining_chapters = chapters[3:]
+    # Process from chapter 16 (index 15) onwards, since chapters 1-15 were successfully processed
+    remaining_chapters = chapters[15:]
     print(f"\nWe will generate audio for the remaining {len(remaining_chapters)} chapters.")
     
     for ch in remaining_chapters:
