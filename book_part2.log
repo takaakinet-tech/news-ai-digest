@@ -4,3 +4,15 @@
   warnings.warn(
 /Users/takaakimiyaguchi/Library/Python/3.9/lib/python/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
   warnings.warn(eol_message.format("3.9"), FutureWarning)
+[main 42718b7] Add episode: Genius Makers: Chapter 3: REJECTION
+ 11 files changed, 291 insertions(+), 5 deletions(-)
+ create mode 100644 book_part2.log
+ create mode 100644 episodes/episode_1778324772.mp3
+ create mode 100644 episodes/episode_1778324870.mp3
+ create mode 100644 episodes/episode_1778324980.mp3
+ create mode 100644 episodes/episode_1778325162.mp3
+ create mode 100644 run_book_part2.out
+ create mode 100755 run_book_part2.sh
+ create mode 100644 scripts/book_to_podcast_part2.py
+To https://github.com/takaakinet-tech/news-ai-digest.git
+   438f525..42718b7  HEAD -> main
