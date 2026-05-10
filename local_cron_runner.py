@@ -17,7 +17,7 @@ PODCASTS = [
     # Original
     {"publisher": "BBC", "title": "World News Digest", "rss_url": "https://podcasts.files.bbci.co.uk/p02nq0gn.rss", "slug": "bbc_news"},
     {"publisher": "New York Times", "title": "The Daily", "rss_url": "https://feeds.simplecast.com/54nAGcIl", "slug": "nyt_daily"},
-    {"publisher": "Komugiko", "title": "令和メガネ合戦", "rss_url": "https://anchor.fm/s/2b260e04/podcast/rss", "slug": "komugiko"},
+    {"publisher": "Komugiko", "title": "令和メガネ合戦", "rss_url": "https://feeds.megaphone.fm/TBS7609676437", "slug": "komugiko"},
     # New
     {"publisher": "", "title": "The AI Breakdown", "rss_url": "https://feeds.libsyn.com/468519/rss", "slug": "ai_breakdown"},
     {"publisher": "New York Times", "title": "Hard Fork", "rss_url": "https://feeds.simplecast.com/l2i9YnTd", "slug": "hard_fork"},
