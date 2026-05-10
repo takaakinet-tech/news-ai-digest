@@ -8,6 +8,38 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>Wall Street Journal The Journal: Can GameStop Really Buy eBay?</title>
+      <itunes:title>Wall Street Journal The Journal: Can GameStop Really Buy eBay?</itunes:title>
+      <description>Wall Street Journal The Journal: Can GameStop Really Buy eBay?
+
+The Journal Briefing: GameStop's Bold Ambition
+
+1. The Core Thesis
+
+Today, we delve into the audacious vision of Ryan Cohen, the architect behind GameStop's meteoric rise as a meme stock. Far from being a one-hit wonder, Cohen is now attempting an ambitious takeover of eBay, signaling a grander strategy to transform GameStop from a struggling retailer into a diversified conglomerate, challenging traditional Wall Street conventions and redefining corporate success along the way. This isn't just about another acquisition; it's about a new breed of investor forging a corporate empire.
+
+2. The 3 Key Insights
+
+First, Ryan Cohen's unique persona is central to his influence. From co-founding the online pet supply store Chewy, which he successfully sold, Cohen cultivated an image as an "anti-Wall Street" outsider. His rise to "meme stock king" during the GameStop phenomenon wasn't just about market speculation; it was fueled by a fervent community of retail investors on platforms like Reddit, who saw him as one of their own, willing to challenge the establishment. This loyal following, built on a blend of perceived authenticity and a track record of identifying undervalued companies, provides him with a powerful and unconventional base of support that traditional CEOs can only dream of. His ability to rally this community behind his strategic moves is a key differentiator.
+
+Second, Cohen's strategy for GameStop's turnaround has been a testament to aggressive cost-cutting and strategic restructuring. Upon joining GameStop, he immediately pushed for sweeping changes, including new management and a radical rethink of the company's strategic direction. Under his leadership, GameStop shuttered thousands of unprofitable stores, aggressively reduced operational costs, and focused on making the business profitable again. This lean, efficiency-driven playbook, which defied numerous skeptics who had written off the company, successfully returned GameStop to profitability. This demonstrable success in transforming a brick-and-mortar dinosaur is the foundation upon which he's building his next, even more ambitious, venture.
+
+Third, the proposed acquisition of eBay is a pivotal move in Cohen's broader vision to build a Berkshire Hathaway-like conglomerate. He sees eBay not just as another e-commerce platform but as a digital asset ripe for the same cost-cutting and strategic overhaul he applied to GameStop. His plan involves leveraging GameStop's physical infrastructure for authentication and intake, while applying a relentless focus on cost efficiency to eBay's operations. The ultimate goal is to grow GameStop from an $11 billion company into a $100 billion conglomerate, with eBay being the first major step in this expansion. This audacious plan, despite current financing ambiguities, reflects a belief that a disciplined, "slash and restructure" approach can unlock immense value in established but underperforming digital platforms, creating a diversified holding company with interests across various sectors.
+
+3. The 'So What?'
+
+So what does this mean for investors, businesses, and the broader market? Ryan Cohen's actions signify a significant shift in corporate power dynamics, highlighting the growing influence of retail investors and non-traditional leaders in disrupting established industries. It challenges conventional wisdom about what constitutes a viable business model and how legacy companies can be revitalized. His bold moves force us to consider the enduring power of brand loyalty and community, even in highly volatile markets. Furthermore, it sets a precedent for how future corporate takeovers might be driven not just by financial institutions, but by charismatic figures backed by a passionate, decentralized investor base. This is a story about ambition, disruption, and the relentless pursuit of profit in an ever-evolving economic landscape.
+
+4. The Golden Quote
+
+As Ryan Cohen articulates his ambitious plan for eBay, he leaves no doubt about the scale of his intent. From the episode, here's Ryan Cohen:
+
+"I'm thinking about turning eBay into something worth hundreds of billions of dollars."</description>
+      <pubDate>Sun, 10 May 2026 14:24:59 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778423099.mp3" length="2762157" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778423099.mp3</guid>
+    </item>
+    <item>
       <title>New York Times Hard Fork: Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School</title>
       <itunes:title>New York Times Hard Fork: Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School</itunes:title>
       <description>New York Times Hard Fork: Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School
@@ -1101,30 +1133,6 @@ Qi Lu's succinct observation captures this profound shift: "Data is becoming the
       <pubDate>Sat, 09 May 2026 11:31:43 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778326303.mp3" length="2254125" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778326303.mp3</guid>
-    </item>
-    <item>
-      <title>Genius Makers: Chapter 11: EXPANSION</title>
-      <itunes:title>Genius Makers: Chapter 11: EXPANSION</itunes:title>
-      <description>Genius Makers: Chapter 11: EXPANSION
-
-CORE THESIS:
-Deep learning transcended initial boundaries, proving its transformative potential in complex fields like medicine and drug discovery, while simultaneously escalating rivalries among tech giants and clarifying fundamental philosophical divides within the AI community regarding practical applications versus the pursuit of Artificial General Intelligence.
-
-KEY INSIGHTS:
-First, Deep Learning's Medical Breakthrough: Google engineers Varun Gulshan and Lily Peng, drawing on Geoff Hinton's deep learning techniques, achieved unprecedented accuracy in detecting diabetic retinopathy from eye scans. This crucial development in healthcare AI, partly influenced by Hinton's personal experience with his wife's cancer, demonstrated the technology's immediate, life-saving impact.
-
-Second, AI's Breakthrough in Drug Discovery: George Dahl, another of Hinton's students, applied neural networks to a Merck drug discovery challenge on Kaggle. Despite lacking prior pharmaceutical expertise, his team won, showcasing deep learning's unexpected adaptability and success in complex scientific research, prompting Hinton to label neural networks as "dreadnets" capable of sweeping through various fields.
-
-Third, the Deepening Philosophical and Strategic Divide in AI Development: The chapter illustrates the growing tension and differing philosophies between Google Brain, focused on rapid, practical deployment of AI in commercial services, and DeepMind, which remained committed to the long-term pursuit of Artificial General Intelligence (AGI) through abstract problem-solving like mastering games. This divide highlighted the industry's struggle between immediate revenue generation and ambitious foundational research.
-
-THE SO WHAT?:
-This period marked a critical shift in the perception and application of deep learning. No longer confined to narrow tasks, AI proved its versatility across diverse and complex domains, from medical diagnostics to pharmaceutical research. This expansion, however, also fueled intense competition among tech giants and academics, revealing internal philosophical battles over AI's ultimate purpose: immediate utility versus grand, long-term intelligence. The success in these new fields, especially healthcare, elevated deep learning from a theoretical pursuit to a transformative technology with profound societal implications, while also spotlighting the personal motivations driving its pioneers.
-
-THE GOLDEN QUOTE:
-"I think that if you work as a radiologist you are like Wile E. Coyote in the cartoon. You're already over the edge of the cliff, but you haven't yet looked down. There's no ground underneath."</description>
-      <pubDate>Sat, 09 May 2026 11:29:46 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778326186.mp3" length="1887789" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778326186.mp3</guid>
     </item>
   </channel>
 </rss>
