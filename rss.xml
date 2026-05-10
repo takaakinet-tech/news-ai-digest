@@ -8,6 +8,32 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>New York Times Hard Fork: Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School</title>
+      <itunes:title>New York Times Hard Fork: Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School</itunes:title>
+      <description>New York Times Hard Fork: Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School
+
+Hello and welcome to this week's Hard Fork briefing.
+
+1. The Core Thesis:
+The rapid advancement and widespread adoption of AI and prediction markets are not merely technological advancements but profound societal shifts. They are challenging established notions of information integrity, market fairness, and the very essence of human experience, often preceding the development of necessary ethical guidelines or regulatory frameworks.
+
+2. Three Key Insights:
+First, prediction markets are experiencing explosive growth, yet they are deeply susceptible to insider trading and suffer from inadequate regulation. A striking example revealed that long-shot bets related to military or defense operations had an astonishing 52% win rate, far exceeding the average. This, alongside incidents like an army sergeant profiting from Venezuelan politics, suggests widespread manipulation and raises serious questions about market fairness and trust. The hosts argue that without robust oversight, these platforms risk devolving into unregulated casinos rather than mechanisms for collective intelligence.
+
+Second, AI's integration into our daily lives is revealing a dual nature: immensely beneficial but also potentially exploitative. While AI agents and wearables offer surprising utility, there are clear downsides. For instance, AI-powered dental diagnostics have been used to upsell patients unnecessary treatments, as experienced firsthand by guest Joanna Stern. This highlights how AI's impressive capabilities can be leveraged for financial gain in ways that compromise consumer trust and well-being.
+
+Third, a burgeoning focus on "attention" and the rise of dedicated "attention schools" reflect a growing societal anxiety about technology's impact on human focus. This movement seeks to help individuals reclaim their cognitive agency from the relentless demands of social media and AI. Joanna Stern's experience at an attention school, where participants are asked to re-engage with basic sensory experiences, underscores a collective yearning to reconnect with fundamental aspects of human presence and perception, offering a poignant counter-narrative to the increasingly digitized world.
+
+3. The 'So What?':
+These technological evolutions represent more than just incremental changes; they are fundamentally reshaping how individuals interact with information, economic systems, and their own identities. The absence of proactive regulation and robust ethical frameworks risks eroding public trust in nascent markets, commodifying uniquely human experiences, and ultimately ceding our collective agency over the future. It's a call to both individual introspection and collective action to steer technology towards a more human-centered path.
+
+4. The Golden Quote:
+"You know, it's it's interesting and it makes me think about previous waves of technological change and some of the like social and cultural movements that have grown up in response to those, like during the Industrial Revolution there were like the transcendentalists who like wanted to like reconnect with nature because they felt like the whole economy was like getting away from the land and the farms and like going into these dehumanizing factories and they were sort of like, we want to go to Walden Pond and like write poetry and look at leaves. And like the same kinds of things happened in the 20th century with industrialization, like there every time we sort of make a big leap forward in technology, there's a cultural counter-movement that's just like, wait a minute, we actually don't like what this is doing to us and we want to like reclaim ourselves from the technology."</description>
+      <pubDate>Sun, 10 May 2026 14:23:14 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778422994.mp3" length="2791725" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778422994.mp3</guid>
+    </item>
+    <item>
       <title>The Economist The Intelligence: Drone team: Russia’s plan to arm Iran</title>
       <itunes:title>The Economist The Intelligence: Drone team: Russia’s plan to arm Iran</itunes:title>
       <description>The Economist The Intelligence: Drone team: Russia’s plan to arm Iran
@@ -1099,30 +1125,6 @@ THE GOLDEN QUOTE:
       <pubDate>Sat, 09 May 2026 11:29:46 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778326186.mp3" length="1887789" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778326186.mp3</guid>
-    </item>
-    <item>
-      <title>Genius Makers: Chapter 10: EXPLOSION</title>
-      <itunes:title>Genius Makers: Chapter 10: EXPLOSION</itunes:title>
-      <description>Genius Makers: Chapter 10: EXPLOSION
-
-The Core Thesis:
-The AlphaGo victory marked an explosion of artificial intelligence into public consciousness, revealing deep learning's unprecedented power, particularly through self-play, and simultaneously sparking both immense optimism and profound anxieties about AI's transformative future.
-
-The 3 Key Insights:
-First, DeepMind's AlphaGo achieved superhuman performance in the ancient game of Go, a domain widely considered an uncrackable bastion of human intuition due to its exponential complexity compared to chess. This monumental feat, first demonstrated against European champion Fan Hui and then against world champion Lee Sedol, showcased the rapid advancements of deep neural networks, learning not just from millions of human games but, crucially, through extensive self-play.
-
-Second, AlphaGo's "Move 37" against Lee Sedol, a play with only a one-in-ten-thousand probability for a human, unveiled the AI's capacity for novel, non-human intuition. This algorithmic introspection and the discovery of strategies entirely beyond human design highlighted a powerful new mode of machine learning, moving beyond mere computation to a form of synthetic creativity that captivated and bewildered global audiences and experts alike.
-
-Third, the AlphaGo matches dramatically accelerated a global AI arms race among tech giants like Google, Facebook, and Baidu. It transformed AI from a specialized academic pursuit into a central corporate and national priority, driving massive investment in talent and hardware. The public spectacle forced a re-evaluation of machine intelligence, prompting widespread awe, but also sparking renewed ethical debates about AI's accelerating power, potential biases, and its eventual impact on human endeavor and society.
-
-The "So What?":
-This inflection point fundamentally reshaped the trajectory of AI development. It validated the long-held beliefs of connectionists like Hinton and LeCun, who had championed neural networks through decades of "AI winter." The success spurred companies to invest billions in GPU infrastructure and deep learning research, leading to breakthroughs in diverse fields from image recognition to healthcare. However, it also intensified concerns about autonomous systems and the ethical implications of creating machines that could learn and operate with superhuman capabilities, pushing "AI safety" to the forefront of the technological discourse, as well as influencing geopolitical strategies for AI dominance.
-
-The Golden Quote:
-Reflecting on AlphaGo's unexpected "Move 37," Go champion Fan Hui simply stated, "It's not a human move. I've never seen a human play this move. So beautiful."</description>
-      <pubDate>Sat, 09 May 2026 11:27:26 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778326046.mp3" length="2054061" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778326046.mp3</guid>
     </item>
   </channel>
 </rss>
