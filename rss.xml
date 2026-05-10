@@ -8,6 +8,26 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>The AI Breakdown: How to Build an AI Native Team with Mike Cannon-Brookes</title>
+      <itunes:title>The AI Breakdown: How to Build an AI Native Team with Mike Cannon-Brookes</itunes:title>
+      <description>The AI Breakdown: How to Build an AI Native Team with Mike Cannon-Brookes
+
+Today on The AI Daily Brief, we're diving deep into the complexities of enterprise AI adoption, as illuminated by Atlassian co-founder and CEO, Mike Cannon-Brookes. The core thesis of our discussion today highlights that successful AI integration in businesses isn't just about deploying advanced models. It's fundamentally about multiplying intelligence with rich, organizational context, fostering a culture of continuous learning, and seamlessly integrating AI into both existing and evolving workflows to drive significant, measurable productivity gains beyond simple chat interfaces.
+
+Our first key insight is the paramount importance of context in accelerating business operations. Mike articulates that acceleration for your business is fundamentally intelligence multiplied by context. Atlassian's strategic investment in its Teamwork Graph exemplifies this, bringing together code, people, and even physical assets into a comprehensive knowledge base. This rich, constantly updated context allows AI tools to provide faster, higher-quality, and more cost-effective answers to complex business questions, making AI agents truly powerful by understanding the intricate landscape they operate within.
+
+Secondly, the successful enterprise AI journey demands a delicate balance between enhancing current workflows and embracing entirely new paradigms. It's not enough to simply give users new tools. The focus must be on building AI capabilities directly into platforms they already use and love, like Jira or Confluence, accelerating existing tasks. Simultaneously, companies must develop headless tools, Command Line Interfaces, and no-code environments like Rovo Studio. These innovations empower a broader range of users to build AI solutions for their specific needs, facilitating new forms of collaboration between human and digital teammates.
+
+Finally, navigating the rapid evolution of AI necessitates a robust culture of continuous learning and sharing. The pace of change is unprecedented, meaning no one is an established expert. Enterprises must cultivate environments where teams are encouraged to experiment, share both successes and failures, and learn from each other. This dynamic loop of exploration, application, and knowledge dissemination, underpinned by strong governance and security frameworks, is critical for organizations to collectively adapt and grow their AI capabilities, ensuring widespread adoption and sustained impact.
+
+So, what does this all mean for your business? The takeaway is clear: achieving true AI-native status isn't a silver bullet technology deployment. It's a holistic organizational transformation. Success hinges on a thoughtful, heavy, and deliberate approach that prioritizes deeply contextualized AI. It requires intelligently integrating these capabilities into the full spectrum of work, from enhancing existing processes to enabling entirely new ones, all while fostering an internal culture that champions continuous learning and open sharing. This multi-faceted strategy is what will differentiate leaders from laggards, allowing them to harness AI for genuine competitive advantage and unlock its full potential.
+
+Mike Cannon-Brookes captured a fundamental truth of this transition, stating: "Acceleration for your business is about sort of intelligence multiplied by context. It's a simple sort of equation. The intelligence acceleration is very obvious... Context is the thing that we're trying to help organizations accelerate."</description>
+      <pubDate>Sun, 10 May 2026 14:19:52 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778422792.mp3" length="2279085" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778422792.mp3</guid>
+    </item>
+    <item>
       <title>New York Times The Daily: For Mother’s Day, Classic Mom-isms</title>
       <itunes:title>New York Times The Daily: For Mother’s Day, Classic Mom-isms</itunes:title>
       <description>New York Times The Daily: For Mother’s Day, Classic Mom-isms
@@ -1099,30 +1119,6 @@ As Ilya Sutskever, a co-founder of OpenAI, pondered the inevitability and power 
       <pubDate>Sat, 09 May 2026 11:25:23 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778325923.mp3" length="2093997" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778325923.mp3</guid>
-    </item>
-    <item>
-      <title>Genius Makers: Chapter 8: HYPE</title>
-      <itunes:title>Genius Makers: Chapter 8: HYPE</itunes:title>
-      <description>Genius Makers: Chapter 8: HYPE
-
-The Core Thesis
-Chapter eight, titled "Hype," reveals how deep learning transcended academic research to become a transformative, yet often exaggerated, force across the tech industry. It underscores that this shift was largely driven by the practical application of specialized computer hardware and the escalating competitive ambitions of major companies, ultimately creating a self-perpetuating cycle of investment and inflated promises.
-
-The 3 Key Insights
-First, the widespread adoption of GPUs, or graphics processing units, originally designed for video games, proved to be the pivotal catalyst. Researchers discovered these chips were exceptionally efficient at performing the complex mathematical operations required by neural networks, dramatically accelerating their ability to learn from vast datasets. This critical hardware advantage moved deep learning from theoretical possibility to practical implementation in various applications.
-
-Second, this newfound efficiency rapidly integrated deep learning into the core services of tech giants, exemplified by Google. It enhanced crucial functions like Ad-Words, Google Photos, and Google Translate, and significantly advanced the self-driving car project, Chauffeur. The demand for specialized processing power also spurred the development of Google's own custom tensor processing units, or TPUs, further embedding deep learning into their infrastructure and strategy.
-
-Third, the commercial success and impressive demonstrations of deep learning, like the significant improvement in speech recognition and machine translation, ignited an intense "AI arms race" among companies like Google, Microsoft, Baidu, and Amazon. This competition, coupled with media attention, generated immense hype. Terms like "artificial intelligence" became buzzwords, often conflating narrow, task-specific achievements with the broader, more ambitious, and frequently exaggerated promise of general intelligence, leading to both rapid technological advancement and widespread misconceptions.
-
-The So What?
-The rapid commercialization of deep learning, propelled by specialized hardware, reshaped the competitive landscape of the tech industry, making AI a central strategic pillar for innovation and market dominance. While fostering genuine breakthroughs in specific applications, this era also entrenched a culture of escalating hype, where the lines between practical progress and speculative claims about "true intelligence" blurred, raising questions about the ethical implications and long-term societal impact of these powerful, yet still limited, systems.
-
-The Golden Quote
-As Alan Eustace put it, "People ask me a lot: 'Are you a daredevil?' But I am the opposite of a daredevil. I hire the best people I can find, and we all work together to basically eliminate every possible risk and test for every risk and try to get to the point where what is seemingly very dangerous is actually very safe."</description>
-      <pubDate>Sat, 09 May 2026 11:23:08 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778325788.mp3" length="2212269" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778325788.mp3</guid>
     </item>
   </channel>
 </rss>
