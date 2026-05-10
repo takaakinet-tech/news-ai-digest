@@ -8,6 +8,34 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>Harvard Business Review Cold Call: How a Family-Owned Greek Cement Company Evolved Its Leadership While Pivoting Its Product Portfolio</title>
+      <itunes:title>Harvard Business Review Cold Call: How a Family-Owned Greek Cement Company Evolved Its Leadership While Pivoting Its Product Portfolio</itunes:title>
+      <description>Harvard Business Review Cold Call: How a Family-Owned Greek Cement Company Evolved Its Leadership While Pivoting Its Product Portfolio
+
+Welcome to this special briefing on the Cold Call episode featuring Harvard Business School Professor George Serafeim and Dimitri Papalexopoulos, former CEO and current Chair of Titan Cement International. This episode dives into the remarkable journey of a century-old Greek industrial giant navigating profound crises and transforming its future.
+
+Core Thesis:
+The core thesis is that resilient leadership can guide a mature, capital-intensive company through multiple, simultaneous crises, not just to survive, but to reinvent itself and thrive. Titan's story is one of strategic adaptation, embracing technological and sustainable innovation, and critically, managing complex family business dynamics and succession under immense pressure.
+
+Three Key Insights:
+Our first key insight is about Strategic Geographic Diversification as a Resilience Play. Early on, Titan chose global geographic expansion within its core cement business over diversifying into other industries. While this strategy allowed them to leverage their expertise, it also exposed them to a "perfect storm" of concurrent crises across key markets like the 2008 housing collapse in Florida, political revolution in Egypt, and Greece's sovereign debt crisis. Their survival underscores the power of a long-term historical perspective and steadfast resilience in the face of widespread market disruption.
+
+The second insight highlights the importance of Local Empowerment and Aligned Culture. To manage its expanded global footprint, Titan adopted a lean corporate center and decentralized operations. This approach empowered local teams, enabling them to leverage intimate knowledge of diverse markets, regulations, and customer expectations. The challenge, however, was maintaining cohesive organizational alignment and shared values, ensuring local decision-making contributed to broader strategic goals rather than fragmenting into individual "turfs."
+
+Our third insight centers on Driving Focused Innovation with Measurable Impact within Constraints. Faced with capital limitations during crises, Titan innovated by focusing on "people-intensive, not capital-intensive" solutions. They strategically invested in artificial intelligence for core production processes, such as a "real-time optimizer" in cement plants. By concentrating on measurable impacts in critical areas, they not only drove significant efficiency gains but also cultivated a "cultural flywheel effect," shifting mindsets from risk aversion to embracing transformative change across the organization.
+
+The 'So What?':
+So what does this mean for leaders? Titan's journey offers vital lessons on resilience, strategic foresight, and adaptive leadership. It demonstrates that even in traditional industries, a proactive approach to long-term challenges like decarbonization and digitization can transform liabilities into competitive advantages. It underscores the critical balance in family businesses between leveraging inherent commitment and ensuring governance structures support sustained innovation and effective succession, even if it means bringing in outside leadership for fresh perspectives.
+
+The Golden Quote:
+As Professor George Serafeim aptly puts it, a critical aspect of Titan's transformation was "innovating within constraints." This perfectly captures the ingenuity and strategic thinking that allowed Titan to redefine success in a challenging environment.
+
+Thank you for joining this briefing.</description>
+      <pubDate>Sun, 10 May 2026 14:32:44 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778423564.mp3" length="2439213" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778423564.mp3</guid>
+    </item>
+    <item>
       <title>Washington Post Post Reports: Goodbye from "Post Reports"</title>
       <itunes:title>Washington Post Post Reports: Goodbye from "Post Reports"</itunes:title>
       <description>Washington Post Post Reports: Goodbye from "Post Reports"
@@ -1128,30 +1156,6 @@ THE GOLDEN QUOTE
       <pubDate>Sat, 09 May 2026 15:41:28 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341288.mp3" length="1410093" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341288.mp3</guid>
-    </item>
-    <item>
-      <title>Genius Makers: Chapter 15: BIGOTRY</title>
-      <itunes:title>Genius Makers: Chapter 15: BIGOTRY</itunes:title>
-      <description>Genius Makers: Chapter 15: BIGOTRY
-
-Core Thesis:
-Chapter 15, BIGOTRY, reveals that pervasive biases in Artificial Intelligence systems, particularly in facial recognition and content moderation, stem from the inherent prejudices within their training data and the lack of diversity among their developers. These biases lead to real-world harm, underscoring the critical need for ethical consideration and inclusive design in AI development.
-
-The 3 Key Insights:
-First, the Google Photos "gorilla" incident publicly exposed a glaring racial bias when an African-American user's friends were mislabeled. This event served as a stark demonstration that AI, if trained on unrepresentative data, will replicate and amplify existing societal prejudices, prompting Google to remove the problematic tag.
-
-Second, Deborah Raji's research at Clarifai meticulously documented significant gender and racial biases in commercial facial recognition and content moderation tools. Her findings showed that these systems misidentified the gender of darker-skinned women at significantly higher rates and, due to biased image selection, could even associate black individuals with pornography.
-
-Third, the chapter highlights the AI community's "sea of dudes" problem, as voiced by Timnit Gebru and Joy Buolamwini. The overwhelming homogeneity of AI researchers, predominantly white men, was identified as a core reason why systemic biases in data and algorithms went unrecognized and unaddressed, sparking a broader movement for diversity and ethical AI.
-
-The So What?:
-The profound implication is that AI is not a neutral tool but a reflection of its origins, inheriting and propagating human biases through its training. This realization moved the discussion from purely technical advancements to urgent ethical and social justice concerns. It compelled the tech industry to confront its responsibility in creating equitable AI, demonstrating that achieving truly beneficial artificial intelligence necessitates intentional efforts to ensure diverse development teams, unbiased data, and robust ethical frameworks.
-
-The Golden Quote:
-"Google Photos, y'all fucked up. My friend is not a gorilla."</description>
-      <pubDate>Sat, 09 May 2026 11:36:48 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778326608.mp3" length="1724589" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778326608.mp3</guid>
     </item>
   </channel>
 </rss>
