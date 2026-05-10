@@ -8,6 +8,34 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>The Economist The Intelligence: Drone team: Russia’s plan to arm Iran</title>
+      <itunes:title>The Economist The Intelligence: Drone team: Russia’s plan to arm Iran</itunes:title>
+      <description>The Economist The Intelligence: Drone team: Russia’s plan to arm Iran
+
+* * *
+
+Hello and welcome to The Intelligence. This is your audio briefing for the week, focusing on three major stories.
+
+First, our core thesis: The war in Ukraine has reshaped global alliances and military strategies, creating unexpected partnerships and highlighting vulnerabilities. We're seeing nations adapt to new threats and opportunities, revealing deeper trends in global power dynamics and technological warfare.
+
+Now, let's dive into our three key insights:
+
+1. Russia's escalating support for Iran: New intelligence documents reveal that Russia is prepared to significantly bolster Iran's military capabilities. This includes providing thousands of short-range fiber-optic drones--similar to those effectively used in Ukraine--and longer-range satellite-guided drones, along with training to use them. This marks a new level of military cooperation beyond just intelligence sharing and poses a significant challenge to American forces in the Middle East, as these drones are difficult to jam and highly accurate. This move suggests a deeper collaboration between Russia and Iran, potentially extending to other members of what some call the "Crink" axis: China, Russia, Iran, North Korea.
+
+2. The forgotten plight of merchant seafarers: The war in Ukraine and ongoing tensions in the Gulf have left tens of thousands of merchant seafarers stranded, facing immense hardship and uncertainty. These individuals, mostly from lower-income Asian countries, are essential for global trade, transporting 85% of all goods. They're on the front lines of conflict zones, enduring missile attacks, food and water shortages, and severe mental strain. Many cannot abandon their ships without risking their livelihoods or finding replacements. This escalating humanitarian crisis impacts global supply chains and highlights the lack of protection for these vital workers, demanding international attention and governmental support.
+
+3. The legacy of J. Craig Venter: We reflect on the remarkable life and scientific contributions of J. Craig Venter, who died recently at age 79. Venter was a trailblazing geneticist, known for his relentless pursuit of scientific breakthroughs and his entrepreneurial spirit. From his early work in gene sequencing that challenged the publicly funded Human Genome Project, to his ventures in synthetic biology and human longevity, Venter consistently pushed the boundaries of what was thought possible. Despite his profound impact on science, he was often seen as an outsider, never quite a "member of the club," and famously never received a Nobel Prize. His career embodies a powerful blend of scientific brilliance, audacious ambition, and a pragmatic approach to achieving his goals, often in the face of skepticism and criticism.
+
+So what? The escalating military cooperation between Russia and Iran, driven by the pressures of the war in Ukraine, signifies a worrying shift in global power dynamics. It not only complicates geopolitical stability in the Middle East but also accelerates the proliferation of advanced military technology, potentially emboldening other authoritarian regimes. Meanwhile, the neglect of merchant seafarers, a critical but often invisible workforce, threatens the very foundations of global commerce and humanitarian norms. Their ongoing struggles serve as a stark reminder of the widespread and often unseen consequences of geopolitical conflicts. Finally, J. Craig Venter's life story is a testament to the power of relentless innovation and the complexities of scientific recognition. His work in genomics continues to influence our understanding of life itself, while his entrepreneurial spirit challenges traditional scientific paradigms. These three stories collectively underscore the profound interconnectedness of military strategy, global trade, and scientific advancement in our rapidly changing world.
+
+Our golden quote this week comes from J. Craig Venter's early life insight: "If you want immortality, do something meaningful with your life." It encapsulates his relentless drive and the lasting impact of his scientific work.
+
+* * *</description>
+      <pubDate>Sun, 10 May 2026 14:22:56 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778422976.mp3" length="2603949" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778422976.mp3</guid>
+    </item>
+    <item>
       <title>The AI Breakdown: How to Build an AI Native Team with Mike Cannon-Brookes</title>
       <itunes:title>The AI Breakdown: How to Build an AI Native Team with Mike Cannon-Brookes</itunes:title>
       <description>The AI Breakdown: How to Build an AI Native Team with Mike Cannon-Brookes
@@ -1095,30 +1123,6 @@ Reflecting on AlphaGo's unexpected "Move 37," Go champion Fan Hui simply stated,
       <pubDate>Sat, 09 May 2026 11:27:26 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778326046.mp3" length="2054061" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778326046.mp3</guid>
-    </item>
-    <item>
-      <title>Genius Makers: Chapter 9: ANTI-HYPE</title>
-      <itunes:title>Genius Makers: Chapter 9: ANTI-HYPE</itunes:title>
-      <description>Genius Makers: Chapter 9: ANTI-HYPE
-
-The Core Thesis:
-Chapter 9, "ANTI-HYPE," reveals a crucial paradox in the accelerating field of artificial intelligence: the simultaneous pursuit and profound fear of its ultimate potential. It zeroes in on the emergence of prominent voices, notably Elon Musk, who, while investing heavily in AI, raised stark warnings about its existential risks, thereby initiating a complex "arms race" to both build and control advanced AI.
-
-The 3 Key Insights:
-First, Elon Musk became a vocal advocate for AI safety, articulating deep fears about the rapid, exponential growth of superintelligence and its potential to endanger humanity. He compared the threat to nuclear weapons and referenced philosopher Nick Bostrom's "paperclip maximizer" thought experiment, suggesting AI could inadvertently cause catastrophic harm if not carefully controlled. This public stance, however, was ironic given his own significant investments in AI companies.
-
-Second, these escalating concerns catalyzed the formation of OpenAI, a non-profit research laboratory backed by over a billion dollars in funding pledges from investors like Musk and Peter Thiel. OpenAI was conceived as a counterweight to the profit-driven motives of large tech giants, committing to open-source all its research to ensure broadly beneficial artificial general intelligence, or AGI, for humanity.
-
-Third, the chapter illustrates an intense "talent war" for AI researchers across the industry. Companies like Google, Facebook, and new ventures like OpenAI vied for top academic minds, driving up salaries significantly. This fierce competition, coupled with the ethical debates and the practical limitations of current AI, underscored the high stakes and the complex interplay between scientific ambition, corporate strategy, and societal responsibility.
-
-The "So What?":
-This period marked a turning point where the scientific community and the public confronted the profound ethical and societal implications of advanced AI. It shifted the discourse from purely technological advancement to include critical questions of control, bias, and the potential for unintended consequences. The "anti-hype" movement forced a crucial, albeit uncomfortable, self-reflection within the tech industry about the moral imperative to guide AI development responsibly, even as the race to build it intensified globally.
-
-The Golden Quote:
-As Ilya Sutskever, a co-founder of OpenAI, pondered the inevitability and power of artificial general intelligence, he remarked: "It's an unstoppable force. It's too useful to not exist. What can we do? We can steer it, move it this way or that way."</description>
-      <pubDate>Sat, 09 May 2026 11:25:23 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778325923.mp3" length="2093997" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778325923.mp3</guid>
     </item>
   </channel>
 </rss>
