@@ -8,6 +8,34 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>New York Times The Daily: For Mother’s Day, Classic Mom-isms</title>
+      <itunes:title>New York Times The Daily: For Mother’s Day, Classic Mom-isms</itunes:title>
+      <description>New York Times The Daily: For Mother’s Day, Classic Mom-isms
+
+The Core Thesis
+
+This episode of The Daily explores "Mom Mantras" – the unique, often unconventional, yet profoundly impactful pieces of advice and expressions that mothers impart. These sayings shape their children's perspectives on life's challenges, responsibilities, and the very art of living, creating a rich tapestry of intergenerational wisdom.
+
+The 3 Key Insights
+
+1.  Mothers as Philosophers of the Everyday: Mom mantras distill complex life lessons into memorable, often idiosyncratic phrases. From practical advice like "When in doubt, clean" to the existential "You're a human BEING, not a human DOING," these sayings serve as accessible philosophical frameworks for navigating daily life and understanding self-worth. They turn abstract concepts into tangible guidance.
+
+2.  Mantras as Tools for Resilience and Perspective: Many expressions are designed to equip children with emotional resilience, teaching them how to cope with disappointment, uncertainty, or frustration. Examples include "This too shall pass," "Just because someone throws you a football, doesn't mean you have to catch it" for managing criticism, and even the humorous "BOO!" for situations beyond one's control. These are not just words, but survival tools for the emotional landscape.
+
+3.  Encouraging a Life Fully Lived, Thoughtfully Chosen: Beyond mere survival, many mantras inspire a proactive and engaged approach to life. "Sing out, Louise!" champions boldness, "There isn't a shroud with pockets big enough" advocates for experiencing life fully, and "Don't make big decisions late at night" guides towards considered choices. These reflect a deep maternal desire for their children to thrive, not just endure.
+
+The 'So What?'
+
+These "Mom Mantras" are more than just quirky sayings; they represent a rich tapestry of intergenerational wisdom. They offer intimate insights into how to navigate life's complexities, foster resilience, and find meaning in both the mundane and the profound. Understanding and reflecting on these unique forms of maternal guidance can provide valuable frameworks for personal growth and a deeper appreciation for the diverse ways wisdom is passed down through the generations. They remind us that profound lessons can come from the most familiar and unexpected sources.
+
+The Golden Quote
+
+"You do the best job that you can, and then you pray that they forgive you." This poignant quote from the host's mother encapsulates the essence of the maternal journey – a blend of earnest effort, inherent imperfection, and unconditional love, all while ultimately seeking understanding and forgiveness from their children. It speaks to the universal vulnerability and immense responsibility of parenthood.</description>
+      <pubDate>Sun, 10 May 2026 14:17:59 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778422679.mp3" length="2281773" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778422679.mp3</guid>
+    </item>
+    <item>
       <title>BBC World News Digest: Israel continues airstrikes in Lebanon</title>
       <itunes:title>BBC World News Digest: Israel continues airstrikes in Lebanon</itunes:title>
       <description>BBC World News Digest: Israel continues airstrikes in Lebanon
@@ -1095,26 +1123,6 @@ As Alan Eustace put it, "People ask me a lot: 'Are you a daredevil?' But I am th
       <pubDate>Sat, 09 May 2026 11:23:08 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778325788.mp3" length="2212269" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778325788.mp3</guid>
-    </item>
-    <item>
-      <title>Genius Makers: Chapter 7: RIVALRY</title>
-      <itunes:title>Genius Makers: Chapter 7: RIVALRY</itunes:title>
-      <description>Genius Makers: Chapter 7: RIVALRY
-
-Chapter 7, Rivalry, unveils the explosive transformation of deep learning from academic obscurity into the heart of the tech industry, driven by an unprecedented, global talent war among Silicon Valley's giants. The chapter details the furious scramble for expertise and intellectual property as companies like Facebook, Google, and Microsoft vied to dominate the next technological frontier.
-
-First, Facebook's aggressive pivot into artificial intelligence, spearheaded by Mark Zuckerberg and Yann LeCun, marked a critical turning point. Zuckerberg personally recruited top deep learning researchers to establish the Facebook Artificial Intelligence Research lab, recognizing deep learning as the absolute next big thing for the company. This move highlighted the immediate corporate imperative to invest heavily in AI.
-
-Second, the intense bidding war for DeepMind showcased the escalating stakes. Facebook's unsuccessful attempt to acquire DeepMind, ultimately losing to Google for 650 million dollars, underscored DeepMind's perceived value and its unique ethical framework that Facebook was unwilling to accept. This acquisition further intensified the rivalry for leading AI talent and research.
-
-Third, the chapter emphasizes the escalating "arms race" for AI talent, with young PhDs commanding multi-million-dollar packages. This competitive landscape was significantly influenced by the rise of open-source software, which enabled rapid advancements and collaboration across the industry, but also created challenges for companies like Microsoft, which were historically tied to proprietary systems. The shift towards open research allowed for faster progress but also meant rivals could leverage shared advancements.
-
-So what? This period profoundly reshaped the tech industry, solidifying deep learning as a foundational technology and accelerating its integration into everything from image recognition and natural language processing to self-driving cars. It dramatically inflated the value of AI researchers, creating a fierce talent market. The ethical implications of AI, including biases in training data and potential misuse, also came to the forefront, initiating crucial debates about responsible technological development amidst intense corporate competition.
-
-As Microsoft vice president Peter Lee told Bloomberg Businessweek, the cost of acquiring an AI researcher was akin to the cost of acquiring an NFL quarterback.</description>
-      <pubDate>Sat, 09 May 2026 11:20:52 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778325652.mp3" length="1847469" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778325652.mp3</guid>
     </item>
   </channel>
 </rss>
