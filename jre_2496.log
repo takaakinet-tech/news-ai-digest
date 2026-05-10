@@ -4,3 +4,18 @@
   warnings.warn(
 /Users/takaakimiyaguchi/Library/Python/3.9/lib/python/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
   warnings.warn(eol_message.format("3.9"), FutureWarning)
+Searching for episode containing '#2496'...
+Found: #2496 - Julia Mossbridge
+Downloading MP3 (this might take a minute): https://traffic.megaphone.fm/GLT4115426558.mp3?updated=1778288535
+Uploading to Gemini 2.5 Flash (Processing 3 hours of audio)...
+Uploaded as files/i37bduq0g89k
+Generating Master Storyteller Script...
+Script generated successfully.
+Generating TTS Audio...
+Compressing output to MP3 (1.0x speed)...
+Traceback (most recent call last):
+  File "/Users/takaakimiyaguchi/Library/CloudStorage/Dropbox/My Document/AI related/Antigravity/.agents/skills/antigravity_feed/news-ai-digest/scripts/process_jre.py", line 142, in <module>
+    process_episode(sys.argv[1])
+  File "/Users/takaakimiyaguchi/Library/CloudStorage/Dropbox/My Document/AI related/Antigravity/.agents/skills/antigravity_feed/news-ai-digest/scripts/process_jre.py", line 130, in process_episode
+    os.remove(local_mp3)
+FileNotFoundError: [Errno 2] No such file or directory: 'jre_#2496.mp3'

@@ -40,8 +40,13 @@ def process_episode(ep_number_str):
     print(f"Found: {title}")
     print(f"Downloading MP3 (this might take a minute): {mp3_url}")
     
-    local_mp3 = f"jre_{ep_number_str}.mp3"
-    urllib.request.urlretrieve(mp3_url, local_mp3)
+    clean_ep_num = ep_number_str.replace('#', '')
+    local_mp3 = f"jre_{clean_ep_num}.mp3"
+    print(f"Saving locally as {local_mp3}")
+    
+    req = urllib.request.Request(mp3_url, headers={'User-Agent': 'Mozilla/5.0'})
+    with urllib.request.urlopen(req) as response, open(local_mp3, 'wb') as out_file:
+        out_file.write(response.read())
     
     print("Uploading to Gemini 2.5 Flash (Processing 3 hours of audio)...")
     client = genai.Client()
@@ -118,7 +123,7 @@ Output the script ONLY in English and ONLY in "Scale Markdown" format (plain tex
     print("Compressing output to MP3 (1.0x speed)...")
     import subprocess
     subprocess.run([
-        "ffmpeg", "-y", "-f", "s16le", "-ar", "24000", "-ac", "1", 
+        "/opt/homebrew/bin/ffmpeg", "-y", "-f", "s16le", "-ar", "24000", "-ac", "1", 
         "-i", wav_filename, "-b:a", "128k", out_mp3
     ], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     

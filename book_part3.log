@@ -4,88 +4,85 @@
   warnings.warn(
 /Users/takaakimiyaguchi/Library/Python/3.9/lib/python/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
   warnings.warn(eol_message.format("3.9"), FutureWarning)
-[main 036ffb3] Add episode: Genius Makers: Chapter 17: IMPOTENCE
- 6 files changed, 173 insertions(+), 21 deletions(-)
- create mode 100644 book_part3.log
- create mode 100644 episodes/episode_1778341288.mp3
- create mode 100644 local_cron_runner.py
- create mode 100644 temp_dl.mp3
-remote: warning: See https://gh.io/lfs for more information.        
-remote: warning: File temp_dl.mp3 is 69.73 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
-remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+[main 65c257a] Add episode: Genius Makers by Cade Metz: Chapter 15: BIGOTRY "Google Photos, y'all fucked up. My friend is not a gorilla."
+ 3 files changed, 35 insertions(+), 22 deletions(-)
+ create mode 100644 episodes/episode_1778343871.mp3
+ create mode 100644 jre_#2494.mp3
+remote: error: Trace: bb7700ad0be4862dc3e153323d27e8d983e78c63777356bd1c8fcacdbe4ae605        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File jre_#2482.mp3 is 123.55 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File jre_#2494.mp3 is 132.97 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
 To https://github.com/takaakinet-tech/news-ai-digest.git
-   389a8d1..036ffb3  HEAD -> main
-[main 44e4843] Add episode: Genius Makers: Chapter 18: DEBATE
- 5 files changed, 49 insertions(+), 28 deletions(-)
- create mode 100644 episodes/episode_1778341305.mp3
- create mode 100644 episodes/episode_1778341429.mp3
-remote: warning: See https://gh.io/lfs for more information.        
-remote: warning: File temp_dl.mp3 is 65.40 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
-remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+ ! [remote rejected] HEAD -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/takaakinet-tech/news-ai-digest.git'
+[main e28f1ea] Add episode: Genius Makers by Cade Metz: Chapter 16: WEAPONIZATION "You probably heard Elon Musk and his comment about AI causing WW3."
+ 2 files changed, 26 insertions(+), 24 deletions(-)
+ create mode 100644 episodes/episode_1778344049.mp3
+remote: error: Trace: 2a7b5c32be3579f2362f04b75fdd3e916f87204ae3fab6ac357f49d68b77ce0f        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File jre_#2494.mp3 is 132.97 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File jre_#2482.mp3 is 123.55 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
 To https://github.com/takaakinet-tech/news-ai-digest.git
-   036ffb3..44e4843  HEAD -> main
-[main 4e491d5] Add episode: Genius Makers: Chapter 19: AUTOMATION
- 5 files changed, 50 insertions(+), 26 deletions(-)
- create mode 100644 episodes/episode_1778341493.mp3
- create mode 100644 episodes/episode_1778341574.mp3
-remote: warning: See https://gh.io/lfs for more information.        
-remote: warning: File temp_dl.mp3 is 67.69 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
-remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+ ! [remote rejected] HEAD -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/takaakinet-tech/news-ai-digest.git'
+[main 913a2af] Add episode: Genius Makers by Cade Metz: Chapter 17: IMPOTENCE "There are people in Russia whose job it is to try to exploit our systems. So this is an arms race, right?"
+ 3 files changed, 37 insertions(+), 20 deletions(-)
+ create mode 100644 episodes/episode_1778344232.mp3
+remote: error: Trace: e11eb5f67861c0113e2f8ba56d72b8829b7cfbe711fb594eaaa40a6e399a63b0        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File jre_#2494.mp3 is 132.97 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File jre_#2482.mp3 is 123.55 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
 To https://github.com/takaakinet-tech/news-ai-digest.git
-   44e4843..4e491d5  HEAD -> main
-[main 24ec2a3] Add episode: Genius Makers: Chapter 20: RELIGION
- 5 files changed, 49 insertions(+), 26 deletions(-)
- create mode 100644 episodes/episode_1778341638.mp3
- create mode 100644 episodes/episode_1778341735.mp3
+ ! [remote rejected] HEAD -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/takaakinet-tech/news-ai-digest.git'
+[main 2aef89b] Add episode: Genius Makers by Cade Metz: Chapter 19: AUTOMATION "If the room looked like things had gone crazy, we were on the right track."
+ 3 files changed, 37 insertions(+), 20 deletions(-)
+ create mode 100644 episodes/episode_1778344460.mp3
+remote: error: Trace: dbaafc69be2d7a5a6f2dd5eb1029d341b66440df874a19b7a421038d4fe37936        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File jre_#2494.mp3 is 132.97 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File jre_#2482.mp3 is 123.55 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
 To https://github.com/takaakinet-tech/news-ai-digest.git
-   4e491d5..24ec2a3  HEAD -> main
-[main ae47042] Add episode: Genius Makers: Chapter 21: X FACTOR
- 6 files changed, 72 insertions(+), 39 deletions(-)
- create mode 100644 episodes/episode_1778341745.mp3
- create mode 100644 episodes/episode_1778341821.mp3
- create mode 100644 episodes/episode_1778341865.mp3
-To https://github.com/takaakinet-tech/news-ai-digest.git
-   24ec2a3..ae47042  HEAD -> main
+ ! [remote rejected] HEAD -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/takaakinet-tech/news-ai-digest.git'
 Processing book: /Users/takaakimiyaguchi/Library/CloudStorage/Dropbox/Literature/Pleasure/Genius Makers by Cade Metz.pdf (Chapter 4 onwards)
 Uploading PDF to Gemini (this may take a minute for a full book)...
-Uploaded as files/iwsyb1k6ksb8
+Uploaded as files/ydmp3qu9p0w1
 Extracting chapter outline from the entire book...
-Successfully identified 21 chapters.
+Successfully identified 20 chapters.
 
-We will generate audio for the remaining 6 chapters.
+We will generate audio for the remaining 5 chapters.
 
---- Generating script for Chapter 16: WEAPONIZATION ---
-Generating audio for Chapter 16: WEAPONIZATION...
+--- Generating script for Chapter 15: BIGOTRY "Google Photos, y'all fucked up. My friend is not a gorilla." ---
+Generating audio for Chapter 15: BIGOTRY "Google Photos, y'all fucked up. My friend is not a gorilla."...
+Compressing MP3...
+Publishing Genius Makers by Cade Metz: Chapter 15: BIGOTRY "Google Photos, y'all fucked up. My friend is not a gorilla." to Podcast Feed...
+Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778343871.mp3
+
+--- Generating script for Chapter 16: WEAPONIZATION "You probably heard Elon Musk and his comment about AI causing WW3." ---
+Generating audio for Chapter 16: WEAPONIZATION "You probably heard Elon Musk and his comment about AI causing WW3."...
+Compressing MP3...
+Publishing Genius Makers by Cade Metz: Chapter 16: WEAPONIZATION "You probably heard Elon Musk and his comment about AI causing WW3." to Podcast Feed...
+Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778344049.mp3
+
+--- Generating script for Chapter 17: IMPOTENCE "There are people in Russia whose job it is to try to exploit our systems. So this is an arms race, right?" ---
+Generating audio for Chapter 17: IMPOTENCE "There are people in Russia whose job it is to try to exploit our systems. So this is an arms race, right?"...
+Compressing MP3...
+Publishing Genius Makers by Cade Metz: Chapter 17: IMPOTENCE "There are people in Russia whose job it is to try to exploit our systems. So this is an arms race, right?" to Podcast Feed...
+Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778344232.mp3
+
+--- Generating script for Chapter 18: DEBATE "However long the rapid progress continues, Gary will still argue it is about to end." ---
+Generating audio for Chapter 18: DEBATE "However long the rapid progress continues, Gary will still argue it is about to end."...
 TTS Failed: 500 INTERNAL. {'error': {'code': 500, 'message': 'An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting', 'status': 'INTERNAL'}}
 
---- Generating script for Chapter 17: IMPOTENCE ---
-Generating audio for Chapter 17: IMPOTENCE...
+--- Generating script for Chapter 19: AUTOMATION "If the room looked like things had gone crazy, we were on the right track." ---
+Generating audio for Chapter 19: AUTOMATION "If the room looked like things had gone crazy, we were on the right track."...
 Compressing MP3...
-Publishing Genius Makers: Chapter 17: IMPOTENCE to Podcast Feed...
-Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341288.mp3
-
---- Generating script for Chapter 18: DEBATE ---
-Generating audio for Chapter 18: DEBATE...
-Compressing MP3...
-Publishing Genius Makers: Chapter 18: DEBATE to Podcast Feed...
-Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341429.mp3
-
---- Generating script for Chapter 19: AUTOMATION ---
-Generating audio for Chapter 19: AUTOMATION...
-Compressing MP3...
-Publishing Genius Makers: Chapter 19: AUTOMATION to Podcast Feed...
-Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341574.mp3
-
---- Generating script for Chapter 20: RELIGION ---
-Generating audio for Chapter 20: RELIGION...
-Compressing MP3...
-Publishing Genius Makers: Chapter 20: RELIGION to Podcast Feed...
-Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341735.mp3
-
---- Generating script for Chapter 21: X FACTOR ---
-Generating audio for Chapter 21: X FACTOR...
-Compressing MP3...
-Publishing Genius Makers: Chapter 21: X FACTOR to Podcast Feed...
-Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341865.mp3
+Publishing Genius Makers by Cade Metz: Chapter 19: AUTOMATION "If the room looked like things had gone crazy, we were on the right track." to Podcast Feed...
+Published to GitHub Actions! URL: https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778344460.mp3
 
 Book processing complete!

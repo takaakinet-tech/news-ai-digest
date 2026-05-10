@@ -25,7 +25,6 @@ PODCASTS = [
     {"publisher": "Wall Street Journal", "title": "The Journal", "rss_url": "https://feeds.megaphone.fm/WSJ4693364973", "slug": "the_journal"},
     {"publisher": "Financial Times", "title": "FT News Briefing", "rss_url": "https://feeds.acast.com/public/shows/73fe3ede-5c5c-4850-96a8-30db8dbae8bf", "slug": "ft_news"},
     {"publisher": "Bloomberg", "title": "The Big Take", "rss_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/8b1dd624-a026-43e9-8b57-ae2b00130066/podcast.rss", "slug": "bloomberg_take"},
-    {"publisher": "Harvard Business Review", "title": "HBR IdeaCast", "rss_url": "http://feeds.harvardbusiness.org/harvardbusiness/ideacast", "slug": "hbr_ideacast"},
     {"publisher": "Harvard Business Review", "title": "Cold Call", "rss_url": "http://feeds.harvardbusiness.org/harvardbusiness/cold-call", "slug": "hbr_coldcall"},
     {"publisher": "Washington Post", "title": "Post Reports", "rss_url": "https://podcast.posttv.com/itunes/post-reports.xml", "slug": "wapo_post"}
 ]
@@ -119,7 +118,7 @@ Output ONLY in Scale Markdown format (plain text, NO markdown symbols)."""
         mp3_fn = f"temp_{int(time.time())}.mp3"
         with open(wav_fn, "wb") as f: f.write(wav_bytes)
         
-        subprocess.run(["ffmpeg", "-y", "-f", "s16le", "-ar", "24000", "-ac", "1", "-i", wav_fn, "-filter:a", "atempo=1.25", "-b:a", "128k", mp3_fn], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        subprocess.run(["/opt/homebrew/bin/ffmpeg", "-y", "-f", "s16le", "-ar", "24000", "-ac", "1", "-i", wav_fn, "-filter:a", "atempo=1.25", "-b:a", "128k", mp3_fn], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         
         with open(mp3_fn, "rb") as f: mp3_bytes = f.read()
         
