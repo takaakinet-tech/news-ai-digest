@@ -1,15 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>News AI Digest</title>
     <link>https://takaakinet-tech.github.io/news-ai-digest</link>
     <description>Ultra-fast, AI-summarized global news updates.</description>
     <language>en-us</language>
-    <ns0:author>Antigravity AI</ns0:author>
-    <ns0:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
+    <itunes:author>Antigravity AI</itunes:author>
+    <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
+    <item>
+      <title>Bloomberg The Big Take: Weekend Listen: Will the Xi-Trump Summit Be Over Before It Starts?</title>
+      <itunes:title>Bloomberg The Big Take: Weekend Listen: Will the Xi-Trump Summit Be Over Before It Starts?</itunes:title>
+      <description>Bloomberg The Big Take: Weekend Listen: Will the Xi-Trump Summit Be Over Before It Starts?
+
+Here's an audio briefing script for The Big Take, adhering to your specified structure and formatting requirements.
+
+The Big Take: US-China AI Race and Trump's Strategic Patience
+
+CORE THESIS
+This episode of The Big Take dissects the complex and tense landscape of US-China relations ahead of a potentially rescheduled summit between Presidents Trump and Xi Jinping. The central theme revolves around the shifting dynamics of power and leverage, particularly in areas like trade and critical technologies such as AI, against the backdrop of the ongoing Iran crisis. While both sides have incentives to meet and de-escalate, deep-seated mistrust and strategic competition complicate any path forward.
+
+KEY INSIGHTS
+1. The Iran crisis as a double-edged sword for US-China relations: The US administration's actions in Iran, including a blockade and sanctions, are viewed as collateral damage by China, impacting its energy imports and trade. However, China is using this as an opportunity to portray itself as a more reliable global citizen and has taken the unprecedented step of instructing its companies not to abide by US sanctions on Iranian oil, signaling a new level of defiance. This creates friction but also an incentive for China to maintain stability with the US to protect its economic interests.
+
+2. China's growing leverage and strategic patience: China has demonstrated increasing leverage, particularly through its control over critical minerals and its willingness to use economic tools to push its agenda. This was evident during the trade war, where China's actions prompted the US to negotiate. Now, as the US faces a critical election year and seeks to stabilize the global economy, China is in a stronger position to resist US pressure, forcing the US to carefully consider the broader implications of its actions on global markets and supply chains.
+
+3. The US's surprising lead in advanced AI as a new leverage point: Despite conventional wisdom, the US appears to hold a significant lead in potent forms of AI, a factor that could influence future negotiations. This technological advantage provides the US with a new form of leverage over China, particularly in areas of national security and economic competition. While this lead is currently temporary, it could shape the terms of engagement and compel China to seek stability to avoid falling further behind.
+
+SO WHAT?
+The planned summit between Presidents Trump and Xi Jinping, if it proceeds, will be less about major breakthroughs and more about managing an increasingly volatile relationship. The outcome hinges on whether both leaders, despite their differing negotiating styles and domestic pressures, can find common ground to prevent further economic and geopolitical destabilization. Expect tactical maneuvering, where symbolic gestures and careful phrasing will be as important as concrete agreements. The real test will be if this engagement can foster a return to a more predictable and stable, albeit competitive, relationship rather than spiraling into further conflict, especially with an election year looming for both countries and key global events like the APEC and G20 summits on the horizon.
+
+GOLDEN QUOTE
+"This situation really underscores the shift in leverage between the United States and China over the last year. I can't underscore enough the impact of China's use of its grip over critical minerals to put the onus back on Washington last year during the height of the trade war and push Washington towards the negotiating table, push it towards a pause that eventually led to the Busan meeting and a more enduring truce."</description>
+      <pubDate>Sun, 10 May 2026 16:19:11 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778429951.mp3" length="2426157" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778429951.mp3</guid>
+    </item>
     <item>
       <title>Harvard Business Review Cold Call: How a Family-Owned Greek Cement Company Evolved Its Leadership While Pivoting Its Product Portfolio</title>
-      <ns0:title>Harvard Business Review Cold Call: How a Family-Owned Greek Cement Company Evolved Its Leadership While Pivoting Its Product Portfolio</ns0:title>
+      <itunes:title>Harvard Business Review Cold Call: How a Family-Owned Greek Cement Company Evolved Its Leadership While Pivoting Its Product Portfolio</itunes:title>
       <description>Harvard Business Review Cold Call: How a Family-Owned Greek Cement Company Evolved Its Leadership While Pivoting Its Product Portfolio
 
 Welcome to this special briefing on the Cold Call episode featuring Harvard Business School Professor George Serafeim and Dimitri Papalexopoulos, former CEO and current Chair of Titan Cement International. This episode dives into the remarkable journey of a century-old Greek industrial giant navigating profound crises and transforming its future.
@@ -37,7 +65,7 @@ Thank you for joining this briefing.</description>
     </item>
     <item>
       <title>Washington Post Post Reports: Goodbye from "Post Reports"</title>
-      <ns0:title>Washington Post Post Reports: Goodbye from "Post Reports"</ns0:title>
+      <itunes:title>Washington Post Post Reports: Goodbye from "Post Reports"</itunes:title>
       <description>Washington Post Post Reports: Goodbye from "Post Reports"
 
 Today, we dissect the emotional final episode of "Post Reports," the daily news podcast from The Washington Post. After seven impactful years, the episode serves as a heartfelt farewell, reflecting on its mission to bring incisive journalism directly into listeners' lives. It expresses profound gratitude to both its talented team and the engaged community built around shared understanding and trust, marking the conclusion of a significant chapter in daily audio news.
@@ -58,7 +86,7 @@ And finally, to encapsulate the profound bond forged between the podcast and its
     </item>
     <item>
       <title>Bloomberg The Big Take: Trump Is Losing the ‘MAHA Moms’</title>
-      <ns0:title>Bloomberg The Big Take: Trump Is Losing the ‘MAHA Moms’</ns0:title>
+      <itunes:title>Bloomberg The Big Take: Trump Is Losing the ‘MAHA Moms’</itunes:title>
       <description>Bloomberg The Big Take: Trump Is Losing the ‘MAHA Moms’
 
 THE CORE THESIS
@@ -89,7 +117,7 @@ THE GOLDEN QUOTE
     </item>
     <item>
       <title>Financial Times FT News Briefing: Political Fix Election special: snap analysis</title>
-      <ns0:title>Financial Times FT News Briefing: Political Fix Election special: snap analysis</ns0:title>
+      <itunes:title>Financial Times FT News Briefing: Political Fix Election special: snap analysis</itunes:title>
       <description>Financial Times FT News Briefing: Political Fix Election special: snap analysis
 
 0:00:00.000,0:00:00.590
@@ -124,7 +152,7 @@ The immediate aftermath of these elections will undoubtedly trigger intense intr
     </item>
     <item>
       <title>Wall Street Journal The Journal: Can GameStop Really Buy eBay?</title>
-      <ns0:title>Wall Street Journal The Journal: Can GameStop Really Buy eBay?</ns0:title>
+      <itunes:title>Wall Street Journal The Journal: Can GameStop Really Buy eBay?</itunes:title>
       <description>Wall Street Journal The Journal: Can GameStop Really Buy eBay?
 
 The Journal Briefing: GameStop's Bold Ambition
@@ -156,7 +184,7 @@ As Ryan Cohen articulates his ambitious plan for eBay, he leaves no doubt about 
     </item>
     <item>
       <title>New York Times Hard Fork: Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School</title>
-      <ns0:title>New York Times Hard Fork: Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School</ns0:title>
+      <itunes:title>New York Times Hard Fork: Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School</itunes:title>
       <description>New York Times Hard Fork: Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School
 
 Hello and welcome to this week's Hard Fork briefing.
@@ -182,7 +210,7 @@ These technological evolutions represent more than just incremental changes; the
     </item>
     <item>
       <title>The Economist The Intelligence: Drone team: Russia’s plan to arm Iran</title>
-      <ns0:title>The Economist The Intelligence: Drone team: Russia’s plan to arm Iran</ns0:title>
+      <itunes:title>The Economist The Intelligence: Drone team: Russia’s plan to arm Iran</itunes:title>
       <description>The Economist The Intelligence: Drone team: Russia’s plan to arm Iran
 
 * * *
@@ -210,7 +238,7 @@ Our golden quote this week comes from J. Craig Venter's early life insight: "If 
     </item>
     <item>
       <title>The AI Breakdown: How to Build an AI Native Team with Mike Cannon-Brookes</title>
-      <ns0:title>The AI Breakdown: How to Build an AI Native Team with Mike Cannon-Brookes</ns0:title>
+      <itunes:title>The AI Breakdown: How to Build an AI Native Team with Mike Cannon-Brookes</itunes:title>
       <description>The AI Breakdown: How to Build an AI Native Team with Mike Cannon-Brookes
 
 Today on The AI Daily Brief, we're diving deep into the complexities of enterprise AI adoption, as illuminated by Atlassian co-founder and CEO, Mike Cannon-Brookes. The core thesis of our discussion today highlights that successful AI integration in businesses isn't just about deploying advanced models. It's fundamentally about multiplying intelligence with rich, organizational context, fostering a culture of continuous learning, and seamlessly integrating AI into both existing and evolving workflows to drive significant, measurable productivity gains beyond simple chat interfaces.
@@ -230,7 +258,7 @@ Mike Cannon-Brookes captured a fundamental truth of this transition, stating: "A
     </item>
     <item>
       <title>New York Times The Daily: For Mother’s Day, Classic Mom-isms</title>
-      <ns0:title>New York Times The Daily: For Mother’s Day, Classic Mom-isms</ns0:title>
+      <itunes:title>New York Times The Daily: For Mother’s Day, Classic Mom-isms</itunes:title>
       <description>New York Times The Daily: For Mother’s Day, Classic Mom-isms
 
 The Core Thesis
@@ -258,7 +286,7 @@ The Golden Quote
     </item>
     <item>
       <title>BBC World News Digest: Israel continues airstrikes in Lebanon</title>
-      <ns0:title>BBC World News Digest: Israel continues airstrikes in Lebanon</ns0:title>
+      <itunes:title>BBC World News Digest: Israel continues airstrikes in Lebanon</itunes:title>
       <description>BBC World News Digest: Israel continues airstrikes in Lebanon
 
 Core Thesis:
@@ -285,7 +313,7 @@ Golden Quote
     </item>
     <item>
       <title>JRE Digest: #2494 - Chamath Palihapitiya</title>
-      <ns0:title>JRE Digest: #2494 - Chamath Palihapitiya</ns0:title>
+      <itunes:title>JRE Digest: #2494 - Chamath Palihapitiya</itunes:title>
       <description>JRE Digest: #2494 - Chamath Palihapitiya
 
 Hello and welcome to this briefing on the latest Joe Rogan Experience, featuring the insightful Chamath Palihapitiya. This episode plunges deep into the existential questions of our time, exploring the forces that shape our society and the potential future of humanity itself.
@@ -307,7 +335,7 @@ So what are the broader implications of this conversation for society and for us
     </item>
     <item>
       <title>JRE Digest: #2482 - Andy Stumpf</title>
-      <ns0:title>JRE Digest: #2482 - Andy Stumpf</ns0:title>
+      <itunes:title>JRE Digest: #2482 - Andy Stumpf</itunes:title>
       <description>JRE Digest: #2482 - Andy Stumpf
 
 The Core Thesis
@@ -331,7 +359,7 @@ This episode serves as a powerful reminder that while we often seek comfort and 
     </item>
     <item>
       <title>JRE Digest: #2479 - Bob Lazar &amp; Luigi Vendittelli</title>
-      <ns0:title>JRE Digest: #2479 - Bob Lazar &amp; Luigi Vendittelli</ns0:title>
+      <itunes:title>JRE Digest: #2479 - Bob Lazar &amp; Luigi Vendittelli</itunes:title>
       <description>JRE Digest: #2479 - Bob Lazar &amp; Luigi Vendittelli
 
 Tonight, we delve into a conversation that transcends mere anecdote, offering profound validation to decades of extraordinary claims. The core thesis is this: Bob Lazar's controversial accounts of working with extraterrestrial technology at Area 51's S-4 facility, once dismissed as impossible, have now been meticulously and emotionally authenticated through a groundbreaking film using advanced digital recreation, forcing us to confront the undeniable reality of non-human intelligence and its technology on Earth.
@@ -355,7 +383,7 @@ The conversation touches on whether humanity, with its territorial primate insti
     </item>
     <item>
       <title>JRE Digest: #2476 - Shanna H. Swan</title>
-      <ns0:title>JRE Digest: #2476 - Shanna H. Swan</ns0:title>
+      <itunes:title>JRE Digest: #2476 - Shanna H. Swan</itunes:title>
       <description>JRE Digest: #2476 - Shanna H. Swan
 
 The core thesis revolves around the pervasive and alarming impact of endocrine-disrupting chemicals, primarily from plastics and various consumer products, on human and animal fertility, testosterone levels, and overall health, contributing to a global population decline and posing a significant threat to life as we know it.
@@ -381,7 +409,7 @@ The broader implications are profound. This isn't merely an individual health co
     </item>
     <item>
       <title>Genius Makers by Cade Metz: Chapter 19: AUTOMATION "If the room looked like things had gone crazy, we were on the right track."</title>
-      <ns0:title>Genius Makers by Cade Metz: Chapter 19: AUTOMATION "If the room looked like things had gone crazy, we were on the right track."</ns0:title>
+      <itunes:title>Genius Makers by Cade Metz: Chapter 19: AUTOMATION "If the room looked like things had gone crazy, we were on the right track."</itunes:title>
       <description>Genius Makers by Cade Metz: Chapter 19: AUTOMATION "If the room looked like things had gone crazy, we were on the right track."
 
 Here is your briefing script for Chapter 19: AUTOMATION.
@@ -407,7 +435,7 @@ This chapter illustrates a monumental acceleration in automation, moving beyond 
     </item>
     <item>
       <title>Genius Makers by Cade Metz: Chapter 17: IMPOTENCE "There are people in Russia whose job it is to try to exploit our systems. So this is an arms race, right?"</title>
-      <ns0:title>Genius Makers by Cade Metz: Chapter 17: IMPOTENCE "There are people in Russia whose job it is to try to exploit our systems. So this is an arms race, right?"</ns0:title>
+      <itunes:title>Genius Makers by Cade Metz: Chapter 17: IMPOTENCE "There are people in Russia whose job it is to try to exploit our systems. So this is an arms race, right?"</itunes:title>
       <description>Genius Makers by Cade Metz: Chapter 17: IMPOTENCE "There are people in Russia whose job it is to try to exploit our systems. So this is an arms race, right?"
 
 The core point of Chapter 17, titled "Impotehce," starkly reveals the limitations of artificial intelligence when confronted with the nuanced complexities of human behavior, intent, and rapidly evolving malicious content. Despite tech giants' immense resources and public confidence, AI proved fundamentally impotent in solving the profound societal problems it inadvertently helped create.
@@ -433,7 +461,7 @@ The broader implications of this chapter are profound. It underscores that even 
     </item>
     <item>
       <title>Genius Makers by Cade Metz: Chapter 16: WEAPONIZATION "You probably heard Elon Musk and his comment about AI causing WW3."</title>
-      <ns0:title>Genius Makers by Cade Metz: Chapter 16: WEAPONIZATION "You probably heard Elon Musk and his comment about AI causing WW3."</ns0:title>
+      <itunes:title>Genius Makers by Cade Metz: Chapter 16: WEAPONIZATION "You probably heard Elon Musk and his comment about AI causing WW3."</itunes:title>
       <description>Genius Makers by Cade Metz: Chapter 16: WEAPONIZATION "You probably heard Elon Musk and his comment about AI causing WW3."
 
 Hello. This is your audio briefing. Today, we're delving into a critical chapter from "Genius Makers" titled "Weaponization," exploring the unsettling intersection of artificial intelligence and military applications.
@@ -459,7 +487,7 @@ The broader implications of this chapter are far-reaching. The rapid progress in
     </item>
     <item>
       <title>Genius Makers by Cade Metz: Chapter 15: BIGOTRY "Google Photos, y'all fucked up. My friend is not a gorilla."</title>
-      <ns0:title>Genius Makers by Cade Metz: Chapter 15: BIGOTRY "Google Photos, y'all fucked up. My friend is not a gorilla."</ns0:title>
+      <itunes:title>Genius Makers by Cade Metz: Chapter 15: BIGOTRY "Google Photos, y'all fucked up. My friend is not a gorilla."</itunes:title>
       <description>Genius Makers by Cade Metz: Chapter 15: BIGOTRY "Google Photos, y'all fucked up. My friend is not a gorilla."
 
 Here is your audio briefing script for Chapter 15: BIGOTRY "Google Photos, y'all fucked up. My friend is not a gorilla."
@@ -494,7 +522,7 @@ This chapter reveals that the challenges of artificial intelligence extend far b
     </item>
     <item>
       <title>Washington Post Post Reports: A surprise Kennedy Center makeover</title>
-      <ns0:title>Washington Post Post Reports: A surprise Kennedy Center makeover</ns0:title>
+      <itunes:title>Washington Post Post Reports: A surprise Kennedy Center makeover</itunes:title>
       <description>Washington Post Post Reports: A surprise Kennedy Center makeover
 
 In his second term, Donald Trump has initiated a politically charged overhaul of the Kennedy Center, renaming it and planning an extensive renovation. This move has sparked widespread boycotts from artists and audiences, creating significant financial and operational instability that threatens the institution's future viability and cultural mission.
@@ -514,7 +542,7 @@ The profound impact of the artist and audience boycotts was encapsulated by repo
     </item>
     <item>
       <title>Washington Post Post Reports: A teddy bear, an ice skate: What remains from last year's deadly D.C. plane crash</title>
-      <ns0:title>Washington Post Post Reports: A teddy bear, an ice skate: What remains from last year's deadly D.C. plane crash</ns0:title>
+      <itunes:title>Washington Post Post Reports: A teddy bear, an ice skate: What remains from last year's deadly D.C. plane crash</itunes:title>
       <description>Washington Post Post Reports: A teddy bear, an ice skate: What remains from last year's deadly D.C. plane crash
 
 The horrific plane crash at Ronald Reagan Washington National Airport, deemed "100% preventable," precipitated an unprecedented human-centered recovery effort, revealing the profound and lasting impact on victims' families and first responders alike.
@@ -534,7 +562,7 @@ As one diver profoundly stated after finding a small ice skate: "Its meaning, un
     </item>
     <item>
       <title>Harvard Business Review Cold Call: The Challenges of Scaling a Technology for Social Good</title>
-      <ns0:title>Harvard Business Review Cold Call: The Challenges of Scaling a Technology for Social Good</ns0:title>
+      <itunes:title>Harvard Business Review Cold Call: The Challenges of Scaling a Technology for Social Good</itunes:title>
       <description>Harvard Business Review Cold Call: The Challenges of Scaling a Technology for Social Good
 
 The Cold Call episode explores how true innovation extends far beyond technical ingenuity, highlighting that the biggest hurdles for groundbreaking solutions like reinvented toilets are often commercialization and market adoption, not just engineering.
@@ -554,7 +582,7 @@ As Shannon Yee, the protagonist of the case, succinctly puts it: "The technology
     </item>
     <item>
       <title>Harvard Business Review Cold Call: Should Wasabi Technologies Make the Move from Direct Sales to a Channel Strategy?</title>
-      <ns0:title>Harvard Business Review Cold Call: Should Wasabi Technologies Make the Move from Direct Sales to a Channel Strategy?</ns0:title>
+      <itunes:title>Harvard Business Review Cold Call: Should Wasabi Technologies Make the Move from Direct Sales to a Channel Strategy?</itunes:title>
       <description>Harvard Business Review Cold Call: Should Wasabi Technologies Make the Move from Direct Sales to a Channel Strategy?
 
 Wasabi Technologies, a rapidly growing cloud storage startup, faced a critical go-to-market dilemma: either maintain its highly successful direct sales model or pivot to a complex channel strategy to unlock new growth and compete with industry giants. The company's future hinged on understanding how buyers wanted to buy and whether it could adapt its internal culture and external partnerships.
@@ -570,7 +598,7 @@ This shift was encapsulated when a sales representative from a value-added resel
     </item>
     <item>
       <title>Harvard Business Review HBR IdeaCast: New Skills to Navigate Continuous Change</title>
-      <ns0:title>Harvard Business Review HBR IdeaCast: New Skills to Navigate Continuous Change</ns0:title>
+      <itunes:title>Harvard Business Review HBR IdeaCast: New Skills to Navigate Continuous Change</itunes:title>
       <description>Harvard Business Review HBR IdeaCast: New Skills to Navigate Continuous Change
 
 In an era of constant change and heightened uncertainty, accelerated by the rise of AI, leaders must fundamentally shift their approach from a command-and-control mindset rooted in knowing to one that embraces deep curiosity, continuous learning, and collaborative co-creation across the entire organization.
@@ -590,7 +618,7 @@ As the guest succinctly puts it, "I think we've got to change our perspective of
     </item>
     <item>
       <title>JRE Digest: #2496 - Julia Mossbridge</title>
-      <ns0:title>JRE Digest: #2496 - Julia Mossbridge</ns0:title>
+      <itunes:title>JRE Digest: #2496 - Julia Mossbridge</itunes:title>
       <description>JRE Digest: #2496 - Julia Mossbridge
 
 Julia Mossbridge believes that many exceptional human capacities, like precognition, are real and useful. However, academic dogma, driven by ego and a need to be "right," actively suppresses these innate abilities, hindering genuine discovery. Joe Rogan agrees, highlighting how the internet empowers open discussion and challenges traditional gatekeepers, allowing for broader exploration of human potential.
@@ -612,7 +640,7 @@ This conversation calls for a societal shift towards intellectual humility and g
     </item>
     <item>
       <title>Harvard Business Review HBR IdeaCast: Why Your Team Won’t Speak Up (And How to Fix It)</title>
-      <ns0:title>Harvard Business Review HBR IdeaCast: Why Your Team Won’t Speak Up (And How to Fix It)</ns0:title>
+      <itunes:title>Harvard Business Review HBR IdeaCast: Why Your Team Won’t Speak Up (And How to Fix It)</itunes:title>
       <description>Harvard Business Review HBR IdeaCast: Why Your Team Won’t Speak Up (And How to Fix It)
 
 The Core Thesis:
@@ -636,7 +664,7 @@ The guest highlighted the core of psychological safety by stating, "I believe th
     </item>
     <item>
       <title>Harvard Business Review HBR IdeaCast: What Sets Superteams Apart from the Rest</title>
-      <ns0:title>Harvard Business Review HBR IdeaCast: What Sets Superteams Apart from the Rest</ns0:title>
+      <itunes:title>Harvard Business Review HBR IdeaCast: What Sets Superteams Apart from the Rest</itunes:title>
       <description>Harvard Business Review HBR IdeaCast: What Sets Superteams Apart from the Rest
 
 This episode of the HBR IdeaCast reveals that super teams are not defined by inherent talent, but by cultivating specific, learnable habits. Any team can dramatically improve its performance by focusing on these actionable behaviors.
@@ -656,7 +684,7 @@ The Oklahoma City Thunder, even while winning, famously traded away their best p
     </item>
     <item>
       <title>Bloomberg The Big Take: Boston Fed President Collins on FOMC Dissent and Kevin Warsh’s Nomination</title>
-      <ns0:title>Bloomberg The Big Take: Boston Fed President Collins on FOMC Dissent and Kevin Warsh’s Nomination</ns0:title>
+      <itunes:title>Bloomberg The Big Take: Boston Fed President Collins on FOMC Dissent and Kevin Warsh’s Nomination</itunes:title>
       <description>Bloomberg The Big Take: Boston Fed President Collins on FOMC Dissent and Kevin Warsh’s Nomination
 
 The Federal Reserve is in a difficult situation, navigating persistent inflation driven by geopolitical shocks and internal disagreements while striving to maintain its credibility and dual mandate of price stability and maximum employment.
@@ -676,7 +704,7 @@ As Susan Collins stated, "I don't think you can take inflation expectations for 
     </item>
     <item>
       <title>Bloomberg The Big Take: NASA Administrator on Aliens, SpaceX IPO and Beating China to the Moon</title>
-      <ns0:title>Bloomberg The Big Take: NASA Administrator on Aliens, SpaceX IPO and Beating China to the Moon</ns0:title>
+      <itunes:title>Bloomberg The Big Take: NASA Administrator on Aliens, SpaceX IPO and Beating China to the Moon</itunes:title>
       <description>Bloomberg The Big Take: NASA Administrator on Aliens, SpaceX IPO and Beating China to the Moon
 
 America is embarking on a bold and accelerated new era of space exploration, largely driven by strategic competition with China and a deep reliance on private sector innovation.
@@ -696,7 +724,7 @@ As Jared Isaacman put it, what you think you know about what they're capable of 
     </item>
     <item>
       <title>Financial Times FT News Briefing: GameStop’s wild bid for eBay</title>
-      <ns0:title>Financial Times FT News Briefing: GameStop’s wild bid for eBay</ns0:title>
+      <itunes:title>Financial Times FT News Briefing: GameStop’s wild bid for eBay</itunes:title>
       <description>Financial Times FT News Briefing: GameStop’s wild bid for eBay
 
 The global economy is currently navigating a treacherous landscape marked by significant geopolitical instability and transformative technological shifts, pushing major players to make risky, high-stakes decisions with uncertain outcomes.
@@ -716,7 +744,7 @@ As one reporter highlighted, "The problem is India's ballooning trade deficit, a
     </item>
     <item>
       <title>Financial Times FT News Briefing: LVMH looks to shrink its luxury empire</title>
-      <ns0:title>Financial Times FT News Briefing: LVMH looks to shrink its luxury empire</ns0:title>
+      <itunes:title>Financial Times FT News Briefing: LVMH looks to shrink its luxury empire</itunes:title>
       <description>Financial Times FT News Briefing: LVMH looks to shrink its luxury empire
 
 Good morning from the Financial Times. Today is Thursday, May 7th, and this is your FT News Briefing.
@@ -738,7 +766,7 @@ As one FT reporter put it, "The trick mirror of an exclusive product that's also
     </item>
     <item>
       <title>Wall Street Journal The Journal: A Data Center Revolt in Missouri</title>
-      <ns0:title>Wall Street Journal The Journal: A Data Center Revolt in Missouri</ns0:title>
+      <itunes:title>Wall Street Journal The Journal: A Data Center Revolt in Missouri</itunes:title>
       <description>Wall Street Journal The Journal: A Data Center Revolt in Missouri
 
 In the small Missouri town of Festus, a proposed six-billion-dollar data center sparked intense local opposition, leading to significant political upheaval and the ousting of elected officials. This local struggle mirrors a growing national backlash against the rapid expansion of data centers, even as the AI boom fuels their construction.
@@ -758,7 +786,7 @@ The mayor of Festus, Sam Richards, grappling with the widespread anger and accus
     </item>
     <item>
       <title>Wall Street Journal The Journal: 'Eject! Eject! Eject!' Inside the Private Credit Panic</title>
-      <ns0:title>Wall Street Journal The Journal: 'Eject! Eject! Eject!' Inside the Private Credit Panic</ns0:title>
+      <itunes:title>Wall Street Journal The Journal: 'Eject! Eject! Eject!' Inside the Private Credit Panic</itunes:title>
       <description>Wall Street Journal The Journal: 'Eject! Eject! Eject!' Inside the Private Credit Panic
 
 The private credit market, once a niche for large institutions, is facing a liquidity crisis as its vulnerabilities become apparent, even as regulators push to make it more accessible to individual investors, creating a potential systemic risk.
@@ -778,7 +806,7 @@ As one investor noted, "You know, as an individual, I have life events that come
     </item>
     <item>
       <title>Genius Makers: Chapter 21: X FACTOR</title>
-      <ns0:title>Genius Makers: Chapter 21: X FACTOR</ns0:title>
+      <itunes:title>Genius Makers: Chapter 21: X FACTOR</itunes:title>
       <description>Genius Makers: Chapter 21: X FACTOR
 
 Here is a briefing script for "Chapter 21: X FACTOR" from "Genius Makers":
@@ -804,7 +832,7 @@ As Hinton reflected on the cyclical nature of AI research and his lifelong commi
     </item>
     <item>
       <title>The Economist The Intelligence: A hatred normalised: antisemitism in Britain</title>
-      <ns0:title>The Economist The Intelligence: A hatred normalised: antisemitism in Britain</ns0:title>
+      <itunes:title>The Economist The Intelligence: A hatred normalised: antisemitism in Britain</itunes:title>
       <description>The Economist The Intelligence: A hatred normalised: antisemitism in Britain
 
 The Intelligence today explores how societies grapple with crises, from rising antisemitism in Britain to the shifting fortunes of luxury brands and political upheavals in Argentina. A common thread emerges: the complex interplay between societal values, economic realities, and leadership responses in shaping national identity and future.
@@ -824,7 +852,7 @@ Britain's Chief Rabbi Sir Ephraim Mirvis said recently that "it's not just that 
     </item>
     <item>
       <title>The Economist The Intelligence: On the off chancellor: Friedrich Merz, one year in</title>
-      <ns0:title>The Economist The Intelligence: On the off chancellor: Friedrich Merz, one year in</ns0:title>
+      <itunes:title>The Economist The Intelligence: On the off chancellor: Friedrich Merz, one year in</itunes:title>
       <description>The Economist The Intelligence: On the off chancellor: Friedrich Merz, one year in
 
 This episode explores how fundamental shifts in technology, geopolitics, and political discourse are eroding established norms, leading to increased uncertainty and fragmented trust across global leadership, international alliances, and digital interactions.
@@ -844,7 +872,7 @@ The episode highlighted how this new era of communication manifests itself direc
     </item>
     <item>
       <title>Genius Makers: Chapter 20: RELIGION</title>
-      <ns0:title>Genius Makers: Chapter 20: RELIGION</ns0:title>
+      <itunes:title>Genius Makers: Chapter 20: RELIGION</itunes:title>
       <description>Genius Makers: Chapter 20: RELIGION
 
 Chapter 20, titled "Religion," delves into the profound, almost faith-driven belief in Artificial General Intelligence, or AGI, that came to dominate the leading edge of AI research. This chapter argues that despite previous "AI winters" and academic skepticism, the idea of building machines capable of anything the human brain could do became an unwavering conviction for a select group of pioneers, driving unprecedented investment and shaping the very future of the field.
@@ -864,7 +892,7 @@ To encapsulate this ambitious, yet paradoxically grounded, pursuit of advanced A
     </item>
     <item>
       <title>Genius Makers: Chapter 19: AUTOMATION</title>
-      <ns0:title>Genius Makers: Chapter 19: AUTOMATION</ns0:title>
+      <itunes:title>Genius Makers: Chapter 19: AUTOMATION</itunes:title>
       <description>Genius Makers: Chapter 19: AUTOMATION
 
 THE CORE THESIS: The absolute core point of this chapter is how deep learning, particularly with techniques like reinforcement learning and extensive simulation, has enabled robots to acquire complex physical skills autonomously, marking a significant transition of artificial intelligence from digital realms to tangible industrial and real-world applications.
@@ -885,7 +913,7 @@ THE GOLDEN QUOTE: Peter Puchwein, vice president of Knapp, describing Covariant'
     </item>
     <item>
       <title>New York Times Hard Fork: OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM</title>
-      <ns0:title>New York Times Hard Fork: OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM</ns0:title>
+      <itunes:title>New York Times Hard Fork: OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM</itunes:title>
       <description>New York Times Hard Fork: OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM
 
 This week on Hard Fork, we delve into the turbulent landscape of artificial intelligence, as OpenAI navigates major strategic shifts while AI's rapid advancements fundamentally reshape industries like healthcare. The core thesis is that the AI industry is maturing into a complex, resource-intensive and highly competitive environment, where foundational players are forced to adapt, pivot, and contend with the ethical and practical implications of their powerful technology.
@@ -905,7 +933,7 @@ As one guest succinctly put it, "The biggest worry that I actually have about so
     </item>
     <item>
       <title>Genius Makers: Chapter 18: DEBATE</title>
-      <ns0:title>Genius Makers: Chapter 18: DEBATE</ns0:title>
+      <itunes:title>Genius Makers: Chapter 18: DEBATE</itunes:title>
       <description>Genius Makers: Chapter 18: DEBATE
 
 The core thesis of this chapter revolves around the escalating debate concerning the nature, limitations, and ethical implications of rapidly advancing artificial intelligence, particularly deep learning. It highlights a fundamental ideological divide within the AI community, contrasting those who believe machines can learn genuine intelligence from data with those who argue for inherent, wired-in knowledge as a prerequisite. This clash came to a head with Google's Duplex demonstration, forcing a re-evaluation of AI's capabilities and its societal impact.
@@ -923,7 +951,7 @@ This period marked a crucial turning point, moving AI from academic obscurity in
     </item>
     <item>
       <title>New York Times Hard Fork: Tim Cook’s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT</title>
-      <ns0:title>New York Times Hard Fork: Tim Cook’s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT</ns0:title>
+      <itunes:title>New York Times Hard Fork: Tim Cook’s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT</itunes:title>
       <description>New York Times Hard Fork: Tim Cook’s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT
 
 This Hard Fork episode delves into the profound leadership transition at Apple and the broader societal implications of artificial intelligence. The core point is that Tim Cook's departure as Apple CEO prompts a critical examination of his mixed legacy marked by immense financial growth but also strategic missteps in new platform development and AI, setting a challenging stage for his successor amidst a rapidly evolving tech landscape.
@@ -943,7 +971,7 @@ As Andrew Yang starkly puts it, "AI is going to compound with our current econom
     </item>
     <item>
       <title>Genius Makers: Chapter 17: IMPOTENCE</title>
-      <ns0:title>Genius Makers: Chapter 17: IMPOTENCE</ns0:title>
+      <itunes:title>Genius Makers: Chapter 17: IMPOTENCE</itunes:title>
       <description>Genius Makers: Chapter 17: IMPOTENCE
 
 THE CORE THESIS
