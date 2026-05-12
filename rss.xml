@@ -8,6 +8,36 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>New York Times The Daily: Why More Americans Are Seeking Religion</title>
+      <itunes:title>New York Times The Daily: Why More Americans Are Seeking Religion</itunes:title>
+      <description>New York Times The Daily: Why More Americans Are Seeking Religion
+
+Here's what you need to know from The Daily, today's episode focused on a surprising shift in American religiosity.
+
+The Core Thesis
+
+The episode of The Daily investigates a surprising reversal in American religious trends. After decades of declining church attendance and a rise in secularism, recent data indicates a significant "pause" in this decline, and even a nascent resurgence of interest in spirituality and faith, driven by a deep human need for meaning, community, and moral grounding in an increasingly fractured society.
+
+Three Key Insights
+
+First, the "Great Dechurching" has halted. For the first time since Pew Research began tracking, the number of Americans disaffiliating from religion has leveled off. This unexpected stabilization, and even a slight uptick in attendance among younger demographics and young men, challenges the prevailing narrative of secularization.
+
+Second, the COVID-19 pandemic acted as a catalyst for existential searching. The pandemic forced individuals to confront mortality, isolation, and a perceived lack of purpose in traditional secular pursuits. This led many to actively seek deeper meaning, community, and answers to life's big questions, often finding solace in spiritual or religious frameworks.
+
+Third, political and social isolation are driving a search for universal values. In a deeply polarized and often isolating society, people across the political spectrum are seeking transcendent ideologies, universalistic values, and genuine community that they feel are lacking in contemporary political and social discourse. This quest for connection and a shared moral compass is pushing some back towards faith, despite acknowledging the flaws of religious institutions.
+
+The 'So What?'
+
+This evolving landscape of belief is not merely a statistical anomaly; it signals a fundamental yearning within modern American life. It suggests that despite widespread skepticism and institutional challenges, religion and spirituality continue to offer vital components of human experience—community, ritual, and a framework for existential questions—that many feel are unmet by secular alternatives. Understanding this shift is crucial for comprehending the future of social cohesion and individual purpose in America.
+
+The Golden Quote
+
+As interviewee Nick Woomer-Deters powerfully articulated: "Without having a transcendent ideology that's universalistic and grounded in common for all of humanity, we inevitably fall into this kind of us against them world. And that just seems very poisonous to me. So the alternative to that is, you know, a universalistic religion where we're all, you know, equal, we're all created in the image of God."</description>
+      <pubDate>Tue, 12 May 2026 10:19:26 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778581166.mp3" length="1896237" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778581166.mp3</guid>
+    </item>
+    <item>
       <title>BBC World News Digest: Pressure mounts on Starmer to resign as British PM</title>
       <itunes:title>BBC World News Digest: Pressure mounts on Starmer to resign as British PM</itunes:title>
       <description>BBC World News Digest: Pressure mounts on Starmer to resign as British PM
@@ -1234,27 +1264,6 @@ To encapsulate this ambitious, yet paradoxically grounded, pursuit of advanced A
       <pubDate>Sat, 09 May 2026 15:48:55 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341735.mp3" length="2014893" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341735.mp3</guid>
-    </item>
-    <item>
-      <title>Genius Makers: Chapter 19: AUTOMATION</title>
-      <itunes:title>Genius Makers: Chapter 19: AUTOMATION</itunes:title>
-      <description>Genius Makers: Chapter 19: AUTOMATION
-
-THE CORE THESIS: The absolute core point of this chapter is how deep learning, particularly with techniques like reinforcement learning and extensive simulation, has enabled robots to acquire complex physical skills autonomously, marking a significant transition of artificial intelligence from digital realms to tangible industrial and real-world applications.
-
-THE 3 KEY INSIGHTS:
-First, advanced simulation and reinforcement learning have proven transformative for robotics. OpenAI's robotic hand, led by Wojciech Zaremba, learned to solve a Rubik's Cube through simulated trial and error equivalent to ten thousand virtual years. This experience allowed it to handle real-world uncertainties like nudges and unusual conditions, successfully transferring complex virtual learning to physical tasks and showcasing a new paradigm for robot training beyond explicit programming.
-
-Second, the chapter details a critical shift in AI development from traditional rule-based robot programming to learning-based systems. Google Brain's "Arm Farm," spearheaded by Sergey Levine, exemplified this by training robotic grippers to pick up diverse objects. Krizhevsky's mantra to "just get more data" revealed that continuous input and self-correction, rather than explicit instructions, were the keys to mastering intricate real-world manipulation, even amidst messy, chaotic learning environments.
-
-Third, the economic viability and immediate societal impact of these automated systems became strikingly evident. Covariant's robots, utilizing similar deep learning methods to Google and OpenAI, achieved over 99 percent accuracy in picking and sorting warehouse items, a task previously dominated by humans. This practical breakthrough, celebrated for its efficiency, immediately raised concerns about human labor displacement, starkly contrasting with abstract fears of superintelligence and forcing a reevaluation of AI's direct economic consequences.
-
-THE SO WHAT?: This chapter fundamentally reveals that AI's impact is rapidly extending beyond purely digital triumphs like game-playing and vision into physical automation, particularly in logistics, manufacturing, and even everyday tasks. The demonstrated capabilities of robots to learn complex tasks through deep learning, often surpassing human performance in specific, repetitive scenarios, signals an accelerating transformation of industries and labor markets. This progress, however, brings heightened ethical considerations regarding human employment, the imperative for workforce adaptation, and the practical challenges of integrating increasingly sophisticated AI into the physical world, emphasizing that these technologies demand a broader societal discussion beyond mere technical innovation.
-
-THE GOLDEN QUOTE: Peter Puchwein, vice president of Knapp, describing Covariant's robotic picker: "I've worked in the logistics industry for more than sixteen years and I've never seen anything like this."</description>
-      <pubDate>Sat, 09 May 2026 15:46:14 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341574.mp3" length="2116269" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341574.mp3</guid>
     </item>
   </channel>
 </rss>
