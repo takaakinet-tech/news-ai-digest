@@ -8,6 +8,32 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>Harvard Business Review Cold Call: Microsoft’s Path to Adopting and Scaling AI Across its Sales Organization</title>
+      <itunes:title>Harvard Business Review Cold Call: Microsoft’s Path to Adopting and Scaling AI Across its Sales Organization</itunes:title>
+      <description>Harvard Business Review Cold Call: Microsoft’s Path to Adopting and Scaling AI Across its Sales Organization
+
+Welcome to this Cold Call audio briefing.
+
+This episode delves into the real-world challenges of deploying artificial intelligence, using Microsoft's rollout of CoPilot to its global salesforce as a prime example. The core thesis isn't about whether AI technology works – it does, and Microsoft built it. Instead, the central challenge revolves around the human, organizational, and behavioral layers essential for successful AI adoption and transformation. It highlights that integrating powerful, general-purpose AI into everyday work is far more complex than a simple technological deployment.
+
+We extracted three key insights from this fascinating discussion.
+
+1.  The 'General-Purpose Paradox': Unlike previous targeted technologies, AI like CoPilot is general-purpose, meaning users aren't explicitly told how to use it. This demands a shift towards experimentation and discovery to find high-value use cases. However, traditional sales roles, driven by quotas, often leave little room for unstructured play and exploration, leading to a significant drop in initial adoption.
+
+2.  The 'Productivity J-Curve' and 'Competency Trap': New technology adoption often causes an initial dip in productivity, known as the J-curve, before benefits are realized. Many users abandon the tool during this dip. Additionally, highly skilled, experienced employees who are already efficient with existing systems may find their established workflows disrupted by new AI, making them initially less productive – a phenomenon termed the competency trap.
+
+3.  The Power of Social and Management Levers: Successful adoption requires more than just product and process. Microsoft learned that management support, which means not penalizing employees for initial productivity drops during the learning phase, is crucial. Even more powerful is leveraging social influence through 'adoption champions' – respected, often senior, but initially skeptical individuals who, when convinced, carry immense credibility and encourage broader peer adoption. Creating safe, off-task spaces for experimentation also proved vital.
+
+The implications are profound for any organization considering large-scale AI deployment. First, understand that general-purpose AI demands a culture of experimentation and exploration, not just prescriptive training. Second, anticipate and proactively manage the inevitable initial dip in productivity and the potential resistance from highly competent employees. Leadership must support the learning curve and provide safe environments for discovery. Finally, harness the power of social networks and internal champions, especially those who can bridge the gap between tech enthusiasm and established work practices, to build trust and drive organic adoption. This comprehensive approach enables AI to elevate roles from transactional to more consultative, fostering innovation and higher-value work within the organization.
+
+As Professor Xunyun Zhang succinctly puts it, "The gap is really between a great demo and a real workday."
+
+Thank you for tuning into this audio briefing.</description>
+      <pubDate>Tue, 12 May 2026 11:19:18 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778584758.mp3" length="2203053" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778584758.mp3</guid>
+    </item>
+    <item>
       <title>The Economist The Intelligence: Apocalypse soon? AI could hasten bioweapons</title>
       <itunes:title>The Economist The Intelligence: Apocalypse soon? AI could hasten bioweapons</itunes:title>
       <description>The Economist The Intelligence: Apocalypse soon? AI could hasten bioweapons
@@ -1248,26 +1274,6 @@ Britain's Chief Rabbi Sir Ephraim Mirvis said recently that "it's not just that 
       <pubDate>Sat, 09 May 2026 15:50:21 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341821.mp3" length="1622445" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341821.mp3</guid>
-    </item>
-    <item>
-      <title>The Economist The Intelligence: On the off chancellor: Friedrich Merz, one year in</title>
-      <itunes:title>The Economist The Intelligence: On the off chancellor: Friedrich Merz, one year in</itunes:title>
-      <description>The Economist The Intelligence: On the off chancellor: Friedrich Merz, one year in
-
-This episode explores how fundamental shifts in technology, geopolitics, and political discourse are eroding established norms, leading to increased uncertainty and fragmented trust across global leadership, international alliances, and digital interactions.
-
-First, German Chancellor Friedrich Merz's first year in office has been plagued by profound domestic instability. Despite a mandate to revive the economy and lift national spirits, the country has seen its projected growth rate halved, internal government squabbles escalate, and the far-right Alternative for Germany party surge in opinion polls, reflecting deep dissatisfaction and challenging his leadership.
-
-Second, the digital landscape is undergoing a significant transformation with the integration of advertising into leading AI chatbots. Driven by the immense operational costs of these models—with Open AI, for instance, expecting to spend billions—and the need to monetize a predominantly free user base, platforms are experimenting with various ad formats, from direct response akin to traditional search to more subtle brand-building campaigns, fundamentally altering how users interact with AI and consume information.
-
-Third, there's been a concerning degradation in the rhetoric of war, particularly from Western nations. Modern communications, such as aggressive presidential statements and official propaganda videos blending Hollywood action clips with actual military targets, stand in stark contrast to the historical eloquence of leaders like Churchill, who used language to convey resolution, defiance, and magnanimity. This shift towards crude and simplistic messaging risks undermining strategic alliances and the very values these conflicts purport to defend.
-
-These concurrent shifts signal a profound unmooring from established norms across critical global sectors. Germany's internal discord threatens broader European stability. The commercialization of AI fundamentally reshapes the future of information access and personal data. And the coarsening of war rhetoric not only risks escalating international tensions but also diminishes the moral authority required for effective diplomacy. Ultimately, these developments suggest a future characterized by heightened unpredictability, fragmented trust, and a potential erosion of foundational democratic and geopolitical frameworks.
-
-The episode highlighted how this new era of communication manifests itself directly in government messaging, noting that a recent White House video, titled "Justice the American Way," was an almost wordless montage of images from Gladiator, Top Gun, and Transformers, interspersed with footage of actual Iranian targets being hit.</description>
-      <pubDate>Sat, 09 May 2026 15:49:05 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341745.mp3" length="1981869" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341745.mp3</guid>
     </item>
   </channel>
 </rss>
