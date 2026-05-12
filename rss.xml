@@ -8,6 +8,41 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>Wall Street Journal The Journal: The Vape Cloud Hanging Over the FDA</title>
+      <itunes:title>Wall Street Journal The Journal: The Vape Cloud Hanging Over the FDA</itunes:title>
+      <description>Wall Street Journal The Journal: The Vape Cloud Hanging Over the FDA
+
+1. The Core Thesis
+
+The abrupt resignation of FDA Commissioner Dr. Marty Makary signals a significant political victory for the vaping industry and a dramatic shift in federal nicotine regulation. Driven by former President Trump's evolving stance on vaping to court young voters and the lobbying efforts of domestic vape companies, the FDA is now prioritizing market access over public health concerns, ushering in an era of less restrictive oversight for new nicotine products.
+
+
+2. The 3 Key Insights
+
+*   Insight 1: Makary's Contrarian Stance.
+    Dr. Marty Makary, a physician by training, consistently prioritized public health, particularly regarding the risks of flavored vaping products for young people. Despite pressure from the White House and industry, he stalled applications for fruit-flavored vapes, viewing them as a "huge public health risk" and not wanting to be "the doctor who allowed those" onto the market. This principled stand, however, put him directly at odds with the incoming political agenda.
+
+*   Insight 2: Trump's Strategic Pivot on Vaping.
+    Donald Trump's position on vaping underwent a significant transformation. Initially a critic who signed legislation to raise the tobacco purchasing age, his 2024 presidential campaign saw a strategic pivot. Advised that "saving vaping" could appeal to young MAGA voters, he publicly embraced the vaping industry, framing it as a fight against "big government" overreach and a means to help people quit smoking. This political alignment directly fueled the pressure on the FDA.
+
+*   Insight 3: The "Glass" Test Case and Regulatory Capitulation.
+    The vaping company Glass became a pivotal test case. Despite developing an age-gated vape, their application for fruit flavors was stalled by Makary. However, following Trump's direct intervention and expressed frustration over the FDA's slow pace, Makary was out, and Glass's fruit-flavored products were swiftly approved. This shift culminated in a new FDA policy allowing all nicotine products with pending applications to be marketed immediately, effectively bypassing the traditional scientific review process and clearing the path for a "flood of new products."
+
+
+3. The 'So What?'
+
+This leadership change and policy shift at the FDA will have profound implications for both public health and the nicotine industry. For consumers, particularly young people, it means a vastly expanded market of new, potentially unvetted vaping products, many in appealing flavors. Public health advocates fear a new wave of nicotine addiction. For the vaping industry, it represents an unprecedented opening to rapidly introduce products to market without prior rigorous scientific approval, reshaping the competitive landscape and challenging the FDA's historical role as a gatekeeper of public safety. This moves the US further away from robust, science-led regulation in this sector.
+
+
+4. The Golden Quote
+
+Our reporter, Liz Essley White, on the future of FDA regulation:
+"This promise that the Trump White House has made to the vaping industry of saving vaping is not something that is going to be negotiable for the next Commissioner."</description>
+      <pubDate>Tue, 12 May 2026 21:19:10 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778620750.mp3" length="2062509" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778620750.mp3</guid>
+    </item>
+    <item>
       <title>Bloomberg The Big Take: Modi Is More Powerful Than Ever — Even as India’s Economy Strains</title>
       <itunes:title>Bloomberg The Big Take: Modi Is More Powerful Than Ever — Even as India’s Economy Strains</itunes:title>
       <description>Bloomberg The Big Take: Modi Is More Powerful Than Ever — Even as India’s Economy Strains
@@ -1277,26 +1312,6 @@ The mayor of Festus, Sam Richards, grappling with the widespread anger and accus
       <pubDate>Sat, 09 May 2026 15:55:06 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778342106.mp3" length="1562925" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778342106.mp3</guid>
-    </item>
-    <item>
-      <title>Wall Street Journal The Journal: 'Eject! Eject! Eject!' Inside the Private Credit Panic</title>
-      <itunes:title>Wall Street Journal The Journal: 'Eject! Eject! Eject!' Inside the Private Credit Panic</itunes:title>
-      <description>Wall Street Journal The Journal: 'Eject! Eject! Eject!' Inside the Private Credit Panic
-
-The private credit market, once a niche for large institutions, is facing a liquidity crisis as its vulnerabilities become apparent, even as regulators push to make it more accessible to individual investors, creating a potential systemic risk.
-
-First, the rise of private credit. Post-2008, stricter banking regulations pushed risky lending outside traditional banks into private credit firms. These firms offered high returns by lending to riskier borrowers, attracting institutional investors hungry for yield.
-
-Second, Blue Owl's innovation and the tech sector's vulnerability. Blue Owl Capital pioneered tapping into wealthy individual investors, greatly expanding the market. Many private credit firms, including Blue Owl, heavily invested in software companies. However, the emergence of AI coding tools threatened the software sector, causing shares to tank and triggering investor panic.
-
-Third, the illiquidity trap. Private credit funds have strict limits on withdrawals, typically five percent per quarter, to maintain stability. When Blue Owl tried to increase these limits to instill confidence, it backfired, highlighting the market's illiquidity and exacerbating panic as investors rushed to withdraw funds they could not immediately access.
-
-This scenario reveals a profound mismatch: a financial product designed for long-term, patient institutional capital, which is inherently difficult to liquidate, is now being aggressively marketed to individual investors who have life events and may need quick access to their savings. This is occurring precisely when the market's vulnerabilities are exposed, and paradoxically, as regulators consider measures to further integrate private credit into mainstream retirement savings like 401k plans, potentially exposing millions to significant, unforeseen risks.
-
-As one investor noted, "You know, as an individual, I have life events that come up, right? And I can plan for them as best I can. But at a certain point in time, like, you know, whether it's sending a kid to college, buying a house, taking care of a loved one that has some kind of medical issue come up, losing a job, there's lots and lots of reasons why financial plans might change. And when they do, I need my money back."</description>
-      <pubDate>Sat, 09 May 2026 15:53:37 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778342017.mp3" length="1594797" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778342017.mp3</guid>
     </item>
   </channel>
 </rss>
