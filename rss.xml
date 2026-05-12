@@ -8,6 +8,30 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>Financial Times FT News Briefing: Gulf dealmaking machine hits the brakes</title>
+      <itunes:title>Financial Times FT News Briefing: Gulf dealmaking machine hits the brakes</itunes:title>
+      <description>Financial Times FT News Briefing: Gulf dealmaking machine hits the brakes
+
+The Core Thesis
+The week is marked by a convergence of high-stakes diplomacy and escalating conflict, with the US-China summit and the deteriorating situation in Iran casting long shadows over global markets and political stability. This volatility is notably impacting deal-making in the Gulf and exacerbating domestic political woes in the UK.
+
+The 3 Key Insights
+1. US-China Power Dynamics: China currently holds a subtle trade advantage due to its control over critical raw materials, a leverage it’s not afraid to use. While the US maintains tech export restrictions, these risk spurring indigenous Chinese innovation. A key point of contention remains Taiwan, with China seeking a significant shift in the US’s stance, a move unlikely to materialize.
+
+2. Escalating Iran Tensions: The month-long ceasefire between the US and Iran is perilously close to collapse, worsened by President Trump's strong rejection of Tehran's peace counter-proposal. This intractable conflict not only heightens regional instability but also complicates global energy markets, with China exploring a potential mediating role, albeit with its own strategic interests.
+
+3. Gulf's Economic Stalled Momentum: The once-booming Gulf financial hub, poised for a record year in deal fees, has seen its momentum grind to a halt due to the Iran conflict. Despite initial resilience, M&amp;A volumes and IPOs have plummeted, leading to expectations of slower deals, lower valuations, and increased investor caution, despite the region's significant capital reserves.
+
+The 'So What?'
+This convergence of geopolitical tension and economic uncertainty creates a challenging environment for global markets. The US-China relationship is defined by strategic competition rather than quick resolutions, suggesting continued trade friction and tech decoupling. The Iran crisis not only threatens regional peace but also disrupts critical global economic sectors, while domestic political instability in the UK, exemplified by Labour's struggles and a weakening bond market, adds another layer of unpredictability to Europe's economic landscape. Investors should brace for sustained volatility and adapt to an environment where geopolitical risks directly translate into economic consequences.
+
+The Golden Quote
+From Gideon Rachman, the FT's Chief Foreign Affairs Commentator, discussing the crucial issue of Taiwan in US-China relations: "The Chinese would love Trump to shift America's position on Taiwan and particularly come out and say that he opposes Taiwanese independence as opposed to just not supporting it. And those kind of semantic changes do actually matter."</description>
+      <pubDate>Tue, 12 May 2026 04:19:33 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778559573.mp3" length="1968813" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778559573.mp3</guid>
+    </item>
+    <item>
       <title>The AI Breakdown: The Best Way to Talk to Your AI Agents</title>
       <itunes:title>The AI Breakdown: The Best Way to Talk to Your AI Agents</itunes:title>
       <description>The AI Breakdown: The Best Way to Talk to Your AI Agents
@@ -1225,24 +1249,6 @@ As one guest succinctly put it, "The biggest worry that I actually have about so
       <pubDate>Sat, 09 May 2026 15:44:53 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341493.mp3" length="2866221" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341493.mp3</guid>
-    </item>
-    <item>
-      <title>Genius Makers: Chapter 18: DEBATE</title>
-      <itunes:title>Genius Makers: Chapter 18: DEBATE</itunes:title>
-      <description>Genius Makers: Chapter 18: DEBATE
-
-The core thesis of this chapter revolves around the escalating debate concerning the nature, limitations, and ethical implications of rapidly advancing artificial intelligence, particularly deep learning. It highlights a fundamental ideological divide within the AI community, contrasting those who believe machines can learn genuine intelligence from data with those who argue for inherent, wired-in knowledge as a prerequisite. This clash came to a head with Google's Duplex demonstration, forcing a re-evaluation of AI's capabilities and its societal impact.
-
-First, Google's unveiling of Duplex, an AI assistant making human-like phone calls, ignited public fascination but also immediate ethical concerns. The system's ability to mimic human conversational nuances blurred the lines between machine and human, prompting questions about deception and the appropriate application of such powerful technology in everyday life.
-Second, Gary Marcus solidified his role as a prominent "nativist" critic, asserting that deep learning's successes were limited to narrow, perceptual tasks. He argued that true intelligence requires innate machinery beyond what current neural networks could learn from data alone, dismissing Google Duplex as an impressive, yet ultimately superficial, "trick" operating within a tiny, constrained domain.
-Third, Google's later release of BERT, a universal language model, significantly advanced deep learning's capabilities in natural language understanding. This development, which enabled machines to match human performance on complex English tests, directly countered Marcus's long-standing skepticism regarding neural networks' ability to process and comprehend language, signaling a major paradigm shift in linguistic AI research.
-
-This period marked a crucial turning point, moving AI from academic obscurity into mainstream technological application, with profound societal implications. The public's initial wonder at AI's new feats quickly transitioned into ethical debates, particularly concerning the potential for AI to mislead or propagate biases inherent in its training data. The ideological battle between "nativist" and "empiricist" approaches not only defined the research trajectory but also shaped the broader understanding and regulation of AI, pushing for transparency and a deeper consideration of its long-term impact on human employment, privacy, and even the nature of truth in a digital age.
-
-"However long the rapid progress continues, Gary will still argue it is about to end."</description>
-      <pubDate>Sat, 09 May 2026 15:43:49 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341429.mp3" length="1815213" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778341429.mp3</guid>
     </item>
   </channel>
 </rss>
