@@ -8,6 +8,34 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>Wall Street Journal The Journal: Trump and Xi to Meet at High-Stakes Summit</title>
+      <itunes:title>Wall Street Journal The Journal: Trump and Xi to Meet at High-Stakes Summit</itunes:title>
+      <description>Wall Street Journal The Journal: Trump and Xi to Meet at High-Stakes Summit
+
+President Trump has landed in Beijing for a high-stakes summit, the first time in almost 10 years an American president has visited China. The summit is about two rivals strengthening their way of talking to one another.
+
+Trump started his second term with a hard stance against China, imposing high tariffs. China retaliated, creating a tit-for-tat trade war. Trump views tariffs as a negotiating point. The two sides previously struck a trade truce in Busan, South Korea, agreeing to lower tariffs. An expectation for this summit is to extend that trade truce.
+
+Trump seeks a trade win for the US economy, especially with midterms approaching. He aims for headlines about big Chinese investments and increased purchases of US goods like soybeans and beef. He also wants China to place a large order of Boeing aircraft, which could mean billions for Boeing and reduce the US-China trade deficit. Economic and business issues are the priority of this summit.
+
+Iran's situation is a significant concern. China has a close relationship with Iran, purchasing Iranian oil and supplying weapons. This gives China leverage to push Iran to negotiate, especially regarding reopening the Strait of Hormuz. Xi is interested in a ceasefire and reopening the Strait, which benefits both China and the US.
+
+Xi Jinping will likely ask for favors, with Taiwan being paramount. Xi wants Trump to definitively state US opposition to Taiwan independence or support "peaceful reunification." These linguistic concessions would unravel decades of US strategic ambiguity. However, senior US officials indicate no plans for a shift in US policy toward Taiwan at this summit.
+
+Xi faces domestic economic pressure, with China's property sector declining, slowed economic growth, and high youth unemployment. A sharp escalation with Washington would be a major political problem for Xi, who needs predictability from Trump.
+
+Both the US and China want a stronger dialogue on AI's future. They will discuss opening formal lines of communication on AI safety and security risks, echoing Cold War nuclear arms control. The risk of a system-level miscalculation in AI is no longer theoretical.
+
+Sticking points include blocking each other's access to materials needed to scale AI. China seeks relief from export controls on advanced semiconductors and AI chips. China's leverage comes from its control over rare earth minerals, which it has weaponized to pressure the US on tariff threats.
+
+The goal for this relationship is "managed competition, managed rivalry, and transactional detente." The summit aims for stability and small steps to build bridges. Deliverables will be modest, such as soybean and Boeing purchases, or trade truce extensions, reflecting a new relationship based on small, transactional truces to prevent a complete collapse.
+
+The Beijing summit kicks off Thursday morning local time. Trump earlier predicted "great things will happen for both countries."</description>
+      <pubDate>Wed, 13 May 2026 21:19:23 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778707163.mp3" length="2245677" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778707163.mp3</guid>
+    </item>
+    <item>
       <title>Washington Post Post Reports: Jason Rezaian, Iran and the costs of press freedom</title>
       <itunes:title>Washington Post Post Reports: Jason Rezaian, Iran and the costs of press freedom</itunes:title>
       <description>Washington Post Post Reports: Jason Rezaian, Iran and the costs of press freedom
@@ -1411,32 +1439,6 @@ The broader implications are profound. This isn't merely an individual health co
       <pubDate>Sun, 10 May 2026 10:08:14 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778407694.mp3" length="4069293" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778407694.mp3</guid>
-    </item>
-    <item>
-      <title>Genius Makers by Cade Metz: Chapter 19: AUTOMATION "If the room looked like things had gone crazy, we were on the right track."</title>
-      <itunes:title>Genius Makers by Cade Metz: Chapter 19: AUTOMATION "If the room looked like things had gone crazy, we were on the right track."</itunes:title>
-      <description>Genius Makers by Cade Metz: Chapter 19: AUTOMATION "If the room looked like things had gone crazy, we were on the right track."
-
-Here is your briefing script for Chapter 19: AUTOMATION.
-
-The Core Thesis:
-This chapter unveils a pivotal shift in the world of robotics: the transition from meticulously human-programmed machines to autonomous systems that learn complex physical tasks through immense digital trial and error, often in simulated environments. This advancement, driven by deep learning and reinforcement learning, promises unprecedented automation but also raises profound questions about the future of human labor.
-
-The 3 Key Insights:
-First, we witness OpenAI's robotic hand mastering the Rubik's Cube, not through hard-coded instructions, but by spending ten thousand virtual years in simulation. This achievement demonstrates the power of transferring learned behavior from virtual reality to the complex, unpredictable physical world, overcoming minor perturbations like a rubber glove or a stuffed giraffe's nose.
-
-Second, the chapter reveals Amazon's challenge to the robotics community to build picking robots for its vast warehouses. Despite a significant prize and international competition, the winning robotic arm from Australia could only pick items at a quarter of human speed and accuracy, highlighting that human dexterity in complex, varied environments remained a stubborn hurdle for machines.
-
-Third, a breakthrough from Pieter Abbeel's Covariant lab, which utilized similar simulation-based learning, achieved over 99 percent accuracy in picking ten thousand different items in a German warehouse, outperforming human workers. This marked a crucial moment where deep learning-driven robots surpassed human performance in a practical, real-world logistics task.
-
-The "Made to Stick" Drama:
-The true, raw human drama behind these breakthroughs is most vividly captured in Google Brain's "Arm Farm." Sergey Levine, a robotics researcher, and Alex Krizhevsky, the engineering talent, were building a dozen robotic arms to learn tasks like picking objects from bins. It was a messy, chaotic process. Levine describes it as "a really horrible mess." Following Krizhevsky's simple, almost brutally pragmatic advice — "If you have the data and it's the right kind of data, then just get more of it" — they ran the robots around the clock, continuously feeding them data. Researchers would come in on Mondays to find the lab in disarray, resembling a "children's playroom." In one particularly striking incident, a lipstick cap came off in a bin, and an arm, tirelessly trying to pick it up all night, splattered the contents, leaving what "looked like splattered blood." Yet, for Levine, this chaos was not failure. "It was wonderful," he declared. "If the room looked like things had gone crazy, we were on the right track." This unflinching embrace of iterative, often messy, trial-and-error, fueled by an almost zealous belief in the eventual outcome, truly defines the human spirit driving this automation revolution. It's the stark contrast between the intellectual ambition and the crude, often humorous, reality of getting these machines to learn.
-
-The "So What?":
-This chapter illustrates a monumental acceleration in automation, moving beyond simple, repetitive tasks to complex dexterous manipulation previously thought impossible for machines. The ability to simulate and transfer learning from virtual to real worlds drastically cuts development time and cost, promising to reshape entire industries like logistics and manufacturing. The immediate consequence is a growing concern about the displacement of human labor, as exemplified by a single robot taking over the jobs of three humans in a German warehouse. While optimists like Abbeel believe education can "catch up," the pace of this automation suggests a looming societal challenge of unprecedented scale, questioning our assumptions about the unique value of human skills and demanding urgent consideration of how societies will adapt to an increasingly automated future.</description>
-      <pubDate>Sat, 09 May 2026 16:34:20 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778344460.mp3" length="3522093" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778344460.mp3</guid>
     </item>
   </channel>
 </rss>
