@@ -8,6 +8,34 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>Washington Post Post Reports: Jason Rezaian, Iran and the costs of press freedom</title>
+      <itunes:title>Washington Post Post Reports: Jason Rezaian, Iran and the costs of press freedom</itunes:title>
+      <description>Washington Post Post Reports: Jason Rezaian, Iran and the costs of press freedom
+
+Ella Hey introduces a special weekend episode featuring journalist Jason Rezaian.
+
+Ten years ago this month, Washington Post journalist Jason Rezaian was freed from Iran’s worst prison after 544 days of wrongful detention for espionage. His wife, Yeganeh, was released after 76 days. Jason now directs the Washington Post’s Press Freedom Initiative.
+
+Ella spoke with Jason and Yeganeh, joined by Ambassador Brett McGurk, who led 14 months of secret negotiations for Jason's release. The conversation, recorded live, covered their reflections and Iran's current situation.
+
+Jason expressed personal gratitude but noted that global press freedom is worse than 10 years ago, with more American hostages taken and Iran in a devastating state. Despite this, he remains optimistically certain of better days ahead.
+
+Yeganeh shared how Jason, even while imprisoned, provided her with hope. She emphasized that after their release, they vowed to ensure their experience wouldn't happen to others, as hope was their only tool against repression and violence.
+
+Ambassador McGurk described greeting Jason and Yeganeh as the most emotional moment of his diplomatic career. He highlighted a striking pattern: the day Jason was freed, January 16th, was the same day years later he finalized a hostage deal in Gaza, reflecting a persistent system of hostage-taking that won't change.
+
+Discussing current events in Iran, Jason stated that international news coverage from inside Iran has largely disappeared since his release, hindering global understanding. He called the unfolding trauma, heartbreak, and massacres a "horrible situation." Yeganeh confirmed the extensive communications blackouts, making it impossible to verify the thousands killed by a weakened, yet brutally oppressive, regime. She views the situation as a civil war against empty-handed people.
+
+Ambassador McGurk believes Iran's system "has to go." He noted the EU’s recent designation of Iran’s IRGC as a terrorist organization. He sees Iran, currently in its weakest position, heading towards a military confrontation, with no diplomatic off-ramp. He stressed a long-term strategy of supporting the Iranian people is needed.
+
+Jason explained the profound challenge of reporting from Iran due to limited journalist visas, making objective coverage nearly impossible. He praised the Post's visual forensics team for meticulously verifying footage from inside the country, highlighting the critical need to understand realities in closed societies like Iran, China, and Russia. His new Press Freedom Desk aims to empower people within these countries to tell their verifiable stories, ensuring global awareness.
+
+Finally, Jason shared a personal story about Baklava. While imprisoned, he befriended an Azerbaijani cellmate whose mother would bring homemade Baklava during visits. Years later, his cellmate’s niece, a baker, opened Sharbat Bakery in D.C., selling the same cherished Baklava that helped them through their time in prison, a symbol of hope and connection.</description>
+      <pubDate>Wed, 13 May 2026 17:09:30 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778692170.mp3" length="2262573" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778692170.mp3</guid>
+    </item>
+    <item>
       <title>Harvard Business Review Cold Call: How Software Startup InsightSquared Wrestled with Creating an Optimal Sales and Marketing Strategy</title>
       <itunes:title>Harvard Business Review Cold Call: How Software Startup InsightSquared Wrestled with Creating an Optimal Sales and Marketing Strategy</itunes:title>
       <description>Harvard Business Review Cold Call: How Software Startup InsightSquared Wrestled with Creating an Optimal Sales and Marketing Strategy
@@ -1409,32 +1437,6 @@ This chapter illustrates a monumental acceleration in automation, moving beyond 
       <pubDate>Sat, 09 May 2026 16:34:20 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778344460.mp3" length="3522093" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778344460.mp3</guid>
-    </item>
-    <item>
-      <title>Genius Makers by Cade Metz: Chapter 17: IMPOTENCE "There are people in Russia whose job it is to try to exploit our systems. So this is an arms race, right?"</title>
-      <itunes:title>Genius Makers by Cade Metz: Chapter 17: IMPOTENCE "There are people in Russia whose job it is to try to exploit our systems. So this is an arms race, right?"</itunes:title>
-      <description>Genius Makers by Cade Metz: Chapter 17: IMPOTENCE "There are people in Russia whose job it is to try to exploit our systems. So this is an arms race, right?"
-
-The core point of Chapter 17, titled "Impotehce," starkly reveals the limitations of artificial intelligence when confronted with the nuanced complexities of human behavior, intent, and rapidly evolving malicious content. Despite tech giants' immense resources and public confidence, AI proved fundamentally impotent in solving the profound societal problems it inadvertently helped create.
-
-The 3 Key Insights
-
-First, Mark Zuckerberg, facing intense scrutiny over Facebook's role in spreading misinformation and hate speech, publicly championed AI as the ultimate solution. He claimed AI systems were nearly perfect in flagging terrorist propaganda, asserting that within five to ten years, AI would even recognize the subtle nuances of hate speech, despite humans themselves struggling to agree on its definition. This presented a stark contrast between corporate ambition and the practical realities of the technology.
-
-Second, the chapter highlights a critical flaw in AI's learning paradigm. Systems trained on vast datasets often fail spectacularly when encountering novel, unpredicted situations. This was devastatingly demonstrated when Facebook's AI, designed to detect graphic violence based on known patterns, failed to flag a live-streamed mass shooting because the first-person perspective made it resemble a "computer game." The AI could only recognize what it had been explicitly taught, rendering it blind to new forms of malevolence.
-
-Third, the concept of an "AI versus AI" arms race emerges, with some researchers pushing to create AI that could detect "deepfakes" and other AI-generated misinformation. However, the inventor of Generative Adversarial Networks, Ian Goodfellow, articulated a crucial paradox: these systems were designed to fool detectors. This suggested an unwinnable battle, as the very act of creating more sophisticated detection AI would simultaneously advance the capabilities of deceptive AI.
-
-The "Made to Stick" Drama
-
-The sheer human drama of this impotence hit home in March 2019, following the horrific Christchurch mosque attacks in New Zealand. A gunman live-streamed his brutal assault on Facebook, and despite advanced AI systems, it took the company an agonizing hour to remove the video. In that hour, the footage spread virally across the internet, amplifying the tragedy. Days later, Mike Schroepfer, Facebook's Chief Technology Officer, sat down with reporters to discuss the company's efforts. As he recounted how their AI systems, designed to identify graphic violence like "dogs attacking people" or "people kicking cats," failed to recognize the live-stream because its first-person perspective made it look like a "computer game," Schroepfer paused. For nearly sixty seconds, he sat in silence, struggling for composure, before tearing up. "I wish I could unsee it," he said. This moment, where a tech leader was confronted with the profound, visceral failure of his supposedly intelligent systems to grasp the reality of human evil, truly encapsulates the emotional toll and technological limitations explored in the chapter.
-
-The "So What?"
-
-The broader implications of this chapter are profound. It underscores that even with unprecedented computing power and sophisticated algorithms, AI is not a panacea for complex human problems. The events detailed here reveal a fundamental tension: the push for rapid AI deployment by tech giants often outpaces the ethical considerations and the technology's actual readiness for real-world, high-stakes applications. This "arms race" against evolving misuse means that human judgment, ethical frameworks, and an understanding of subjective reality remain indispensable. The dream of broadly beneficial AGI, as envisioned by some, faces the enduring challenge of reconciling technical capabilities with the unpredictable, often dark, facets of human nature that AI is asked to police.</description>
-      <pubDate>Sat, 09 May 2026 16:30:32 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778344232.mp3" length="3606573" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778344232.mp3</guid>
     </item>
   </channel>
 </rss>
