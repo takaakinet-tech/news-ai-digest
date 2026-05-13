@@ -8,6 +8,33 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>Financial Times FT News Briefing: UK bond vigilantes ride again</title>
+      <itunes:title>Financial Times FT News Briefing: UK bond vigilantes ride again</itunes:title>
+      <description>Financial Times FT News Briefing: UK bond vigilantes ride again
+
+Here is your FT News Briefing script:
+
+The Core Thesis
+The global economic landscape is fraught with uncertainty and market instability, driven by geopolitical conflicts and their far-reaching effects on inflation, government borrowing, and corporate health.
+
+The 3 Key Insights
+
+First, UK Bond Market Turmoil. Geopolitical and political uncertainty in the UK is causing significant stress in the bond market. So-called "bond vigilantes" are exerting pressure on the government through rapidly rising borrowing costs, particularly in response to political instability and concerns over future leadership. There's a clear preference among investors for stability and a less left-leaning leadership to avoid further increases in long-term debt, as the UK already spends over one hundred billion pounds a year just servicing its existing debt.
+
+Second, US Inflation Surge and Economic Impact. US inflation jumped to its highest level since two thousand twenty-three last month, primarily driven by soaring gas prices exacerbated by the war in Iran. This is leading to substantial extra costs for households, with US consumers having spent over thirty-seven point nine billion dollars extra on gas since the conflict began. This raises concerns about broader economic slowdown as consumer spending is impacted and the Federal Reserve's ability to cut interest rates is diminished, potentially leading to significant lost output.
+
+Third, Blue Owl's Private Credit Challenges. The private credit market is showing signs of stress, exemplified by Blue Owl, where inflows into its largest fund have drastically declined. On May first, the fund reported only twenty-six million dollars in new investments, a ninety-five percent decrease from this time last year. This reflects broader investor concerns about advancements in artificial intelligence hitting software companies and the overall health of the private market, leading to partial redemption limits and liquidity pressures.
+
+The 'So What?'
+The current economic environment presents a "perfect storm" of high inflation, rising borrowing costs, and potential economic slowdown. Governments and central banks face immense pressure to navigate these challenges without exacerbating market instability or undermining economic growth. For businesses, higher operational costs and reduced consumer demand pose significant threats, while political leaders will find that affordability issues deeply resonate with voters in upcoming elections. This situation is particularly challenging for President Trump and the Republican Party in the run-up to this fall's midterm elections, given their focus on affordability.
+
+The Golden Quote
+"As long as this uncertainty remains, there is gonna be this risk premium in gilt yields. So the 30-year gilt yield that we focused on here, is particularly vulnerable to the risk that there is more gilt issuance in future than investors currently expect." - Ian Smith, FT Senior Markets Correspondent.</description>
+      <pubDate>Wed, 13 May 2026 04:19:08 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778645948.mp3" length="2116269" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778645948.mp3</guid>
+    </item>
+    <item>
       <title>The AI Breakdown: Towards AI That Can Actually Interact</title>
       <itunes:title>The AI Breakdown: Towards AI That Can Actually Interact</itunes:title>
       <description>The AI Breakdown: Towards AI That Can Actually Interact
@@ -1294,28 +1321,6 @@ As one reporter highlighted, "The problem is India's ballooning trade deficit, a
       <pubDate>Sat, 09 May 2026 15:59:07 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778342347.mp3" length="1659693" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778342347.mp3</guid>
-    </item>
-    <item>
-      <title>Financial Times FT News Briefing: LVMH looks to shrink its luxury empire</title>
-      <itunes:title>Financial Times FT News Briefing: LVMH looks to shrink its luxury empire</itunes:title>
-      <description>Financial Times FT News Briefing: LVMH looks to shrink its luxury empire
-
-Good morning from the Financial Times. Today is Thursday, May 7th, and this is your FT News Briefing.
-
-Global markets are experiencing a dual dynamic: a significant rebound in tech stocks is boosting hedge fund performance, while underlying geopolitical tensions and shifting consumer trends are forcing major industries like luxury goods to reassess their core strategies.
-
-First, hedge funds just had their best monthly performance since 2020, primarily driven by a powerful tech stock rally. This follows a terrible month in March, significantly impacted by the Iran War and rising inflation expectations, illustrating their strong correlation to broader market movements, especially equities.
-
-Second, the US is now exporting a record 8.2 million barrels of refined fuel daily, a 20 percent increase from last year, directly responding to supply shortages exacerbated by the Iran War. This highlights the global energy market's vulnerability to geopolitical instability, even as fragile peace proposals emerge.
-
-Third, luxury conglomerate LVMH is undergoing a significant decluttering phase, selling off brands and stakes like Mark Jacobs and Rihanna's Fenty Beauty for the first time in its history. This strategic shift reflects a challenging market environment since 2023, where a previous boom in luxury demand has reversed, forcing a re-evaluation of what truly fits their core high-end image.
-
-These developments signal a period of significant recalibration across diverse sectors. For investors, the tech-led market surge, while profitable for hedge funds, also underlines the inherent volatility and correlation of these funds to market highs and lows. The energy situation points to continued geopolitical risk dictating global supply. Meanwhile, the luxury sector's adjustment suggests that even established giants must adapt to evolving consumer expectations, questioning whether the pursuit of endless growth in luxury can sustain the perception of exclusivity.
-
-As one FT reporter put it, "The trick mirror of an exclusive product that's also available to everyone starts to fall away a bit."</description>
-      <pubDate>Sat, 09 May 2026 15:58:00 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778342280.mp3" length="1588269" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778342280.mp3</guid>
     </item>
   </channel>
 </rss>
