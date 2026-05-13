@@ -8,6 +8,30 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>Bloomberg The Big Take: Boston Fed President Collins on FOMC Dissent and Kevin Warsh’s Nomination</title>
+      <itunes:title>Bloomberg The Big Take: Boston Fed President Collins on FOMC Dissent and Kevin Warsh’s Nomination</itunes:title>
+      <description>Bloomberg The Big Take: Boston Fed President Collins on FOMC Dissent and Kevin Warsh’s Nomination
+
+This is The Big Take from Bloomberg News. I'm David Gura.
+
+It's a challenging time for central bankers globally, particularly concerning the economic fallout from the war in Iran. The US Federal Reserve recently held interest rates steady, with an unusual 8 to 4 vote that saw four policymakers explicitly dissent from the statement's implied easing bias. This highlights the difficult situation the Fed faces, especially as its leadership prepares for change.
+
+Susan Collins, President of the Boston Fed, agreed with the dissenters, preferring a statement that did not pre-emptively signal future rate cuts. She is considered a centrist voice on the committee.
+
+From Ms. Collins' perspective, the economy shows resilience, but inflation remains a key focus. She believes the war in Iran has pushed back the timeline for disinflation, anticipating inflation will rise further before it declines, even with a quick resolution to the conflict. The war's duration will heavily influence its economic impact. She also voiced concerns about ongoing supply chain disruptions, tariffs, and potential global spillovers, though she noted the US is now less reliant on imported oil.
+
+A core concern for Ms. Collins is the Fed's credibility, given inflation has been above its 2% target for over five years. She stresses the importance of anchored long-term inflation expectations to achieve price stability.
+
+The Fed is indeed in transition. The latest meeting was Jerome Powell's last as chair, though he will remain on the Board of Governors – a rare move that has drawn criticism. His likely successor, Kevin Warsh, advocates for a "reform-oriented Fed." While the details of Mr. Warsh's proposed "regime change" are still unclear, Fed officials are adopting a cautious, open-minded approach to this new leadership.
+
+Finally, regarding consensus within the Fed, Ms. Collins clarified that it does not mean unanimity. She emphasized the importance of having a wide range of views and opinions represented, heard, and debated within the committee.
+
+This has been The Big Take from Bloomberg News.</description>
+      <pubDate>Wed, 13 May 2026 17:03:35 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778691815.mp3" length="1483821" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778691815.mp3</guid>
+    </item>
+    <item>
       <title>Financial Times FT News Briefing: GameStop’s wild bid for eBay</title>
       <itunes:title>Financial Times FT News Briefing: GameStop’s wild bid for eBay</itunes:title>
       <description>Financial Times FT News Briefing: GameStop’s wild bid for eBay
@@ -1407,41 +1431,6 @@ The broader implications of this chapter are far-reaching. The rapid progress in
       <pubDate>Sat, 09 May 2026 16:27:29 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778344049.mp3" length="3283629" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778344049.mp3</guid>
-    </item>
-    <item>
-      <title>Genius Makers by Cade Metz: Chapter 15: BIGOTRY "Google Photos, y'all fucked up. My friend is not a gorilla."</title>
-      <itunes:title>Genius Makers by Cade Metz: Chapter 15: BIGOTRY "Google Photos, y'all fucked up. My friend is not a gorilla."</itunes:title>
-      <description>Genius Makers by Cade Metz: Chapter 15: BIGOTRY "Google Photos, y'all fucked up. My friend is not a gorilla."
-
-Here is your audio briefing script for Chapter 15: BIGOTRY "Google Photos, y'all fucked up. My friend is not a gorilla."
-
-(Start Music: Light, thoughtful underscore)
-
-(Voiceover: Announcer)
-Welcome to our briefing, delving into the human stories behind the rise of artificial intelligence. Today, we unpack a chapter that exposes the deeply human flaws in seemingly objective machines.
-
-(Music fades slightly)
-
-1. The Core Thesis:
-The absolute core point of this chapter is unsettling: deep learning systems, designed by a largely homogenous group of researchers and fed biased data, inevitably amplify societal bigotry, leading to real-world harm and sparking a crucial conversation about ethics and diversity in AI.
-
-2. The 3 Key Insights:
-First, artificial intelligence systems, no matter how advanced, are only as unbiased as the data they are trained on. When given skewed data, they learn and perpetuate existing human biases, rather than transcending them. This creates systems that can actively discriminate against certain groups of people.
-
-Second, the lack of diversity within the AI research and development community, noted as a "sea of dudes" problem, is a direct root cause of these systemic biases. Without diverse perspectives, researchers often fail to recognize or address the biases embedded in their training data and algorithms.
-
-Third, the commercial deployment of biased AI tools, particularly in sensitive areas like facial recognition for law enforcement, has ignited a powerful ethical pushback. This forced tech giants to confront the societal implications of their creations and the urgent need for external oversight and regulation.
-
-3. The "Made to Stick" Drama:
-The chilling reality of algorithmic bias struck hard for Jacky Alcine, a twenty-two-year-old software engineer. Sitting on his couch one Sunday in June 2015, scrolling through tweets, he clicked a link to snapshots his friend had posted on the new Google Photos service. He'd used the service before, but this new version boasted automatic sorting into digital folders based on content: "dogs," "birthday party," "beach trip." But then he saw it. One folder, stark and unequivocal, read "gorillas." His heart must have sunk. Eighty photos of his African-American friend, taken at a concert in Prospect Park, mislabeled. Eighty photos. Not a fluke, not a one-off. The immediate, raw outrage he felt when he posted to Twitter – "Google Photos, y'all fucked up. My friend is not a gorilla." – wasn't just anger at a technical error. It was a visceral punch, a betrayal by a technology meant to help. It illuminated the painful truth: for his friend, and for so many others, the system was not neutral. It was actively misidentifying, dehumanizing, and fundamentally failing because it was built on a narrow understanding of the world. This moment, so simple yet so profound, laid bare the deeply personal impact of an algorithm's bigotry.
-
-4. The "So What?":
-This chapter reveals that the challenges of artificial intelligence extend far beyond technical performance. The "black box" problem means that even the creators of these systems may not fully understand why they make certain decisions. When those decisions affect interest rates, criminal sentencing, or even who is labeled a "terrorist," the stakes become incredibly high. The experiences of Jacky Alcine, Deborah Raji, and Joy Buolamwini underscored that leaving AI development solely to a homogenous group, unburdened by diverse human experiences, will lead to technologies that harm rather than help. The growing movement for ethical AI, demanding transparency, accountability, and diversity, is not merely about improving technology; it is about ensuring that the future of artificial intelligence serves all of humanity, not just a privileged few, and that it learns from, rather than entrenches, our deepest prejudices.
-
-(Music swells and fades out)</description>
-      <pubDate>Sat, 09 May 2026 16:24:31 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778343871.mp3" length="3591981" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778343871.mp3</guid>
     </item>
   </channel>
 </rss>
