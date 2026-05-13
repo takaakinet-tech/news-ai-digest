@@ -85,9 +85,28 @@ for p in PODCASTS:
                 
         # Generate Summary
         uploaded = client.files.upload(file=local_audio)
-        prompt = f"""You are an elite audio briefing announcer. Analyze this episode of {p['title']} and create a 3-4 minute briefing script in English.
-Structure logically into: 1. The Core Thesis, 2. The 3 Key Insights, 3. The 'So What?', 4. The Golden Quote.
-Output ONLY in Scale Markdown format (plain text, NO markdown symbols)."""
+        
+        # Determine category based on slug
+        news_slugs = ["bbc_news", "the_journal", "the_intelligence", "ft_news", "bloomberg_take", "wapo_post", "ai_breakdown"]
+        story_slugs = ["nyt_daily", "hard_fork", "hbr_coldcall", "komugiko"]
+        
+        if p["slug"] == "komugiko":
+            prompt = f"""あなたはエリート・オーディオブリーフィング・アナウンサーです。提供されたポッドキャスト音声（「{p['title']}」）を分析し、内容の密度が極めて高い3〜4分間の日本語ブリーフィング・スクリプトを作成してください。
+【重要】
+1. 絶対に英語など他の言語に翻訳しないでください。完全に日本語で出力すること。
+2. ドライな時系列の要約ではなく、記憶に粘り付く名言やエピソード、モチベーションを高めるストーリーテリング、特別な洞察（インサイト）の抽出に特化してください。
+3. 出力は「Scale Markdown」形式（記号を含まない純粋なテキスト）のみ。"""
+        elif p["slug"] in story_slugs:
+            prompt = f"""You are an elite audio briefing announcer. Analyze this episode of "{p['title']}" and create an intellectually dense 3-4 minute briefing script in English.
+1. NO DRY SUMMARIES: Do NOT dryly present summarized chronological pieces or forcibly structure it into key takeaways.
+2. FOCUS ON NARRATIVE IMPACT: Extract "made-to-stick" memorable quotes, engaging storytelling elements, and special implied insights.
+3. NO MARKDOWN: Output ONLY in "Scale Markdown" format (plain text, NO markdown symbols). Ensure it reads naturally for TTS."""
+        else:
+            prompt = f"""You are an elite audio briefing announcer. Analyze this episode of "{p['title']}" and create a highly condensed 3-4 minute briefing script in English.
+1. INDIVIDUAL SUMMARIZATION: Succinctly summarize each piece of news exactly as it is presented.
+2. NO LUMPING: Do NOT incorporate or lump the stories together into crudely summarized takeaway messages.
+3. MAINTAIN ORDER: Maintain the original chronological order of the news items.
+4. NO MARKDOWN: Output ONLY in "Scale Markdown" format (plain text, NO markdown symbols). Ensure it reads naturally for TTS."""
         
         sum_resp = client.models.generate_content(model='gemini-2.5-flash', contents=[uploaded, prompt])
         summary = sum_resp.text

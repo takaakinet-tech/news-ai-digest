@@ -48,19 +48,15 @@ def generate_summary_from_audio(client, audio_file_path):
     
     prompt = """
 You are an elite audio briefing announcer. Analyze the provided 30-minute podcast audio from "The Daily" and create a highly condensed, intellectually dense 3-4 minute briefing script in English.
-Do NOT simply provide a chronological summary. Structure the script logically into the following 4 sections.
-Output the script ONLY in English and ONLY in "Scale Markdown" format (optimized for TTS reading with no markdown symbols).
 
-### Structure Rules:
-1. **The Core Thesis:** At the very beginning, state the absolute core point or conclusion of the episode in 1-2 clear sentences.
-2. **The 3 Key Insights:** Extract the three most critical insights or structural background elements discussed by the reporter. Explain them clearly using transitional words like "First,", "Second,", and "Third,".
-3. **The "So What?":** Explain the broader implications of these events. What does this mean for the future of the industry, society, or the listeners?
-4. **The Golden Quote:** Conclude with exactly one highly memorable, specific quote, data point, or anecdote mentioned in the episode by the reporter or guest.
-
-### Scale Markdown Formatting Rules:
-- Output only plain text. Do NOT use `#`, `##`, `*`, `-`, `>`, or any other markdown symbols.
-- Use natural spoken transitions instead of bullet points.
-- Ensure all text is naturally readable by an English TTS engine. Do not include any explanations or commentary outside of the spoken script.
+Since this podcast often presents heartfelt, dramatized stories rather than discrete pieces of news, your instructions are as follows:
+1. NO DRY SUMMARIES: Do NOT dryly present summarized chronological pieces of the story or forcibly structure it into key takeaways.
+2. FOCUS ON NARRATIVE IMPACT: Your analysis must focus heavily on extracting and presenting the following:
+   - (a) "Made-to-stick" type of memorable quotes from the episode.
+   - (b) Mysterious or hypothesized storytelling elements that are engaging, motivating, and eye-catching.
+   - (c) Special insights that are insinuated or implied within the episode.
+3. NO MARKDOWN: Output the script ONLY in English and ONLY in "Scale Markdown" format (optimized for TTS reading with no markdown symbols like `#`, `*`, `-`). Use natural spoken transitions instead of bullet points.
+4. Make sure all text is naturally readable by an English TTS engine.
 """
     
     print("Requesting summary from Gemini...")

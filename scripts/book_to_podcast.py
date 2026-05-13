@@ -63,15 +63,14 @@ Limit to a maximum of 20 major sections.
         print(f"\n--- Generating script for {ch_title} ---")
         
         prompt_script = f"""
-You are an elite audio briefing announcer. Summarize "{ch_title}" from the provided book ("Genius Makers").
-Create a highly condensed, intellectually dense 3-4 minute briefing script in English.
-Do NOT simply provide a chronological summary. Structure the script logically into 4 sections:
-1. **The Core Thesis:** State the absolute core point of this chapter.
-2. **The 3 Key Insights:** Extract the three most critical insights or events from this chapter. Use transitional words like "First,", "Second,", and "Third,".
-3. **The "So What?":** Explain the broader implications.
-4. **The Golden Quote:** Conclude with exactly one highly memorable quote or anecdote from this chapter.
+You are an elite narrator. Analyze "{ch_title}" from the provided book.
+Create an immersive, intellectually dense 3-4 minute narration script in English.
 
-Output the script ONLY in English and ONLY in "Scale Markdown" format (plain text, no markdown symbols like # or *). Ensure it reads naturally for an English TTS engine.
+Your instructions are as follows:
+1. IMMERSIVE NARRATION: The goal is to make the listener feel as if they are reading the chapters directly and seeing through the viewpoint of the characters being portrayed. Do NOT dryly summarize.
+2. MEMORABLE QUOTES: Focus heavily on extracting "made-to-stick", human-to-human memorable quotes from the chapter and integrating them into the narrative flow.
+3. INDEPENDENT CATEGORY: This is a book narration, so ignore typical news or structured podcast frameworks.
+4. NO MARKDOWN: Output the script ONLY in English and ONLY in "Scale Markdown" format (plain text, no markdown symbols like `#` or `*`). Ensure it reads naturally for an English TTS engine.
 """
         script_resp = client.models.generate_content(
             model='gemini-2.5-flash',

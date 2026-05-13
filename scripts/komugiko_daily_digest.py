@@ -32,6 +32,19 @@ def fetch_komugiko_latest():
     enclosure = latest.find('enclosure')
     mp3_url = enclosure.get('url') if enclosure is not None else None
     
+    # Safety check: avoid processing very old episodes
+    pubDate_node = latest.find('pubDate')
+    if pubDate_node is not None:
+        import email.utils
+        from datetime import datetime, timezone, timedelta
+        try:
+            pub_dt = email.utils.parsedate_to_datetime(pubDate_node.text)
+            if datetime.now(timezone.utc) - pub_dt > timedelta(days=14):
+                print(f"Skipping old episode: {title} ({pub_dt})")
+                return None, None, None
+        except Exception as e:
+            print(f"Date parsing error: {e}")
+            
     return title, mp3_url, guid
 
 def download_file(url, local_filename):
@@ -47,20 +60,20 @@ def generate_summary_from_audio(client, audio_file_path):
     uploaded_file = client.files.upload(file=audio_file_path)
     
     prompt = """
-あなたはエリート・オーディオブリーフィング・アナウンサーです。提供されたポッドキャスト音声（約2.5時間）を深く分析し、内容の密度が極めて高い【5分間（文字数目安：1500〜2000字程度）】の日本語ブリーフィング・スクリプトを作成してください。
-単なる時系列の要約ではなく、以下の4つのセクションに論理的に構造化してください。
-出力は「Scale Markdown」形式（TTS読み上げに最適化され、記号を含まない純粋なテキスト）で、すべて日本語で記述してください。
+あなたはエリート・オーディオブリーフィング・アナウンサーです。提供されたポッドキャスト音声（約2.5時間）を分析し、内容の密度が極めて高い【3〜4分間（文字数目安：1000〜1500字程度）】の日本語ブリーフィング・スクリプトを作成してください。
 
-### 構成ルール:
-1. **核心となる結論 (The Core Thesis):** 冒頭で、このエピソードの絶対的な核心ポイントや結論を1〜2文で明確に述べること。
-2. **3つの重要な洞察 (The 3 Key Insights):** 議論された中で最も重要な3つの洞察や構造的な背景を抽出する。「第一に」「第二に」「第三に」といった自然なつなぎ言葉を使って明確に解説すること。
-3. **だから何なのか？ (The "So What?"):** これらの議論が持つ、社会やビジネス、リスナーの未来に対するより広い意味や影響（インプリケーション）を解説すること。
-4. **黄金の引用 (The Golden Quote):** エピソード内で語られた中で、最も印象的で具体的な引用、データポイント、またはエピソードを1つだけ取り上げて締めくくること。
+### 【重要】厳密な言語とカテゴリ・ルール:
+1. 絶対に英語など他の言語に翻訳しないでください。入力も出力も**完全に日本語**で統一すること。
+2. ドライな時系列の要約や、強引に「3つのポイント」等にまとめることは避けてください。これはディープダイブ・ストーリー型のポッドキャストです。
+3. 以下の要素の抽出と表現に特化してください：
+   - (a) 「記憶に粘り付く（Made-to-stick）」ような、印象的で人間味のある名言やエピソード。
+   - (b) リスナーの興味を惹きつけ、モチベーションを高めるような、謎めいた展開や仮説に基づくストーリーテリング。
+   - (c) エピソード内でほのめかされている、あるいは暗示されている特別な洞察（インサイト）。
 
 ### Scale Markdown フォーマットルール:
 - 純粋なテキストのみを出力すること。`#`、`##`、`*`、`-`、`>` などのマークダウン記号は【一切使用しない】こと。
 - 箇条書きではなく、自然に読み上げられる文章の流れ（トランジション）を使用すること。
-- 日本語のTTSエンジンが自然に読めるように、無駄な解説やスクリプト以外の文（「はい、作成しました」等）は含めないこと。
+- 日本語のTTSエンジンが自然に読めるように、無駄な解説やスクリプト以外の文は含めないこと。
 """
     
     print("Requesting 5-minute Japanese summary from Gemini...")

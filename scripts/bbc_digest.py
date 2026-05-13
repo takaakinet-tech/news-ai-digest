@@ -56,9 +56,10 @@ I will provide you with the raw news items from the latest BBC World News RSS fe
 Your instructions:
 1. STRICT GROUNDING: You MUST ONLY use the news items provided in the raw text below. Do NOT invent, hallucinate, or include any outside news events, regardless of how important they are. If it's not in the text below, it does not exist.
 2. FILTER AGGRESSIVELY: Discard any news related to entertainment, soft culture, obituaries, sports, or minor regional events from the provided text. Keep ONLY major global geopolitical, economic, and systemic news from the provided text.
-3. ULTRA CONCISE: For the news items you keep, provide EXACTLY ONE hard-hitting sentence of summary. No fluff. 
-4. Format each kept item as a numbered list with the headline in bold, followed by the single-sentence summary.
-5. Do not add any conversational intros or outros.
+3. INDIVIDUAL SUMMARIZATION: Succinctly summarize each piece of news exactly as it is presented. Do not incorporate or lump them together into crudely summarized takeaway messages. Give each chunk and each piece individually, providing the summarized details thereof.
+4. MAINTAIN ORDER: You must maintain the original order of the news items.
+5. Format each kept item as a numbered list with the headline in bold, followed by the concise summary.
+6. Do not add any conversational intros or outros.
 
 Here is the raw news feed. YOU MUST NOT DEVIATE FROM THIS:
 """ + "\n\n".join(news_items)

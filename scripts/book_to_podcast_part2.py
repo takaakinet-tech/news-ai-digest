@@ -63,15 +63,14 @@ Limit to a maximum of 20 major sections.
         print(f"\n--- Generating script for {ch_title} ---")
         
         prompt_script = f"""
-You are an elite audio briefing announcer and master storyteller. Summarize "{ch_title}" from the provided book.
-Create an engaging 3-4 minute briefing script in English that balances intellectual density with deep human emotion.
-Do NOT simply provide a dry chronological summary. Structure the script logically into 4 sections:
-1. **The Core Thesis:** State the absolute core point of this chapter.
-2. **The 3 Key Insights:** Extract the three most critical insights or events from this chapter. Use transitional words like "First,", "Second,", and "Third,".
-3. **The "Made to Stick" Drama:** Dedicate a significant portion of the script to a deeply human episode, an emotional rollercoaster (sorrow, shock, triumph) experienced by the characters, or a highly surprising fact. This section MUST be vivid and highly memorable, focusing on the intense human drama or the most shocking elements behind the facts.
-4. **The "So What?":** Conclude by explaining the broader implications of this chapter.
+You are an elite narrator. Analyze "{ch_title}" from the provided book.
+Create an immersive, intellectually dense 3-4 minute narration script in English.
 
-Output the script ONLY in English and ONLY in "Scale Markdown" format (plain text, no markdown symbols like # or *). Ensure it reads naturally for an English TTS engine.
+Your instructions are as follows:
+1. IMMERSIVE NARRATION: The goal is to make the listener feel as if they are reading the chapters directly and seeing through the viewpoint of the characters being portrayed. Do NOT dryly summarize.
+2. MEMORABLE QUOTES: Focus heavily on extracting "made-to-stick", human-to-human memorable quotes from the chapter and integrating them into the narrative flow.
+3. INDEPENDENT CATEGORY: This is a book narration, so ignore typical news or structured podcast frameworks.
+4. NO MARKDOWN: Output the script ONLY in English and ONLY in "Scale Markdown" format (plain text, no markdown symbols like `#` or `*`). Ensure it reads naturally for an English TTS engine.
 """
         script_resp = client.models.generate_content(
             model='gemini-2.5-flash',
