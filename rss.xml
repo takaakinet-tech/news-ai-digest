@@ -8,6 +8,28 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>New York Times Hard Fork: OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM</title>
+      <itunes:title>New York Times Hard Fork: OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM</itunes:title>
+      <description>New York Times Hard Fork: OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM
+
+Welcome to Hard Fork, your weekly deep dive into the accelerating world of technology. This week, we unpack the dramatic shifts within OpenAI, the ethical quandaries of AI in medicine, and a fascinating linguistic experiment that casts light on AI's historical biases.
+
+We begin with the peculiar case of OpenAI's Codex, an AI so prone to mentioning goblins, gremlins, and pigeons that it required explicit instructions to cease its mythological ramblings. This humorous, yet revealing, anecdote sets the stage for a week of significant strategic recalibrations from OpenAI. The company has renegotiated its massive Microsoft deal, now allowing it to pursue partnerships with other cloud providers like Amazon and Google. This move, driven by the sheer computational demands of large AI models, signals a maturation from its earlier, tightly aligned strategy with Microsoft.
+
+Concurrently, OpenAI faces a high-stakes legal battle with co-founder Elon Musk. Musk accuses OpenAI of abandoning its original non-profit mission, transforming into a for-profit entity that's "looting a charity." OpenAI's defense portrays Musk as a disgruntled investor, bitter that the company succeeded without him, and highlights his own earlier proposals for a for-profit structure and even integration with Tesla. This trial, unfolding in Oakland, offers a rare, granular look into the internal power struggles and ideological clashes that have shaped one of the most influential AI companies. The outcome could significantly impact OpenAI's ambitious Stargate project and its long-term revenue models.
+
+Shifting to the critical intersection of AI and healthcare, we hear from Dr. Adam Rodman, an internal medicine physician at Harvard Medical School. Dr. Rodman describes an "astronomical growth" in AI adoption among doctors, with tools like AI scribes and Open Evidence decision support being widely used. Patients, too, are increasingly turning to chatbots for medical information, arriving at appointments armed with AI-generated insights. While this promises increased efficiency and access to care, concerns arise about the "deskilling" of new doctors who might over-rely on AI, potentially missing critical diagnostic cues. The ethical tightrope of integrating patient health records with AI systems for personalized care, balancing privacy with the potential for enhanced health outcomes, is a central challenge. However, the potential for early detection of notoriously difficult cancers, like pancreatic cancer by the Mayo Clinic's Redmod system, showcases AI's life-saving promise.
+
+Finally, we explore Taki, a vintage large language model trained exclusively on data from before 1931. This experiment probes how AI constructs meaning and forecasts the future when limited to a historical perspective. Taki, developed by David Duvenaud and his colleagues, exhibits a remarkably literary prose style, but also reveals biases and knowledge gaps inherent to its training data. When asked to predict 2026, it offers philosophical, sometimes inconsistent, answers about a peaceful future or impending doom. More disturbingly, it can produce racist responses, reflecting the problematic content of its historical dataset. This highlights a crucial question: how do we present AI outputs that are historically accurate yet ethically fraught? The Taki project serves as a powerful reminder that AI models are mirrors of their training data, reflecting not just knowledge, but also the societal values and prejudices of their time.
+
+The discussions this week on Hard Fork underscore the profound and multifaceted impact of AI. From the boardrooms of tech giants to the doctor's office, and into the very fabric of historical understanding, AI is not merely changing tools; it is reshaping structures, challenging ethics, and redefining the boundaries of knowledge itself.
+
+That's all for this edition of Hard Fork. Join us next time as we continue to track the cutting edge.</description>
+      <pubDate>Wed, 13 May 2026 16:51:36 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778691096.mp3" length="3191085" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778691096.mp3</guid>
+    </item>
+    <item>
       <title>The AI Breakdown: The Week the AI Story Shifted</title>
       <itunes:title>The AI Breakdown: The Week the AI Story Shifted</itunes:title>
       <description>The AI Breakdown: The Week the AI Story Shifted
@@ -1384,22 +1406,6 @@ As Shannon Yee, the protagonist of the case, succinctly puts it: "The technology
       <pubDate>Sat, 09 May 2026 16:14:20 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778343260.mp3" length="1476141" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778343260.mp3</guid>
-    </item>
-    <item>
-      <title>Harvard Business Review Cold Call: Should Wasabi Technologies Make the Move from Direct Sales to a Channel Strategy?</title>
-      <itunes:title>Harvard Business Review Cold Call: Should Wasabi Technologies Make the Move from Direct Sales to a Channel Strategy?</itunes:title>
-      <description>Harvard Business Review Cold Call: Should Wasabi Technologies Make the Move from Direct Sales to a Channel Strategy?
-
-Wasabi Technologies, a rapidly growing cloud storage startup, faced a critical go-to-market dilemma: either maintain its highly successful direct sales model or pivot to a complex channel strategy to unlock new growth and compete with industry giants. The company's future hinged on understanding how buyers wanted to buy and whether it could adapt its internal culture and external partnerships.
-
-First, the inherent challenge for founders is recognizing when a successful, high-growth direct sales model might become a limiting factor for future expansion, especially in competitive markets. Second, the pivotal strategy shift for Wasabi was driven by intensely active listening to their major customers, who revealed a strong preference for purchasing cloud storage through value-added resellers and managed service providers. Third, transitioning to a channel sales model presented significant complexities, including redefining sales compensation, building trust with partners who might fear disintermediation, and creating new pricing structures and support mechanisms to enable partners to effectively sell a novel product.
-
-These events highlight that a company's right to exist fundamentally stems from its ability to fulfill customer needs, not just secure venture capital or develop innovative technology. For any growing enterprise, continuous strategic agility, especially in sales and distribution, is crucial to sustain long-term growth and competitiveness. It also emphasizes the importance of aligning internal incentives and external partnerships to meet evolving market demands.
-
-This shift was encapsulated when a sales representative from a value-added reseller candidly told Wasabi's founder, "I can see why Wasabi makes a lot of sense for my customers, but I don't get paid the same way if I sell some cloud storage as I do if I sell, you know, an EMC piece of iron. Can you solve that for me?"</description>
-      <pubDate>Sat, 09 May 2026 16:12:54 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778343174.mp3" length="1337517" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778343174.mp3</guid>
     </item>
   </channel>
 </rss>
