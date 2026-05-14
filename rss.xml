@@ -8,6 +8,28 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>BBC World News Digest: Xi tells Trump they shouldn't 'mess up' relationship</title>
+      <itunes:title>BBC World News Digest: Xi tells Trump they shouldn't 'mess up' relationship</itunes:title>
+      <description>BBC World News Digest: Xi tells Trump they shouldn't 'mess up' relationship
+
+The Global News Podcast opened with the US-China summit in Beijing. Both leaders described their meeting as historic, yet challenges remain in the critical relationship between the world's largest economies. China seeks cooperation and access to computer chips, while the US is interested in rare earths. A vague agreement was made for a "constructive strategic stability relationship." However, Xi Jinping warned of potential conflict over Taiwan, an issue President Trump repeatedly dodged when asked by reporters. China's secondary concern was the harassment of its students and business people in the US.
+
+Ukraine's Air Force reported Russia fired over 1500 drones and missiles in 36 hours, heavily targeting Kyiv. Rescue operations are ongoing at a collapsed 9-story building, but are often delayed by Russia's "double tap" tactic, striking targets twice. Ukraine is severely short on American-made Patriot systems needed to intercept many of Russia's advanced ballistic missiles.
+
+The UK Labour Party faces a political crisis as senior minister Wes Streeting resigned, citing a loss of confidence in Prime Minister Keir Starmer. Streeting's resignation letter called for a leadership debate and stated Starmer would not lead the party into the next general election, triggering an internal battle for leadership.
+
+A cruise across the South Atlantic turned into weeks of medical isolation for dozens of passengers due to a deadly hantavirus outbreak on the MV Hondius. American photographer Jake Rosmarin, now in quarantine in Nebraska, shared his experience of the terrifying period on the ship and his efforts to remain positive during his 39-day isolation.
+
+Rare protests erupted in Havana, Cuba, against the country's worst power blackouts in decades, exacerbated by a US fuel blockade. Hundreds protested severe fuel shortages and extended blackouts, using burning rubbish and anti-government chants. The island's power grid is at a critical stage, with Cubans struggling for basic survival amidst extreme scarcity.
+
+Alex Batty, abducted at age 11 by his mother and grandfather in 2017, was found in 2023. He described living nomadically between Spain and France as his family embraced conspiracy theories. At 17, fed up with the paranoia and isolation, he escaped and hitchhiked to return to the UK. He's since passed exams, become a parent, and is cautiously re-establishing contact with his mother.
+
+Tensions flared at the Eurovision Song Contest semi-finals, with audience members removed for "Stop the Genocide" chants during Israel's performance. Several public broadcasters are boycotting this year's event. Israeli contestant Noam Bettan expressed surprise but drew strength from supporters, emphasizing the positive connections with other artists despite the hostile social media environment.</description>
+      <pubDate>Thu, 14 May 2026 16:19:30 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778775570.mp3" length="2120109" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778775570.mp3</guid>
+    </item>
+    <item>
       <title>The Economist The Intelligence: Fired alarm: AI hype versus labour-market history</title>
       <itunes:title>The Economist The Intelligence: Fired alarm: AI hype versus labour-market history</itunes:title>
       <description>The Economist The Intelligence: Fired alarm: AI hype versus labour-market history
@@ -1404,26 +1426,6 @@ Our golden quote this week comes from J. Craig Venter's early life insight: "If 
       <pubDate>Sun, 10 May 2026 14:22:56 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778422976.mp3" length="2603949" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778422976.mp3</guid>
-    </item>
-    <item>
-      <title>The AI Breakdown: How to Build an AI Native Team with Mike Cannon-Brookes</title>
-      <itunes:title>The AI Breakdown: How to Build an AI Native Team with Mike Cannon-Brookes</itunes:title>
-      <description>The AI Breakdown: How to Build an AI Native Team with Mike Cannon-Brookes
-
-Today on The AI Daily Brief, we're diving deep into the complexities of enterprise AI adoption, as illuminated by Atlassian co-founder and CEO, Mike Cannon-Brookes. The core thesis of our discussion today highlights that successful AI integration in businesses isn't just about deploying advanced models. It's fundamentally about multiplying intelligence with rich, organizational context, fostering a culture of continuous learning, and seamlessly integrating AI into both existing and evolving workflows to drive significant, measurable productivity gains beyond simple chat interfaces.
-
-Our first key insight is the paramount importance of context in accelerating business operations. Mike articulates that acceleration for your business is fundamentally intelligence multiplied by context. Atlassian's strategic investment in its Teamwork Graph exemplifies this, bringing together code, people, and even physical assets into a comprehensive knowledge base. This rich, constantly updated context allows AI tools to provide faster, higher-quality, and more cost-effective answers to complex business questions, making AI agents truly powerful by understanding the intricate landscape they operate within.
-
-Secondly, the successful enterprise AI journey demands a delicate balance between enhancing current workflows and embracing entirely new paradigms. It's not enough to simply give users new tools. The focus must be on building AI capabilities directly into platforms they already use and love, like Jira or Confluence, accelerating existing tasks. Simultaneously, companies must develop headless tools, Command Line Interfaces, and no-code environments like Rovo Studio. These innovations empower a broader range of users to build AI solutions for their specific needs, facilitating new forms of collaboration between human and digital teammates.
-
-Finally, navigating the rapid evolution of AI necessitates a robust culture of continuous learning and sharing. The pace of change is unprecedented, meaning no one is an established expert. Enterprises must cultivate environments where teams are encouraged to experiment, share both successes and failures, and learn from each other. This dynamic loop of exploration, application, and knowledge dissemination, underpinned by strong governance and security frameworks, is critical for organizations to collectively adapt and grow their AI capabilities, ensuring widespread adoption and sustained impact.
-
-So, what does this all mean for your business? The takeaway is clear: achieving true AI-native status isn't a silver bullet technology deployment. It's a holistic organizational transformation. Success hinges on a thoughtful, heavy, and deliberate approach that prioritizes deeply contextualized AI. It requires intelligently integrating these capabilities into the full spectrum of work, from enhancing existing processes to enabling entirely new ones, all while fostering an internal culture that champions continuous learning and open sharing. This multi-faceted strategy is what will differentiate leaders from laggards, allowing them to harness AI for genuine competitive advantage and unlock its full potential.
-
-Mike Cannon-Brookes captured a fundamental truth of this transition, stating: "Acceleration for your business is about sort of intelligence multiplied by context. It's a simple sort of equation. The intelligence acceleration is very obvious... Context is the thing that we're trying to help organizations accelerate."</description>
-      <pubDate>Sun, 10 May 2026 14:19:52 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778422792.mp3" length="2279085" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778422792.mp3</guid>
     </item>
   </channel>
 </rss>
