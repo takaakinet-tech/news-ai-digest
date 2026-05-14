@@ -28,8 +28,6 @@ PODCASTS = [
     {"publisher": "Wall Street Journal", "title": "The Journal", "rss_url": "https://feeds.megaphone.fm/wsjthejournal"},
     {"publisher": "Financial Times", "title": "FT News Briefing", "rss_url": "https://feeds.acast.com/public/shows/ft-news-briefing"},
     {"publisher": "Bloomberg", "title": "The Big Take", "rss_url": "https://feeds.megaphone.fm/BLM2201990264"},
-    {"publisher": "Harvard Business Review", "title": "HBR IdeaCast", "rss_url": "https://feeds.megaphone.fm/hbrideacast"},
-    {"publisher": "Harvard Business Review", "title": "Cold Call", "rss_url": "https://feeds.harvardbusiness.org/harvardbusiness/coldcall"},
     {"publisher": "Washington Post", "title": "Post Reports", "rss_url": "https://feeds.simplecast.com/83p5H1Vf"}
 ]
 
