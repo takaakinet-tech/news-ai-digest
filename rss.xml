@@ -8,6 +8,30 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>The AI Breakdown: Google’s Big AI Test Comes Next Week</title>
+      <itunes:title>The AI Breakdown: Google’s Big AI Test Comes Next Week</itunes:title>
+      <description>The AI Breakdown: Google’s Big AI Test Comes Next Week
+
+Today on the AI Daily Brief.
+
+The significance of Codex coming to ChatGPT Mobile. The difference between consumer and work AI. And what to expect from Google's IO event next week.
+
+Before that in the headlines.
+
+Cerebras experienced a massive first day of trading, with its stock doubling and reaching a $66 billion market cap. The AI IPO market is heating up, with SpaceX, Anthropic, and OpenAI all preparing listings amid intense demand. Figma's stock recovered from a 50% drop, crediting AI features for a 46% revenue growth. Nvidia is quietly surging, up 20% in seven days, nearing a $6 trillion valuation.
+
+OpenAI is reportedly considering suing Apple over their ChatGPT integration, as Apple integrates Claude and Gemini internally instead. Anthropic is securing $30 billion at a $900 billion valuation, significantly ahead of OpenAI's previous valuation. Microsoft is canceling Claude code licenses to shift developers to GitHub Copilot, aiming to cut costs and boost in-house tools. Claude's Mythos showcased strong cybersecurity, exploiting macOS and patching numerous Mozilla bugs, with updated versions performing significantly better in benchmarks.
+
+OpenAI released Codex on the ChatGPT mobile app, allowing full agentic work within the app and signaling a shift towards persistent AI operators. A growing divergence highlights consumer AI's often-unwanted features versus work AI's insatiable demand for models and tokens. Google's upcoming IO event is poised to reveal its strategy for managing both consumer and work AI, a dual focus it has historically maintained.
+
+Google is set to introduce Gemini Spark, an always-on personal AI agent leveraging user data across its services. Gemini Spark faces both excitement for its personalized capabilities and skepticism, echoing Google's past AI assistant promises. The actual utility of personal AI agents is debated, with concerns over "context bleed" from excessive personal data affecting their efficacy.
+
+Google is rumored to launch Gemini 3.2 Flash, a powerful and cost-effective work AI model potentially matching GPT-5.5 at 15-20x lower cost and sub-200ms latency. Clarity on Google's core AI harness for its ecosystem remains a critical unknown, unlike OpenAI and Anthropic's established platforms. Google's IO announcements might confuse markets expecting bleeding-edge models but could offer significant value to builders through consolidated, cost-effective tools.</description>
+      <pubDate>Fri, 15 May 2026 20:18:50 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778876330.mp3" length="2047533" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778876330.mp3</guid>
+    </item>
+    <item>
       <title>BBC World News Digest: Trump hails 'fantastic' new trade deals with China</title>
       <itunes:title>BBC World News Digest: Trump hails 'fantastic' new trade deals with China</itunes:title>
       <description>BBC World News Digest: Trump hails 'fantastic' new trade deals with China
@@ -1432,30 +1456,6 @@ The Golden Quote
       <pubDate>Mon, 11 May 2026 10:28:22 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778495302.mp3" length="2024877" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778495302.mp3</guid>
-    </item>
-    <item>
-      <title>Komugiko 令和メガネ合戦: 令和メガネ合戦：JINSとZoffって何が違うの？ #コムギコ #77</title>
-      <itunes:title>Komugiko 令和メガネ合戦: 令和メガネ合戦：JINSとZoffって何が違うの？ #コムギコ #77</itunes:title>
-      <description>Komugiko 令和メガネ合戦: 令和メガネ合戦：JINSとZoffって何が違うの？ #コムギコ #77
-
-The Core Thesis:
-The Japanese eyewear market is a dynamic and surprisingly complex industry where seemingly similar brands and products conceal vastly different business models, strategic visions, and approaches to innovation, setting distinct paths for global expansion, domestic market dominance, and technological disruption.
-
-The 3 Key Insights:
-1. Divergent Strategic Models: Despite superficial similarities in affordable pricing and product offerings, major eyewear brands like JINS, Zoff, and OnDays have adopted fundamentally different strategic trajectories. JINS is expanding globally as a technology-driven SPA (Specialty store retailer of Private label Apparel), utilizing data and functional lenses to drive sales. Zoff has consolidated its domestic market position, focusing on fashion-forward branding, collaborations, and strategic acquisitions like Megane Super. OnDays, through its partnership with India's Lenskart, is aggressively pursuing an omnichannel, tech-enabled expansion across Asian markets.
-
-2. The "Made in Japan" System as an Exportable Asset: The inherent high quality and perceived value of Japanese eyewear, rooted in a long tradition of craftsmanship, particularly from Sabae, Fukui Prefecture, is a significant competitive advantage. This allows Japanese brands to not only produce high-quality, affordable glasses but also to export their entire efficient retail and customer experience "system" globally, rather than just manufacturing products overseas. This operational excellence contributes significantly to their success, even when actual production occurs outside Japan.
-
-3. The Looming Disruption of AR Glasses: The eyewear industry is on the cusp of a major transformation with the advent of AR (Augmented Reality) glasses, exemplified by Meta's Ray-Ban smart glasses. These devices transcend traditional functionalities of vision correction and fashion to become advanced wearable computers. This shift signals a potential "game-changer," redefining eyewear as an essential interface for accessing digital information within the physical world, much like smartphones revolutionized personal computing and communication.
-
-The 'So What?':
-The evolution of the Japanese eyewear market offers a compelling case study in modern retail and innovation. It demonstrates how companies in a competitive landscape can thrive by clearly defining their unique value propositions and strategic vectors. For businesses across various sectors, this illustrates the importance of adapting to market shifts, leveraging core strengths, and proactively addressing future technological disruptions, showing that perceived commoditization does not preclude profound strategic differentiation and long-term success.
-
-The Golden Quote:
-"Even though they look the same, the vector direction they are heading in is completely different."</description>
-      <pubDate>Mon, 11 May 2026 10:26:30 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778495190.mp3" length="1849005" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778495190.mp3</guid>
     </item>
   </channel>
 </rss>
