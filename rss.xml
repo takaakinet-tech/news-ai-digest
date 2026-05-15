@@ -8,6 +8,30 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>New York Times Hard Fork: A.I. Safety Is So Back + Mythos Mayhem with Nikesh Arora + Hot Mess Express</title>
+      <itunes:title>New York Times Hard Fork: A.I. Safety Is So Back + Mythos Mayhem with Nikesh Arora + Hot Mess Express</itunes:title>
+      <description>New York Times Hard Fork: A.I. Safety Is So Back + Mythos Mayhem with Nikesh Arora + Hot Mess Express
+
+Welcome to an intellectually charged briefing from Hard Fork, where the landscape of AI governance, cybersecurity, and global power dynamics is undergoing a seismic, and often contradictory, transformation. This episode peels back the layers of a bewildering policy pivot, revealing the "dirty secrets" of our digital infrastructure and the human toll of an accelerating technological frontier.
+
+The central narrative is the Trump administration's remarkable volte-face on AI safety. Just a few years ago, concerns about AI were dismissed as "domer fearmongering," a "ridiculous" agenda driven by "hyped-up fears" to enact "regulatory capture." Yet, as one guest pointedly noted, the "Trump administration's view of AI just did not survive contact with reality." This shift is underscored by a new executive order—still in flux—aimed at creating an AI working group and a formal government review process for new models. This marks a stark departure from the administration's previous stance, which, by cancelling President Biden's similar executive order, had been perceived as "anti-innovation" and a push to "win the AI race" by letting "the labs do whatever they want." Now, the "shoe is on the other foot," and suddenly, they're "quite scared about what's happening."
+
+This policy reversal has a proximate cause: Anthropic's Claude Mythos model. Released in a preview to a select group of federal agencies and companies, Mythos is "very good, apparently, at finding novel vulnerabilities in code that can be used to create exploits." This capability has exposed a "vast amount of harm" lurking in existing software. Palo Alto Networks CEO Nikesh Arora vividly describes it as initiating a "great cleansing" of the "vulnerability debt" that humans have been accumulating for "a very long time." Companies like Mozilla are now reporting "hundreds of bugs" discovered in mere weeks, a rate "five to seven times" higher than typical. The implication is profound: if a cybersecurity firm can find these vulnerabilities, so can malicious actors. This revelation has pushed the administration to confront the reality that "these models are very powerful, and we don't want our adversaries to get access to them."
+
+The geopolitical stakes are equally high. The US-China tech rivalry takes center stage, with reports of China actively seeking access to Mythos-level capabilities. This creates an "inherently contradictory" situation where the US might both sell chips that enable China to develop its own advanced AI while simultaneously trying to block access to existing powerful models. This "AI brinksmanship" extends globally, with countries like Germany demanding access to state-of-the-art models for their own national security. The question of "who should have access to which models when" is now a global dilemma, marking a new era of "unbalanced fight" where defenders must be right 100% of the time, while attackers only need to succeed once.
+
+Beyond policy, the cyber threat landscape is accelerating at an alarming rate. Google recently identified an attacker using a "zero-day exploit" developed with AI – a "grim milestone." Even the seemingly benign act of managing an online learning platform has been disrupted by cyberattacks forcing negotiations with hackers. This escalation impacts everyone, especially "non-tech businesses" like hospitals, which rely heavily on technology but may lack the resources and expertise of tech giants.
+
+Amidst this tumult, the human element emerges. Tech employees are caught between the excitement of powerful new tools and the anxiety of intensified workloads. The polarization around AI safety has created a toxic environment where sincere concerns were once dismissed as "hysterical liberals" seeking "heavy-handed regulation." Now, with the undeniable evidence of AI's power, there's a desperate scramble to catch up. The irony is palpable, with the very people who once derided "AI safety" now leading the charge. This extends to personal cybersecurity, where the sophistication of phishing attacks, potentially AI-assisted, threatens to make even savvy users vulnerable, necessitating a re-evaluation of basic digital hygiene. As one guest humorously but pointedly observed about email security: "You're telling me it's hard for the email provider to figure out that this is not an X email address? I mean, these are the same guys that are building AI, right?"
+
+The question remains: who wins in this race between AI's potential and its perils? For now, the answer is "entirely confused and incoherent." But one thing is clear: the "Overton window has shifted" with remarkable speed, forcing a reckoning with AI's power that the world can no longer ignore.
+
+(Audio briefing concludes)</description>
+      <pubDate>Fri, 15 May 2026 11:20:14 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778844014.mp3" length="3522093" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778844014.mp3</guid>
+    </item>
+    <item>
       <title>The Economist The Intelligence: Top dog-whistler: Tommy Robinson and Britain’s far right</title>
       <itunes:title>The Economist The Intelligence: Top dog-whistler: Tommy Robinson and Britain’s far right</itunes:title>
       <description>The Economist The Intelligence: Top dog-whistler: Tommy Robinson and Britain’s far right
@@ -1421,34 +1445,6 @@ The differing AI strategies of the US and China highlight a fundamental tension 
       <pubDate>Mon, 11 May 2026 10:22:32 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778494952.mp3" length="2516397" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778494952.mp3</guid>
-    </item>
-    <item>
-      <title>BBC World News Digest: Evacuation begins of hantavirus ship</title>
-      <itunes:title>BBC World News Digest: Evacuation begins of hantavirus ship</itunes:title>
-      <description>BBC World News Digest: Evacuation begins of hantavirus ship
-
-[SECTION 1: The Core Thesis]
-
-This World News Digest highlights global fragility, showcasing diverse crises from a viral outbreak on a cruise ship and geopolitical tensions in the Gulf to human rights abuses in Syria and forced displacement in the West Bank. The recurring theme is the complex interplay of international cooperation, national self-interest, and the profound human impact of these multifaceted challenges, often exacerbated by existing political fault lines and historical grievances.
-
-[SECTION 2: The 3 Key Insights]
-
-1.  Global Health Crises Demand Coordinated International Response, Yet National Interests Persist: The handling of the cruise ship virus outbreak illustrates both the necessity and the friction in international health cooperation. While the WHO provided guidelines for a 42-day quarantine, individual nations like the US exercised sovereign decisions, opting not to force isolation on its citizens. This highlights the tension between global health protocols and national policy-making, especially concerning public health risks.
-
-2.  Justice and Accountability Remain Elusive in Post-Conflict Zones: The trial of Atif Najib, Bashar al-Assad's cousin, in Syria, on charges of murder and torture, represents a pivotal moment for victims seeking justice. However, the emotional testimony from families and concerns about the application of Syrian versus international law underscore the deep-seated challenges in achieving comprehensive justice and accountability for atrocities committed by government members, even as regimes transition.
-
-3.  Geopolitical Tensions in the Gulf Remain High, Despite Diplomatic Efforts: The ongoing standoff between the US and Iran in the Strait of Hormuz, characterized by drone incidents and a perceived lack of meaningful progress in peace talks, reflects deeply entrenched mistrust. Despite initial optimism, Iran's latest proposals were deemed "totally unacceptable" by the US, highlighting persistent disagreements over sanctions, regional influence, and the future of maritime security, maintaining a precarious stability in the region.
-
-[SECTION 3: The 'So What?']
-
-These developments underscore the fragility of global stability and the inherent difficulties in achieving consensus and effective action on issues ranging from public health to justice and international security. The persistence of nationalistic approaches to global crises, particularly in health and diplomacy, can lead to fragmented responses and increased risks. Furthermore, the long shadow of past conflicts and human rights abuses continues to fuel instability and complicates efforts toward reconciliation and lasting peace. The global community faces a continuous challenge in balancing sovereign interests with the imperative for collective action and upholding human dignity.
-
-[SECTION 4: The Golden Quote]
-
-"The environment right now is very, very complex. We are in a unique environment. We have seen different situations arise over the course of the last few days in particular. So, where we will see other noises coming out from the U.S. side, we will see a different and changing tone from the U.S. President. That is what we are waiting to see what happens next. So, they continue to move forward with further diplomatic movements. Do we see further military stances taken from the US? What comes after that statement from President Trump?"</description>
-      <pubDate>Mon, 11 May 2026 10:19:54 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778494794.mp3" length="2896173" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778494794.mp3</guid>
     </item>
   </channel>
 </rss>
