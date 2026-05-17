@@ -77,9 +77,27 @@ def publish_episode(podcast_title, text_summary, mp3_bytes):
     with open(RSS_FILE, "w") as f:
         f.write(xmlstr)
         
+    # Automatic Storage Management: Delete orphaned MP3 files
+    active_urls = []
+    for item in channel.findall("item"):
+        enc = item.find("enclosure")
+        if enc is not None:
+            active_urls.append(enc.get("url"))
+            
+    active_filenames = [url.split("/")[-1] for url in active_urls]
+    
+    for filename in os.listdir(EPISODES_DIR):
+        if filename.endswith(".mp3") and filename not in active_filenames:
+            filepath = os.path.join(EPISODES_DIR, filename)
+            try:
+                os.remove(filepath)
+                print(f"Deleted old episode to free up space: {filename}")
+            except Exception as e:
+                print(f"Failed to delete {filename}: {e}")
+        
     subprocess.run(["git", "config", "--global", "user.name", "github-actions[bot]"], cwd=REPO_DIR)
     subprocess.run(["git", "config", "--global", "user.email", "github-actions[bot]@users.noreply.github.com"], cwd=REPO_DIR)
     subprocess.run(["git", "add", "."], cwd=REPO_DIR)
-    subprocess.run(["git", "commit", "-m", f"Add episode: {podcast_title}"], cwd=REPO_DIR)
+    subprocess.run(["git", "commit", "-m", f"Add episode & clean up old files: {podcast_title}"], cwd=REPO_DIR)
     subprocess.run(["git", "push", "origin", "HEAD:main"], cwd=REPO_DIR)
     print(f"Published to GitHub Actions! URL: {audio_url}")
