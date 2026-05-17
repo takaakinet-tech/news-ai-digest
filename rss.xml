@@ -8,6 +8,28 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>Financial Times FT News Briefing: The Bethlehem Project: Democrats battle over their party’s future</title>
+      <itunes:title>Financial Times FT News Briefing: The Bethlehem Project: Democrats battle over their party’s future</itunes:title>
+      <description>Financial Times FT News Briefing: The Bethlehem Project: Democrats battle over their party’s future
+
+Hello and welcome to The Bethlehem Project. This special series explores US economic and political issues through the lens of Bethlehem, Pennsylvania, a city that embodies national trends as a politically divided area in a critical swing state, a former steel town now thriving in a post-industrial economy, and a vibrant immigrant community.
+
+Sonia Hutson, who hosts this series, recently visited Bethlehem to cover a crucial congressional primary election, offering insights into a national debate within the Democratic Party on how to appeal to swing voters.
+
+At a Democratic Party mixer in Easton, Pennsylvania, Shadwick Yeutter, President of the Lehigh Valley Young Democrats, highlighted the primary's significance: an opportunity to select a candidate vital for regaining control of the House.
+
+The two main contenders are Bob Brooks and Ryan Crosswell. Brooks, a former firefighter and union leader, is favored by many for his progressive economic focus and ability to attract independent and disaffected Republican voters. His blue-collar background resonates strongly in Bethlehem, a former manufacturing hub, particularly with those whose families worked for Bethlehem Steel. Brooks himself criticizes former President Trump for failing to deliver on promises to blue-collar workers, noting Trump's falling approval ratings due to issues like war and inflation. Brooks’ policy platform centers on affordability, advocating for Medicare for All and taxing the ultra-rich, policies he argues are not "far left" but align with what most people want. He emphasizes a working-class identity over ideological labels. Pennsylvania’s Democratic establishment supports Brooks, seeing him as key to rebranding the party. His campaign ads visually reinforce his working-class image.
+
+On the other hand, Ryan Crosswell, a former Republican and federal prosecutor, presents a more centrist profile. He transitioned to the Democratic Party after becoming disillusioned with what he perceived as former President Trump's undemocratic actions and abuses of power, including disregarding Congress and failing to disclose important information. Crosswell's pitch leverages his experience investigating government corruption, aiming to "rebuild guard rails" in Congress. In terms of policy, he supports a public option for healthcare, which competes with private insurance, rather than universal coverage. Crosswell contends that while primaries may reward progressive stances, winning general elections requires a more centrist approach. He focuses on issues, adapting his message to different voters without emphasizing party affiliation. Courtney Gilmore, a voter from a Republican-leaning part of the district, expressed support for Crosswell, praising his ability to engage across the aisle and his focus on upholding the law. She believes in appealing to the working class while inviting Republicans to join Democrats.
+
+Chris Borick, a political science professor, offered a word of caution. While Democrats are optimistic about this election cycle, benefiting from Republican missteps and current political tailwinds, he notes the Democratic Party "still has a bad brand." Candidate selection and strategy remain critically important. Borick suggests that current conditions allow for more "room for error" and experimentation in candidate choices. However, he warns that with four candidates in the primary and historically low primary voter turnout, the outcome is highly uncertain, as a win could be secured with just 35 to 40% of the vote.
+
+Ultimately, this election highlights a fundamental question for Democrats: who can truly inspire change? Is it the blue-collar progressive Bob Brooks, focusing on economic affordability, or the more centrist Ryan Crosswell, focused on accountability for government corruption and keeping Trump in check? While the Democratic establishment has publicly backed Brooks, the voters in Bethlehem will ultimately decide what electability means this election.</description>
+      <pubDate>Sun, 17 May 2026 04:22:23 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778991743.mp3" length="2937645" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778991743.mp3</guid>
+    </item>
+    <item>
       <title>BBC World News Digest: WHO declares an Ebola public health emergency in the DRC</title>
       <itunes:title>BBC World News Digest: WHO declares an Ebola public health emergency in the DRC</itunes:title>
       <description>BBC World News Digest: WHO declares an Ebola public health emergency in the DRC
@@ -1484,36 +1506,6 @@ From Gideon Rachman, the FT's Chief Foreign Affairs Commentator, discussing the 
       <pubDate>Tue, 12 May 2026 04:19:33 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778559573.mp3" length="1968813" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778559573.mp3</guid>
-    </item>
-    <item>
-      <title>The AI Breakdown: The Best Way to Talk to Your AI Agents</title>
-      <itunes:title>The AI Breakdown: The Best Way to Talk to Your AI Agents</itunes:title>
-      <description>The AI Breakdown: The Best Way to Talk to Your AI Agents
-
-Today on the AI Breakdown
-
-First, the core thesis:
-
-The AI Daily Brief explores a proposed shift from Markdown to HTML for interacting with AI agents, arguing that this change is driven by the evolving nature of work in the AI era. As our jobs transition from producing final outputs to managing AI agents that do the production, we are spending more time in an "in-between" or "liminal" workspace. HTML’s richer capabilities in information density, visual clarity, ease of sharing, and two-way interaction make it better suited for this new mode of collaborative, iterative work with AI, especially when dealing with projects in various stages of completion.
-
-Now, for the three key insights:
-
-1.  Anthropic’s Massive Fundraising: Anthropic is reportedly seeking another round of funding at nearly a trillion-dollar valuation, with some market speculators already implying a 1.2 trillion valuation. This move would position Anthropic ahead of OpenAI and could significantly influence the twin AI IPO landscape later this year. The increased demand is attributed to their compute advancements, seen as a major de-risking factor for investors.
-
-2.  Cerebras IPO Surges: Cerebras is preparing for what could be the largest IPO this year, with initial pricing expected to increase its implied valuation from $26 billion to over $34 billion. Reports indicate "red hot" demand from institutional investors, with orders currently at 20 times the available shares, suggesting strong confidence despite some analysts deeming it fundamentally risky.
-
-3.  TSMC’s AI Bottleneck: TSMC reported its slowest sales growth in six months, despite the frenetic pace of AI buildout. This slowdown is primarily due to a significant drop in their non-AI business and, more critically, the sheer physical constraints of AI demand. TSMC reportedly lacks the capacity to manufacture more advanced AI chips, and upstream components like high-bandwidth memory are also facing capacity constraints. This has led companies like Apple to diversify their chip-making agreements with Intel, highlighting a potential changing of the guard in the semiconductor industry’s leadership.
-
-So, what’s the "so what?"
-
-The move from Markdown to HTML for AI interactions reflects a fundamental shift in how we work with AI. It’s not just about document formatting; it's about optimizing our interactions for an era where AI agents are central to production. This trend, combined with the massive investments in AI companies like Anthropic and Cerebras, indicates a rapidly maturing AI industry. However, the capacity constraints faced by chip manufacturers like TSMC reveal a critical bottleneck that could temper the pace of AI development and adoption, pushing companies towards new strategies for chip supply and manufacturing partnerships.
-
-And finally, the golden quote:
-
-"The question isn't Markdown versus HTML. It's for this specific document, who reads it, who edits it, and how long does it live? Answer those three, and the format picks itself."</description>
-      <pubDate>Mon, 11 May 2026 22:18:48 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778537928.mp3" length="2301357" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778537928.mp3</guid>
     </item>
   </channel>
 </rss>
