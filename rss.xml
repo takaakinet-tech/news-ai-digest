@@ -8,6 +8,32 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>BBC World News Digest: What we know about latest Ebola outbreak</title>
+      <itunes:title>BBC World News Digest: What we know about latest Ebola outbreak</itunes:title>
+      <description>BBC World News Digest: What we know about latest Ebola outbreak
+
+This is an audio briefing from the BBC World Service.
+
+An Ebola outbreak in the Democratic Republic of Congo's Ituri province has been declared a public health emergency of international concern by the World Health Organization. It has spread to Uganda, with Rwanda and South Sudan also on high alert. Eighty people have died and there are 246 suspected cases. Health officials are scrambling to contain the unique species of the virus, for which no treatments or cures are currently available. Key measures involve public education on health and hygiene, safe funeral practices, and water and sanitation efforts. The remote, impoverished region, complicated by armed groups and a WHO funding crisis, makes response difficult. This new strain is different from a larger 2018-2020 outbreak that was eventually controlled with significant resources.
+
+A Hantavirus outbreak on a cruise ship traveling from Argentina to Cape Verde led to three deaths and dozens in quarantine. Most passengers were evacuated off Tenerife, but a 25-person crew and two medical staff remained. The ship is now in Rotterdam, where 27 Dutch citizens will quarantine at home, and others will be held for 40 days. Cruise operators state all on board are asymptomatic, and the measures are purely precautionary.
+
+The Ukrainian military claims Russian forces are preparing a major offensive this summer, with troops nearing Konstantinovka in the eastern Donetsk region. Ukrainian soldiers, including an infantryman with call sign "Kenya" from the 93rd Brigade, have spent 225 days on the front line, known as the "kill zone," where Kamikaze drones are prevalent. Soldiers reported constant shortages of water and food, and faced extreme cold in winter, with one comrade dying of hypothermia. Another soldier, Honey, described a terrifying moment when Russians discovered his position, dropping explosives and sending drones. Despite machines dominating modern warfare, foot soldiers remain crucial for holding Ukrainian territory.
+
+The Spanish High Court has cleared Colombian singer Shakira of tax fraud and ordered the treasury to reimburse her approximately $70 million, including fines and interest. Shakira had been battling Spain for eight years over a 2011 tax bill, arguing she did not spend the required 183 days in the country to be a tax resident. She stated she performed 120 concerts in 37 countries that year and had no home, children, or business in Spain. Shakira released a statement condemning "brutal public targeting" and "orchestrated campaigns" to destroy her reputation, hoping the ruling sets a precedent for other taxpayers.
+
+In the Maldives, four Italian tourists and their instructor went missing after a scuba diving trip; one rescue diver later died. Four of the five bodies have now been located deep inside a cave system in Baa Atoll. Theories for the deaths include running out of oxygen, oxygen toxicity from deep diving to estimated depths of 100 meters or more, or disorientation from kicked-up sand and dust. It is unclear if they had permission to dive to such depths, as recreational permits are typically for 30 meters. This incident marks the worst diving tragedy in the Maldives.
+
+Data centers, vast warehouses of computers, are raising concerns about noise, water use, energy demand, and loss of green space. A plan to build one of Europe's largest data centers on agricultural land north of London has sparked opposition from local residents, who mourn the loss of productive farmland and green areas. The developer, Equinix, plans extensive tree planting, green spaces, and new pathways. Equinix's managing director for the UK, James Tyler, explained that proximity to economic hubs like London is crucial for highly responsive applications where milliseconds matter, making remote locations unsuitable. He stressed the UK's need to invest in high-quality data center infrastructure for economic growth.
+
+Police were called to Swatch stores across the UK and Paris to control crowds queuing for a new "Royal Pop" pocket watch. In Paris, tear gas was fired; a fight broke out in Milan; and a New York shopper described the scene as a "mosh pit." This new watch is a collaboration with luxury watchmaker Audemars Piguet, whose watches typically cost over $20,000. The Swatch version sells for hundreds but is already being resold at luxury prices. Watchmaker Roger Smith notes a revival in pocket watches and welcomes products that engage young people with watches, highlighting the appeal of the collaboration's history and story.
+
+For the first time in France's modern history, beer consumption has overtaken wine. New research shows beer consumption outstripped wine by 10 million liters last year, with wine consumption falling by almost 40% over three decades. Experts attribute this shift to beer's rebrand as more glamorous with craft beers, its lower cost, and a general move towards health-conscious choices like alcohol-free options. Despite these trends and the decline of the traditional "long lunch," French people overwhelmingly still view wine as a cornerstone of their national identity and a noble product that boosts the country's global image.</description>
+      <pubDate>Mon, 18 May 2026 16:20:49 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1779121249.mp3" length="3173421" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1779121249.mp3</guid>
+    </item>
+    <item>
       <title>The Economist The Intelligence: Equal before the law? Transitional justice in Syria</title>
       <itunes:title>The Economist The Intelligence: Equal before the law? Transitional justice in Syria</itunes:title>
       <description>The Economist The Intelligence: Equal before the law? Transitional justice in Syria
@@ -1450,30 +1476,6 @@ The Golden Quote
       <pubDate>Wed, 13 May 2026 04:19:08 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778645948.mp3" length="2116269" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778645948.mp3</guid>
-    </item>
-    <item>
-      <title>The AI Breakdown: Towards AI That Can Actually Interact</title>
-      <itunes:title>The AI Breakdown: Towards AI That Can Actually Interact</itunes:title>
-      <description>The AI Breakdown: Towards AI That Can Actually Interact
-
-Today on The AI Breakdown: Thinking Machines challenges how we interact with AI, setting the stage for a new era of human-computer collaboration.
-
-Core Thesis:
-Thinking Machines is fundamentally challenging the current paradigm of turn-based AI interaction with their new "interaction models." This innovation aims to foster continuous, real-time human-AI collaboration, moving beyond traditional prompt-response systems to create a more natural and fluid engagement with artificial intelligence.
-
-3 Key Insights:
-1.  OpenAI's Consulting Arm and Talent Demand: OpenAI has officially launched "Deploy Co.," a consulting company aimed at pairing their AI developers with key clients for deep AI transformations. This venture is backed by major investors like TPG, Advent International, Bain Capital, and Brookfield, who are effectively buying priority access to cutting-edge AI talent for their portfolio companies. This highlights the immense market demand for specialized AI implementation expertise.
-2.  Unsanctioned Secondary Markets and Valuation Concerns: Both Anthropic and OpenAI are aggressively discrediting unofficial secondary markets for their stock, often traded through crypto tokens. Both companies have issued strong warnings, declaring such transfers legally void and potentially fraudulent. This move caused significant price drops in these tokens, underscoring the opacity and risks associated with private market valuations and the intense investor appetite for high-growth AI equity.
-3.  Thinking Machines' Interaction Models: Thinking Machines introduced a novel approach called "interaction models," which move beyond the current turn-based AI systems. These models are designed for continuous, real-time, multimodal human-AI collaboration, perceiving user actions and responding natively without interruption. Their goal is to overcome the "collaboration bottleneck" of traditional systems, making AI interaction as seamless and responsive as human conversation by integrating proactive responses and constant awareness.
-
-So What?:
-These developments collectively point to a transformative period in artificial intelligence. The launch of ventures like Deploy Co. signals the critical need for integrating advanced AI solutions into core business operations, necessitating a surge in specialized external expertise. Concurrently, the controversies surrounding secondary markets for private AI company stock highlight both the astronomical valuations in the sector and the growing friction between companies and eager investors seeking early access, potentially leading to a broader reckoning in private capital markets. Most significantly, Thinking Machines' interaction models promise to fundamentally redefine how we engage with AI. By enabling truly continuous, intuitive, and responsive interactions, these models could democratize AI access beyond technical experts, potentially becoming the "GUI moment" for AI and making intelligent tools accessible and effective for everyone. This shift would fundamentally transform workflows, making AI not just a tool, but a true collaborative partner.
-
-Golden Quote:
-"The GUI was one of the greatest democratizing forces of personal computing. If AI is the next interaction layer, what's the GUI moment here? It is not better prompts."</description>
-      <pubDate>Tue, 12 May 2026 22:19:27 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778624367.mp3" length="3210285" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778624367.mp3</guid>
     </item>
   </channel>
 </rss>

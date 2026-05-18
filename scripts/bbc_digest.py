@@ -1,3 +1,9 @@
+import sys, os
+try:
+    sys.path.append(os.path.join(os.path.dirname(os.path.abspath(__file__)).split(".agents")[0], ".agents"))
+    import cost_guard
+except ImportError:
+    pass
 import os
 import urllib.request
 import subprocess
