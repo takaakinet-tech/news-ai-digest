@@ -8,6 +8,42 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>Bloomberg The Big Take: SoftBank’s $60 Billion OpenAI Bet Sparks Concerns</title>
+      <itunes:title>Bloomberg The Big Take: SoftBank’s $60 Billion OpenAI Bet Sparks Concerns</itunes:title>
+      <description>Bloomberg The Big Take: SoftBank’s $60 Billion OpenAI Bet Sparks Concerns
+
+Bloomberg Audio Studios presents "The Big Take."
+
+There's been considerable drama lately surrounding OpenAI and its CEO Sam Altman. A jury ruled against Elon Musk in his trial against OpenAI, suggesting he should have brought the case sooner. Reports also indicated a ChatGBT account linked to a shooter was internally flagged for abuse months before a killing spree. Numerous lawsuits have been filed, including one from Elon Musk, who alleges OpenAI shifted from a nonprofit to a for-profit. While a jury rejected Musk's claims, he plans to appeal. Families additionally accuse the company of failing to prevent chatbot interactions that led to violence and self-harm, with OpenAI denying liability. Internally, reports suggest OpenAI struggled to meet sales goals for ChatGBT, making investors nervous.
+
+However, Softbank founder and CEO Masayoshi Son, a prominent Japanese investor, remains a steadfast OpenAI backer. Son is deeply committed to Sam Altman, unfazed by challenges, and believes ChatGPT will profoundly change the world, with Altman as a key driver.
+
+Despite Son's conviction, not all Softbank insiders agree. Bloomberg sources, who requested anonymity, express concern that the relationship between Son and Altman is unequal. Son's support is described as deep, but Altman's side is perceived as purely business-driven. This imbalance is striking given Softbank's over 60 billion dollar investment in OpenAI, making it the second-largest external shareholder and Softbank's biggest single private company investment to date.
+
+Son's dedication is being tested as the AI industry becomes fiercely competitive, with rivals like Anthropic rapidly emerging, adding uncertainty to Softbank's colossal bet.
+
+Son, a tech investing powerhouse, is known for spotting early winners. His 20 million dollar investment in Jack Ma for Alibaba famously turned into a jackpot worth over 160 billion dollars. Son saw similar potential in Sam Altman. An initial attempt by Softbank to invest 1 billion dollars failed as OpenAI was a nonprofit not seeking investors. Son then focused on his Vision Fund, but faced significant setbacks, including a 14 billion dollar write-down on WeWork. Son publicly admitted his mistakes, stating it was "all his responsibility."
+
+By 2022, Softbank was recovering, and OpenAI, with Altman and ChatGPT gaining immense popularity, re-entered Son's radar. Softbank shareholders questioned why the company was missing out on such a crucial AI investment opportunity. Son waited for the right moment, which arose in 2024 when OpenAI began the Stargate project for US data centers. As discussions between OpenAI and Microsoft reportedly cooled, Son seized the opening. Softbank initially invested 500 million dollars, and following a formal announcement of Stargate by President Trump, Softbank rapidly committed another 30 billion dollars, then a second 30 billion, bringing its total to over 60 billion dollars.
+
+Son firmly believes OpenAI's language models represent the next transformational technology, his "next Alibaba." At 68, he feels time is running out for aggressive, high-stakes bets.
+
+Son's unwavering commitment to OpenAI has raised red flags among some Softbank insiders. They worry he may be ignoring potential risks and dismissing the concerns of his lieutenants regarding aggressive expansion into AI and data center projects.
+
+Softbank's 60 billion dollar commitment is unusual because it lacks the operational influence or a board seat typical of such substantial investments. Softbank sources find this concerning, as top OpenAI investors generally lack board representation. While Son's past allowed him direct access to founders, the dynamic with Altman is different, raising concerns about Softbank's ability to effectively voice dissent.
+
+Softbank publicly affirms high conviction in OpenAI and emphasizes their strong strategic partnership. However, Son often employs a "gut-first" investment approach. Internally, some Softbank staff have cautioned Son that OpenAI might not meet expectations. Son's vision largely dominates Softbank; while past board members challenged him, they have since departed, leaving fewer strong voices to oppose Son's decisions when his mind is set.
+
+These insider concerns are compounded by the rapidly shifting AI landscape and uncertainty about future defining technologies. Some investors suggest Softbank diversify by backing rivals like Anthropic, but Softbank's CFO has stated there are no such plans. Instead, Softbank has doubled down, securing a massive 40 billion dollar, one-year debt package, whose refinancing depends heavily on OpenAI's valuation maintaining a certain level.
+
+Earlier this year, S&amp;P Global Ratings lowered Softbank's outlook to negative, warning that massive OpenAI bets could drain liquidity and erode credit quality. While Softbank's CFO asserts financial health for refinancing, the credit market remains sensitive to its borrowing.
+
+With OpenAI, Anthropic, and XAI all planning IPOs, intense capital competition is expected. A successful trillion-dollar IPO for OpenAI would greatly vindicate Son's aggressive strategy. However, failure could severely trouble Softbank, potentially threatening the rollover of its substantial loans. The volatile landscape and financial uncertainty make market outcomes unpredictable, embodying venture capital's inherent high-risk, high-return dynamic.</description>
+      <pubDate>Tue, 19 May 2026 21:20:19 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1779225619.mp3" length="3529389" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1779225619.mp3</guid>
+    </item>
+    <item>
       <title>Wall Street Journal The Journal: Trapped in the Strait of Hormuz</title>
       <itunes:title>Wall Street Journal The Journal: Trapped in the Strait of Hormuz</itunes:title>
       <description>Wall Street Journal The Journal: Trapped in the Strait of Hormuz
@@ -1425,34 +1461,6 @@ This has been your daily FT News Briefing. Check back next week for the latest b
       <pubDate>Wed, 13 May 2026 17:01:36 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778691696.mp3" length="4532013" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778691696.mp3</guid>
-    </item>
-    <item>
-      <title>Wall Street Journal The Journal: A Data Center Revolt in Missouri</title>
-      <itunes:title>Wall Street Journal The Journal: A Data Center Revolt in Missouri</itunes:title>
-      <description>Wall Street Journal The Journal: A Data Center Revolt in Missouri
-
-Festus, Missouri residents held a heated city council vote on a data center proposal, which passed despite significant opposition. Nationwide, data center construction is largely unwelcome, with a majority opposing AI data centers in their communities, often due to a "not in my backyard" sentiment. This backlash is particularly intense in Festus.
-
-The data center boom is driven by internet demands and artificial intelligence, making data centers a major real estate sector. Developers secure land and then partner with tech companies. This construction boom has fueled the backlash seen in Festus, a town of 14,000 with a past industrial history.
-
-A developer, CRG, previously faced local opposition elsewhere, then pursued a 300-acre site in Festus, offering a $6 billion data center. City leadership supported it, citing $30 million in annual tax revenue, equal to the city's entire budget, which could fund schools and roads.
-
-The zoning process alerted residents, who organized on Facebook and filed public records requests. Documents revealed attempts to hide information and disparage opponents, calling them a "side show of uneducated people." These comments were memed and became a rallying cry.
-
-The intense opposition caught city officials, including the mayor, off guard. Residents expressed fears about declining home values, stalled lives, and concerns over water usage, pollution, and increased utility costs. The developer promised no water pollution and state protection from rising utility bills.
-
-Despite the mayor believing the project would bring better streets and amenities, residents felt he had "sold them out for money." The post-vote backlash intensified, leading to new missions: voting out supportive city council members and recalling the mayor.
-
-Following the March vote, all four incumbent city council members who supported the data center were defeated in re-election by anti-data center challengers, a "blowout" victory. Residents are now petitioning to recall the mayor and remaining council members.
-
-The mayor, an 81-year-old former police officer, remains unfazed. He believes residents are worried about "other things" and denies selling out. The company plans to build the $6 billion data center, believing the city lacks the right to revoke their agreement, but states they will not build if public support is insufficient.
-
-Around the country, communities are passing moratoriums or banning new data centers outright, as seen in St. Charles, Missouri, and Fulton County, Ohio. Maine's governor vetoed a ban with a carve-out for an existing project.
-
-This pushback may lead to data centers clustering in less resistant areas. Questions arise about an "AI bubble" and whether massive data centers will be needed as technology advances. While the project pipeline remains strong, the growing backlash is influencing site selection, impacting whether companies even propose projects.</description>
-      <pubDate>Wed, 13 May 2026 16:58:37 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778691517.mp3" length="2037933" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778691517.mp3</guid>
     </item>
   </channel>
 </rss>
