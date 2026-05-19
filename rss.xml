@@ -8,6 +8,44 @@
     <itunes:author>Antigravity AI</itunes:author>
     <itunes:image href="https://takaakinet-tech.github.io/news-ai-digest/cover.png" />
     <item>
+      <title>The AI Breakdown: 9 Codex Tips From the Codex Team</title>
+      <itunes:title>The AI Breakdown: 9 Codex Tips From the Codex Team</itunes:title>
+      <description>The AI Breakdown: 9 Codex Tips From the Codex Team
+
+Today on the AI Daily Brief, we have a number of important updates from the AI industry.
+
+First, Cursor has made significant strides in the AI race with the release of Composer 2.5. Cursor’s CEO previously declared "wartime" as their business model was eroded from both sides. Their top priority was building the best coding model. Composer 2.5 shows strong competitive performance against leading models like Opus 4.7 and GPT-4 on key benchmarks. The biggest differentiator, however, is cost. Cursor is serving Composer 2.5 at just 50 cents per million input tokens, and 250 per million output, making it half the cost of Opus 4.7 or GPT-4. This suggests a major performance boost comes from better reinforcement learning techniques on an existing base model, indicating significant room for leading open-source models to compete at the frontier. Cursor has also announced they are training a new model from scratch using XAI's Colossus 2 training cluster. This release is seen as creating an interesting open lane for companies to avoid becoming too locked into the large model providers.
+
+Next, Cloudflare has published their findings after working with Anthropic's secretive new model, Mythos. Cloudflare states that "Mythos Preview is a real step forward" and that its capabilities are not just a refinement of what came before, but a different kind of tool. Two key differences were highlighted. Unlike previous models, Mythos can create an exploit chain rather than just detecting single bugs, acting more like a senior researcher than an automated bug scanner. Second, it can generate functional exploits and proofs, rather than just identifying vulnerabilities. Mythos can also test and refine its exploits if they don't work the first time. This addresses the common criticism that other models could find similar bugs, by showing that Mythos goes further to provide full code for functional exploits, demonstrating exactly what needs to be patched.
+
+Lastly, one little bit of AI drama comes to a close. Elon Musk has lost his case against OpenAI and Sam Altman. After three weeks of testimony, the jury returned a unanimous verdict in just two hours. The jury found that Musk's claim of breach of charitable trust was barred by the statute of limitations, meaning he took too long to commence his lawsuit. Open AI successfully argued that Musk was aware of plans to form a for-profit company as early as 2018, having been sent a term sheet. The trial also surfaced Musk's own 2017 proposal to fold OpenAI into Tesla for commercial fundraising. With the core claims barred, the massive headline-grabbing tech trial fizzled into nothing, revealing much about the power struggles and internal discussions at OpenAI over the past decade.
+
+In our main segment today, we're diving into how to maximize Codex, following tips from Jason Lu of the Codex team. The overarching goal is to enable agents to work in parallel with humans, rather than an endless series of turns.
+
+1. Durable Threads: Use long-running, persistent threads for each key workstream. Codex's compaction system maintains context, allowing these threads to evolve like a persistent "chief of staff."
+
+2. Voice: Utilize Codex's excellent internal speech-to-text. "The art of the ramble" allows providing rich backstories, areas of uncertainty, and messy thoughts, fostering a deeper relationship with the AI.
+
+3. Steer: Leverage Codex's steer feature to add or update prompts mid-process without stopping the AI. This allows you and the agent to work in parallel, continuously refining as progress comes in.
+
+4. Memory: Beyond native memory features, build structured memory. Jason uses an Obsidian vault (a file-based note system) to turn thread learnings into inspectable, editable, and reusable artifacts, keeping track of people, decisions, and project states.
+
+5. Tools: Empower Codex with computer and browser use, as well as connectors to other systems like Slack or Gmail. This transforms Codex into an evidence-gatherer, allowing it to read files, run tests, check live documents, and interact across various environments.
+
+6. Disentangling Work: Utilize remote control features (available in the ChatGPT app). This allows you to interact with and steer long-running projects from mobile devices, capturing fresh ideas and redirecting work without being tied to a desktop.
+
+7. Heartbeats: Implement recurring or scheduled check-ins for threads. These heartbeats can cross tool boundaries, allowing the agent to check for updates, re-render, and post new versions in complex, multi-tool workflows automatically.
+
+8. Goals: Use Codex’s goal feature for projects with specific, knowable, and verifiable success criteria. This pushes the agent continuously towards an objective, unlike a normal prompt which might give up.
+
+9. Side Panel: The side panel is where Codex stops being merely a chat app and becomes a true workspace. It allows parallel processing of work by inspecting artifacts, operating web services, and reviewing changes, all while the agent is still working.
+
+These tips collectively aim to create a continuous, parallel workflow between human and AI, avoiding the traditional turn-based interaction model.</description>
+      <pubDate>Tue, 19 May 2026 19:19:45 -0000</pubDate>
+      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1779218385.mp3" length="3635757" type="audio/mpeg" />
+      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1779218385.mp3</guid>
+    </item>
+    <item>
       <title>BBC World News Digest: Desperation in Afghanistan leads to sale of children</title>
       <itunes:title>BBC World News Digest: Desperation in Afghanistan leads to sale of children</itunes:title>
       <description>BBC World News Digest: Desperation in Afghanistan leads to sale of children
@@ -1393,28 +1431,6 @@ That's all for this episode of The Intelligence. We'll see you back here tomorro
       <pubDate>Wed, 13 May 2026 16:56:22 -0000</pubDate>
       <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778691382.mp3" length="7835949" type="audio/mpeg" />
       <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778691382.mp3</guid>
-    </item>
-    <item>
-      <title>New York Times Hard Fork: OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM</title>
-      <itunes:title>New York Times Hard Fork: OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM</itunes:title>
-      <description>New York Times Hard Fork: OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM
-
-Welcome to Hard Fork, your weekly deep dive into the accelerating world of technology. This week, we unpack the dramatic shifts within OpenAI, the ethical quandaries of AI in medicine, and a fascinating linguistic experiment that casts light on AI's historical biases.
-
-We begin with the peculiar case of OpenAI's Codex, an AI so prone to mentioning goblins, gremlins, and pigeons that it required explicit instructions to cease its mythological ramblings. This humorous, yet revealing, anecdote sets the stage for a week of significant strategic recalibrations from OpenAI. The company has renegotiated its massive Microsoft deal, now allowing it to pursue partnerships with other cloud providers like Amazon and Google. This move, driven by the sheer computational demands of large AI models, signals a maturation from its earlier, tightly aligned strategy with Microsoft.
-
-Concurrently, OpenAI faces a high-stakes legal battle with co-founder Elon Musk. Musk accuses OpenAI of abandoning its original non-profit mission, transforming into a for-profit entity that's "looting a charity." OpenAI's defense portrays Musk as a disgruntled investor, bitter that the company succeeded without him, and highlights his own earlier proposals for a for-profit structure and even integration with Tesla. This trial, unfolding in Oakland, offers a rare, granular look into the internal power struggles and ideological clashes that have shaped one of the most influential AI companies. The outcome could significantly impact OpenAI's ambitious Stargate project and its long-term revenue models.
-
-Shifting to the critical intersection of AI and healthcare, we hear from Dr. Adam Rodman, an internal medicine physician at Harvard Medical School. Dr. Rodman describes an "astronomical growth" in AI adoption among doctors, with tools like AI scribes and Open Evidence decision support being widely used. Patients, too, are increasingly turning to chatbots for medical information, arriving at appointments armed with AI-generated insights. While this promises increased efficiency and access to care, concerns arise about the "deskilling" of new doctors who might over-rely on AI, potentially missing critical diagnostic cues. The ethical tightrope of integrating patient health records with AI systems for personalized care, balancing privacy with the potential for enhanced health outcomes, is a central challenge. However, the potential for early detection of notoriously difficult cancers, like pancreatic cancer by the Mayo Clinic's Redmod system, showcases AI's life-saving promise.
-
-Finally, we explore Taki, a vintage large language model trained exclusively on data from before 1931. This experiment probes how AI constructs meaning and forecasts the future when limited to a historical perspective. Taki, developed by David Duvenaud and his colleagues, exhibits a remarkably literary prose style, but also reveals biases and knowledge gaps inherent to its training data. When asked to predict 2026, it offers philosophical, sometimes inconsistent, answers about a peaceful future or impending doom. More disturbingly, it can produce racist responses, reflecting the problematic content of its historical dataset. This highlights a crucial question: how do we present AI outputs that are historically accurate yet ethically fraught? The Taki project serves as a powerful reminder that AI models are mirrors of their training data, reflecting not just knowledge, but also the societal values and prejudices of their time.
-
-The discussions this week on Hard Fork underscore the profound and multifaceted impact of AI. From the boardrooms of tech giants to the doctor's office, and into the very fabric of historical understanding, AI is not merely changing tools; it is reshaping structures, challenging ethics, and redefining the boundaries of knowledge itself.
-
-That's all for this edition of Hard Fork. Join us next time as we continue to track the cutting edge.</description>
-      <pubDate>Wed, 13 May 2026 16:51:36 -0000</pubDate>
-      <enclosure url="https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778691096.mp3" length="3191085" type="audio/mpeg" />
-      <guid>https://takaakinet-tech.github.io/news-ai-digest/episodes/episode_1778691096.mp3</guid>
     </item>
   </channel>
 </rss>
